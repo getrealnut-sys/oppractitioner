@@ -125,12 +125,14 @@ const Divider: React.FC = () => (
 
 interface PhraseVideoProps {
   phrases: PhraseEntry[];
-  hasAudio?: boolean;
+  hasAudio?: boolean;      // ambient background music (ambient.mp3 in public/)
+  voiceSrc?: string;       // voiceover filename in public/ e.g. 'video1-voice.mp3'
 }
 
 export const PhraseVideo: React.FC<PhraseVideoProps> = ({
   phrases,
   hasAudio = false,
+  voiceSrc,
 }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
@@ -187,7 +189,12 @@ export const PhraseVideo: React.FC<PhraseVideoProps> = ({
   // ─── Render ─────────────────────────────────────────────────────────────────
   return (
     <AbsoluteFill style={{ background: BRAND.bg, fontFamily: FONTS.display }}>
-      {/* Optional ambient audio */}
+      {/* Voiceover — full script read, synced to phrase timing */}
+      {voiceSrc && (
+        <Audio src={staticFile(voiceSrc)} volume={1.0} />
+      )}
+
+      {/* Optional ambient background music (barely-there texture) */}
       {hasAudio && (
         <Audio src={staticFile('ambient.mp3')} volume={0.12} loop />
       )}

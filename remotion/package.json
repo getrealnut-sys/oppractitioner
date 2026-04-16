@@ -5,9 +5,9 @@
   "scripts": {
     "dev": "npx remotion studio",
     "start": "npx remotion studio",
-    "render:v1": "npx remotion render Video1_AiresFocus out/video1-aires-focus.mp4",
-    "render:v2": "npx remotion render Video2_BodyBio out/video2-bodybio.mp4",
-    "render:v3": "npx remotion render Video3_AiresSleep out/video3-aires-sleep.mp4"
+    "render:v1": "npx remotion render Video1-AiresFocus out/video1-aires-focus.mp4",
+    "render:v2": "npx remotion render Video2-BodyBio out/video2-bodybio.mp4",
+    "render:v3": "npx remotion render Video3-AiresSleep out/video3-airessleep.mp4"
   },
   "dependencies": {
     "remotion": "^4.0.0",

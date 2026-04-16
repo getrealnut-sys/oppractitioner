@@ -24,7 +24,8 @@ export const RemotionRoot: React.FC = () => {
         height={1920}
         defaultProps={{
           phrases: video1AiresFocus.phrases,
-          hasAudio: false,  // Set to true after dropping ambient.mp3 in public/
+          voiceSrc: 'video1-voice.mp3',
+          hasAudio: false,                 // Set to true after dropping ambient.mp3 in public/
         }}
       />
 
@@ -38,6 +39,7 @@ export const RemotionRoot: React.FC = () => {
         height={1920}
         defaultProps={{
           phrases: video2BodyBio.phrases,
+          voiceSrc: 'video2-voice.mp3',
           hasAudio: false,
         }}
       />
@@ -52,6 +54,7 @@ export const RemotionRoot: React.FC = () => {
         height={1920}
         defaultProps={{
           phrases: video3AiresSleep.phrases,
+          voiceSrc: 'video3-voice.mp3',
           hasAudio: false,
         }}
       />
