@@ -3,113 +3,216 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Practitioner's Notes</title>
-    <meta name="description" content="Pattern observations from clinical practice. Real cases, real products, real results.">
+    <title>Opinionated Practitioner — Clinical Pattern Notes</title>
+    <meta name="description" content="Pattern observations from clinical practice. What I reach for when protocols stall.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Mono:wght@400&display=swap');
-
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
+        :root {
+            --black: #000000;
+            --green: #7DF9C2;
+            --green-dim: rgba(125, 249, 194, 0.12);
+            --green-border: #1A3D2A;
+            --white: #F5F5F0;
+            --dim: #4A4845;
+            --tag-bg: rgba(125, 249, 194, 0.07);
+        }
+
         body {
-            background: #0A0A0F;
-            color: #E8E6E1;
-            font-family: 'DM Sans', system-ui, sans-serif;
-            line-height: 1.7;
-            -webkit-font-smoothing: antialiased;
+            background: var(--black);
+            color: var(--white);
+            font-family: 'Space Grotesk', sans-serif;
             min-height: 100vh;
+            -webkit-font-smoothing: antialiased;
         }
 
         .page {
-            max-width: 520px;
+            max-width: 480px;
             margin: 0 auto;
-            padding: 3rem 1.5rem 4rem;
+            padding: 3rem 1.25rem 5rem;
         }
 
-        .tag {
-            font-family: 'DM Mono', monospace;
-            font-size: 0.7rem;
-            letter-spacing: 0.15em;
+        /* ── Header ── */
+        .header {
+            margin-bottom: 2.5rem;
+            text-align: center;
+        }
+
+        .handle-tag {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.72rem;
+            letter-spacing: 0.18em;
             text-transform: uppercase;
-            color: #7A7670;
-            margin-bottom: 2rem;
-            display: block;
-        }
-
-        h1 {
-            font-size: 1.4rem;
-            font-weight: 500;
-            color: #E8E6E1;
-            margin-bottom: 0.5rem;
-            letter-spacing: -0.01em;
-        }
-
-        .subtitle {
-            color: #7A7670;
-            font-size: 0.9rem;
-            margin-bottom: 3rem;
-        }
-
-        .section-label {
-            font-family: 'DM Mono', monospace;
-            font-size: 0.65rem;
-            letter-spacing: 0.15em;
-            text-transform: uppercase;
-            color: #4A4845;
+            color: var(--green);
+            display: inline-block;
+            background: var(--tag-bg);
+            border: 1px solid var(--green-border);
+            padding: 0.3rem 0.8rem;
+            border-radius: 3px;
             margin-bottom: 1rem;
-            display: block;
         }
 
+        .brand-name {
+            font-size: 2rem;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            line-height: 1.1;
+            margin-bottom: 0.6rem;
+        }
+
+        .brand-name .op {
+            color: var(--green);
+        }
+
+        .brand-tagline {
+            font-size: 0.88rem;
+            color: var(--dim);
+            font-family: 'IBM Plex Mono', monospace;
+            letter-spacing: 0.04em;
+        }
+
+        /* ── Section label ── */
+        .section-label {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.65rem;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            color: var(--green);
+            opacity: 0.6;
+            display: block;
+            margin-bottom: 0.75rem;
+        }
+
+        /* ── Pattern cards ── */
         .pattern-list {
             list-style: none;
             display: flex;
             flex-direction: column;
             gap: 0.75rem;
-            margin-bottom: 3rem;
+            margin-bottom: 2.5rem;
         }
 
         .pattern-list a {
             display: block;
-            padding: 1.1rem 1.25rem;
-            border: 1px solid #1E1E26;
-            border-radius: 6px;
+            padding: 1.25rem 1.25rem 1.25rem 1.5rem;
+            border: 1px solid var(--green-border);
+            border-left: 3px solid var(--green);
+            border-radius: 4px;
             text-decoration: none;
-            color: #E8E6E1;
-            transition: border-color 0.15s, background 0.15s;
+            color: var(--white);
+            background: var(--green-dim);
+            transition: background 0.15s, border-color 0.15s, transform 0.1s;
+            position: relative;
         }
 
         .pattern-list a:hover {
-            border-color: #3A3A48;
-            background: #111118;
+            background: rgba(125, 249, 194, 0.18);
+            border-color: var(--green);
+            transform: translateX(3px);
         }
 
         .pattern-title {
-            font-size: 0.95rem;
-            font-weight: 500;
+            font-size: 1rem;
+            font-weight: 600;
             display: block;
-            margin-bottom: 0.25rem;
+            margin-bottom: 0.3rem;
+            color: var(--white);
         }
 
         .pattern-desc {
-            font-size: 0.8rem;
+            font-size: 0.82rem;
             color: #7A7670;
             display: block;
+            line-height: 1.5;
         }
 
-        .disclosure {
-            font-size: 0.72rem;
-            color: #4A4845;
-            border-top: 1px solid #1E1E26;
-            padding-top: 1.5rem;
-            line-height: 1.6;
+        .pattern-arrow {
+            position: absolute;
+            right: 1.25rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--green);
+            font-size: 1.1rem;
+            opacity: 0.7;
         }
+
+        /* ── Promo strip ── */
+        .promo-strip {
+            background: var(--tag-bg);
+            border: 1px solid var(--green-border);
+            border-radius: 4px;
+            padding: 0.9rem 1.25rem;
+            margin-bottom: 2.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .promo-dot {
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            background: var(--green);
+            flex-shrink: 0;
+            animation: pulse 1.8s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.3; }
+        }
+
+        .promo-text {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.75rem;
+            color: var(--green);
+            letter-spacing: 0.04em;
+        }
+
+        /* ── Disclosure ── */
+        .disclosure {
+            font-size: 0.7rem;
+            color: var(--dim);
+            border-top: 1px solid #111;
+            padding-top: 1.5rem;
+            line-height: 1.7;
+            font-family: 'IBM Plex Mono', monospace;
+        }
+
+        /* ── Scan line animation (subtle terminal vibe) ── */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: repeating-linear-gradient(
+                0deg,
+                transparent,
+                transparent 2px,
+                rgba(0,0,0,0.03) 2px,
+                rgba(0,0,0,0.03) 4px
+            );
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .page { position: relative; z-index: 1; }
     </style>
 </head>
 <body>
     <div class="page">
-        <span class="tag">@oppractitioner</span>
 
-        <h1>Pattern observations.</h1>
-        <p class="subtitle">From clinical practice. If you found this from a video, the full breakdown is below.</p>
+        <div class="header">
+            <span class="handle-tag">@oppractitioner</span>
+            <h1 class="brand-name"><span class="op">Opinionated</span> Practitioner</h1>
+            <p class="brand-tagline">Pattern observations from clinical practice.</p>
+        </div>
+
+        <div class="promo-strip">
+            <div class="promo-dot"></div>
+            <span class="promo-text">BodyBio PC — 20% off this week. Code GETREAL247</span>
+        </div>
 
         <span class="section-label">Current patterns</span>
         <ul class="pattern-list">
@@ -117,12 +220,14 @@
                 <a href="aires-emf.html">
                     <span class="pattern-title">EMF + Focus / Sleep</span>
                     <span class="pattern-desc">The home office brain fog pattern. Why location matters more than habits.</span>
+                    <span class="pattern-arrow">→</span>
                 </a>
             </li>
             <li>
                 <a href="bodybio-membrane.html">
                     <span class="pattern-title">Cell Membrane + Absorption</span>
                     <span class="pattern-desc">Why labs stay flat despite a solid protocol. The membrane issue nobody checks first.</span>
+                    <span class="pattern-arrow">→</span>
                 </a>
             </li>
         </ul>

@@ -108,8 +108,8 @@ export const video2BodyBio: ScriptData = {
     {
       type: 'phrase',
       segments: [
-        { text: "The issue isn't the protocol.\nIt's the " },
-        { text: 'membrane.', green: true },
+        { text: "Often the issue isn't the protocol.\nIt may be " },
+        { text: 'membrane function.', green: true },
       ],
       tag: 'ROOT PATTERN',
       startFrame: 227,
@@ -182,7 +182,7 @@ export const video3AiresSleep: ScriptData = {
     {
       type: 'product',
       segments: [{ text: 'Aires Lifetune\nin the bedroom.' }],
-      qualifier: 'Two weeks later.\nSleep normalized.',
+      qualifier: 'Two weeks later.\nSleep came back.',
       tag: 'WHAT I REACH FOR',
       startFrame: 376,
     },
