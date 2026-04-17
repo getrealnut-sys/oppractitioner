@@ -5,10 +5,10 @@
 cd C:\Users\mia22\AI_Social_Media_Manager_SHG-LLC\oppractitioner-site\remotion
 
 # ─── STEP 1: Sync audio timing ───────────────────────────────────────────────
-# Re-runs on local machine (sandbox already synced scripts-batch2.ts but
-# local run confirms timing against Windows audio stack)
-pip install pydub --break-system-packages -q
-python sync-timing-batch2.py
+# UPDATED: pydub broken on Python 3.14 + no ffmpeg installed.
+# Use sync-timing-universal.py — mutagen only, pure Python, no ffmpeg needed.
+pip install mutagen --break-system-packages -q
+python sync-timing-universal.py batch2
 
 # ─── STEP 2: Render all 3 videos ─────────────────────────────────────────────
 npx remotion render src/index.ts Video5-InfiniWellHHS out/video5-infiniwell-hhs.mp4

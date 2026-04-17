@@ -16,6 +16,10 @@ import {
   video5InfiniWellHHS,
   video6InfiniWellRecovery,
 } from './scripts-batch2';
+import {
+  video7AiresTravel,
+  video8BodyBioAbsorption,
+} from './scripts-batch3';
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -110,6 +114,37 @@ export const RemotionRoot: React.FC = () => {
         defaultProps={{
           phrases: video6InfiniWellRecovery.phrases,
           voiceSrc: 'video6-voice.mp3',
+          hasAudio: false,
+        }}
+      />
+      {/* ── BATCH 3: Aires Travel + BodyBio Absorption ───────────────────────── */}
+
+      {/* Video 7: Aires — Travel Pattern (~16 sec) */}
+      <Composition
+        id={video7AiresTravel.compositionId}
+        component={PhraseVideo}
+        durationInFrames={video7AiresTravel.totalFrames}
+        fps={video7AiresTravel.fps}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          phrases: video7AiresTravel.phrases,
+          voiceSrc: 'video7-voice.mp3',
+          hasAudio: false,
+        }}
+      />
+
+      {/* Video 8: BodyBio — Supplement Absorption Pattern (~17 sec) */}
+      <Composition
+        id={video8BodyBioAbsorption.compositionId}
+        component={PhraseVideo}
+        durationInFrames={video8BodyBioAbsorption.totalFrames}
+        fps={video8BodyBioAbsorption.fps}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          phrases: video8BodyBioAbsorption.phrases,
+          voiceSrc: 'video8-voice.mp3',
           hasAudio: false,
         }}
       />

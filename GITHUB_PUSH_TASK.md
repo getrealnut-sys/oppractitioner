@@ -3,19 +3,26 @@
 
 cd C:\Users\mia22\AI_Social_Media_Manager_SHG-LLC\oppractitioner-site
 
-git add index.html CLAUDE.md STRATEGY.md AFFILIATES.md infiniwell-peptides.html content_log.md CLAUDE_CODE_UPLOAD_TASK.md GITHUB_PUSH_TASK.md CLAUDE_CODE_RENDER_BATCH2.md remotion/src/Root.tsx remotion/src/scripts-batch2.ts remotion/sync-timing-batch2.py docs/
-git commit -m "Batch 2 complete: InfiniWell BPC-157 scripts + render pipeline
+git add .gitignore content_log.md GITHUB_PUSH_TASK.md CLAUDE_CODE_RENDER_BATCH2.md CLAUDE_CODE_RENDER_BATCH3.md remotion/sync-timing-universal.py remotion/src/Root.tsx remotion/src/scripts-batch3.ts remotion/sync-timing-batch3.py docs/batch3_aires_bodybio_scripts.md
+git commit -m "Timing fix + Batch 3: universal sync script (no ffmpeg, Python 3.14)
 
-- remotion/src/scripts-batch2.ts: 3 InfiniWell scripts, timing synced
-  to audio (V4 gut lining, V5 HHS hook, V6 recovery plateau)
-- remotion/src/Root.tsx: batch 2 compositions registered
-- remotion/sync-timing-batch2.py: pydub offline timing sync for batch 2
-- CLAUDE_CODE_RENDER_BATCH2.md: end-to-end render+upload+schedule task
-- infiniwell-peptides.html: BPC-157 value page live
-- index.html: InfiniWell pattern card added
-- AFFILIATES.md: A-B-C rotation locked, InfiniWell active
-- STRATEGY.md: growth playbook + dispensary funnel
-- CLAUDE.md: InfiniWell affiliate added"
+TIMING FIX:
+- remotion/sync-timing-universal.py: replaces pydub-based sync scripts
+  Uses mutagen (pure Python, no ffmpeg) for MP3 duration, distributes
+  startFrames by word count (proportional ElevenLabs pacing).
+  Works on Python 3.14+. Handles batch2 + batch3.
+- CLAUDE_CODE_RENDER_BATCH2.md: updated to use universal sync
+- CLAUDE_CODE_RENDER_BATCH3.md: uses universal sync from the start
+
+BATCH 3:
+- remotion/src/scripts-batch3.ts: V7 Aires travel, V8 BodyBio absorption
+- remotion/src/Root.tsx: batch 3 compositions registered (Video7, Video8)
+- remotion/sync-timing-batch3.py: kept for reference, superseded by universal
+- docs/batch3_aires_bodybio_scripts.md: voiceover scripts + compliance audit
+
+HOUSEKEEPING:
+- content_log.md: batch 2 post IDs logged (4c9cc579, 9e03f8b2, 8a3dd024)
+- .gitignore: remotion/public/*.mp3 excluded"
 git push origin main
 
 # After push, GitHub Pages will update within ~60 seconds.
