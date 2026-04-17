@@ -47,6 +47,7 @@
 |---|---|---|---|---|
 | Aires Lifetune ONE | airestech.com/getreal | Commission boost | Ends 2026-04-17 | 🔴 HIGH |
 | BodyBio PC | bodybio.com/GETREAL247 | 20% off, code GETREAL247 | Ends 2026-04-21 | 🟡 STANDARD |
+| InfiniWell BPC-157 | https://bit.ly/4e3vGOU | 15% commission, no promo code | Rolling | 🟢 ACTIVE |
 
 **Update this table when promo windows open or close.**
 
@@ -102,6 +103,7 @@
 - `isBrandedContent: true` on all Blotato posts (all content is affiliate).
 - **Git operations: never use the bash sandbox for git. Always create a task file and route through Claude Code on the local machine.**
 - **Blotato uploads: never use the bash sandbox for file uploads. Always route through Claude Code.**
+- `.gitignore` is in place — `remotion/node_modules/` and `remotion/out/` are excluded from git. Never try to commit those directories.
 
 ---
 
@@ -125,7 +127,7 @@ oppractitioner-site/
     ├── src/PhraseVideo.tsx       ← video component
     ├── src/brand.ts              ← brand colors + fonts
     ├── public/                   ← audio files (voice MP3s)
-    ├── out/                      ← rendered MP4s ready to upload
+    ├── out/                      ← rendered MP4s ready to upload [GITIGNORED — not in repo]
     └── sync-timing.py            ← auto-sync phrase timing to audio
 ```
 
