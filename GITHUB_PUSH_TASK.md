@@ -3,16 +3,19 @@
 
 cd C:\Users\mia22\AI_Social_Media_Manager_SHG-LLC\oppractitioner-site
 
-git add index.html CLAUDE.md STRATEGY.md AFFILIATES.md infiniwell-peptides.html content_log.md CLAUDE_CODE_UPLOAD_TASK.md GITHUB_PUSH_TASK.md docs/
-git commit -m "Add InfiniWell BPC-157 affiliate + strategy bible
+git add index.html CLAUDE.md STRATEGY.md AFFILIATES.md infiniwell-peptides.html content_log.md CLAUDE_CODE_UPLOAD_TASK.md GITHUB_PUSH_TASK.md CLAUDE_CODE_RENDER_BATCH2.md remotion/src/Root.tsx remotion/src/scripts-batch2.ts remotion/sync-timing-batch2.py docs/
+git commit -m "Batch 2 complete: InfiniWell BPC-157 scripts + render pipeline
 
-- infiniwell-peptides.html: value page — peptides + recovery stalls,
-  BPC-157 clinical pattern, HHS context, affiliate link bit.ly/4e3vGOU
-- index.html: InfiniWell card added to pattern list
-- AFFILIATES.md: InfiniWell confirmed active (15% commission, 30-day cookie)
-  full A-B-C rotation documented, dispensary/wholesale strategy noted
-- STRATEGY.md: full growth playbook + dispensary funnel model
-- CLAUDE.md: InfiniWell added to affiliate table"
+- remotion/src/scripts-batch2.ts: 3 InfiniWell scripts, timing synced
+  to audio (V4 gut lining, V5 HHS hook, V6 recovery plateau)
+- remotion/src/Root.tsx: batch 2 compositions registered
+- remotion/sync-timing-batch2.py: pydub offline timing sync for batch 2
+- CLAUDE_CODE_RENDER_BATCH2.md: end-to-end render+upload+schedule task
+- infiniwell-peptides.html: BPC-157 value page live
+- index.html: InfiniWell pattern card added
+- AFFILIATES.md: A-B-C rotation locked, InfiniWell active
+- STRATEGY.md: growth playbook + dispensary funnel
+- CLAUDE.md: InfiniWell affiliate added"
 git push origin main
 
 # After push, GitHub Pages will update within ~60 seconds.
