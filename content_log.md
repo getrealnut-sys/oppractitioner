@@ -15,13 +15,13 @@ Update this every time a video goes live on TikTok.
 
 ## Scheduled (Not Yet Live)
 
-| Video | Product | Scheduled Date/Time (ET) | Blotato Post ID |
-|---|---|---|---|
-| video2-bodybio.mp4 | BodyBio PC | 2026-04-16 11:00 PM ET | 8bc06d33-6a0f-491f-aed7-52ffda2a1f97 |
-| video3-airessleep.mp4 | Aires Lifetune ONE | 2026-04-17 8:00 AM ET | 9a75fb43-6fcc-478b-8a21-484a288f12e8 |
-| video5-infiniwell-hhs.mp4 | InfiniWell BPC-157 | 2026-04-18 8:00 AM ET | 4c9cc579 |
-| video4-infiniwell-gut.mp4 | InfiniWell BPC-157 | 2026-04-20 8:00 AM ET | 9e03f8b2 |
-| video6-infiniwell-recovery.mp4 | InfiniWell BPC-157 | 2026-04-22 8:00 AM ET | 8a3dd024 |
+| Video | Product | Scheduled Date/Time (ET) | Blotato Schedule ID | Caption Link | Flags |
+|---|---|---|---|---|---|
+| video2-bodybio.mp4 | BodyBio PC | 2026-04-17 1:00 AM ET | 766156 | ✅ Link added | ✅ isBranded/isAI |
+| video3-airessleep.mp4 | Aires Lifetune ONE | 2026-04-17 10:00 AM ET | 766164 | ✅ Link added | ✅ isBranded/isAI |
+| video5-infiniwell-hhs.mp4 | InfiniWell BPC-157 | 2026-04-18 8:00 AM ET | 766269 | ✅ Link added | ✅ isBranded/isAI |
+| video4-infiniwell-gut.mp4 | InfiniWell BPC-157 | 2026-04-20 8:00 AM ET | 765882 | ✅ Link added | ✅ isBranded/isAI |
+| video6-infiniwell-recovery.mp4 | InfiniWell BPC-157 | 2026-04-22 8:00 AM ET | 765883 | ✅ Link added | ✅ isBranded/isAI |
 
 ---
 
