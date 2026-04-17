@@ -21,6 +21,7 @@ import sys
 
 PUBLIC = os.path.join(os.path.dirname(__file__), 'public')
 SCRIPTS_TS = os.path.join(os.path.dirname(__file__), 'src', 'scripts.ts')
+SCRIPTS_BATCH2_TS = os.path.join(os.path.dirname(__file__), 'src', 'scripts-batch2.ts')
 FPS = 30
 
 # ── Phrase definitions (plain text, in order, matching scripts.ts) ────────────
@@ -30,6 +31,7 @@ VIDEOS = [
     {
         'audio': os.path.join(PUBLIC, 'video1-voice.mp3'),
         'composition': 'Video1-AiresFocus',
+        'scripts_file': SCRIPTS_TS,
         'phrases': [
             "One pattern I keep running into",
             "Can't focus at home",
@@ -44,6 +46,7 @@ VIDEOS = [
     {
         'audio': os.path.join(PUBLIC, 'video2-voice.mp3'),
         'composition': 'Video2-BodyBio',
+        'scripts_file': SCRIPTS_TS,
         'phrases': [
             "Something I wish more practitioners checked first",
             "Client doing everything right Labs still flat",
@@ -57,6 +60,7 @@ VIDEOS = [
     {
         'audio': os.path.join(PUBLIC, 'video3-voice.mp3'),
         'composition': 'Video3-AiresSleep',
+        'scripts_file': SCRIPTS_TS,
         'phrases': [
             "Here's one that surprised me",
             "Client's sleep just falls apart No obvious trigger",
@@ -64,6 +68,47 @@ VIDEOS = [
             "Three months before the sleep issues started Nobody connected the two",
             "Aires Lifetune in the bedroom Two weeks later Sleep normalized",
             "Worth testing when nothing else explains the shift",
+            "Link in bio",
+        ],
+    },
+    # ── Batch 2: InfiniWell BPC-157 ───────────────────────────────────────────
+    {
+        'audio': os.path.join(PUBLIC, 'video4-voice.mp3'),
+        'composition': 'Video4-InfiniWellGut',
+        'scripts_file': SCRIPTS_BATCH2_TS,
+        'phrases': [
+            "Something I check when gut protocols aren't landing",
+            "Good protocol Clean diet Right supplements",
+            "Gut symptoms won't clear",
+            "I look at gut lining integrity The layer everything has to pass through",
+            "InfiniWell BPC-157 Delayed Studied for gut mucosal support",
+            "One pattern I watch when the gut isn't responding to protocol changes",
+            "Link in bio",
+        ],
+    },
+    {
+        'audio': os.path.join(PUBLIC, 'video5-voice.mp3'),
+        'composition': 'Video5-InfiniWellHHS',
+        'scripts_file': SCRIPTS_BATCH2_TS,
+        'phrases': [
+            "HHS just called for more peptide research",
+            "This space has been in integrative practice for years",
+            "One I keep coming back to BPC-157",
+            "Gut lining Tissue repair Recovery support",
+            "InfiniWell BPC-157 The regulation is catching up",
+            "Link in bio",
+        ],
+    },
+    {
+        'audio': os.path.join(PUBLIC, 'video6-voice.mp3'),
+        'composition': 'Video6-InfiniWellRecovery',
+        'scripts_file': SCRIPTS_BATCH2_TS,
+        'phrases': [
+            "When recovery just stops at 80 percent",
+            "Injury is old Protocol is right Progress just plateaus",
+            "Tissue repair needs more than ingredients It may need the right signaling environment",
+            "InfiniWell BPC-157 Rapid What I add when timelines keep extending",
+            "Worth testing when the gap won't close",
             "Link in bio",
         ],
     },
@@ -121,13 +166,15 @@ def seconds_to_frame(seconds, fps=FPS):
     return int(round(seconds * fps))
 
 
-def update_scripts_ts(composition_id, new_frames):
+def update_scripts_ts(composition_id, new_frames, content=None):
     """
-    Rewrite startFrame values for a given composition in scripts.ts.
+    Rewrite startFrame values for a given composition in the given scripts content string.
     new_frames: list of int frame numbers, in phrase order.
+    content: the full file content string to update (reads SCRIPTS_TS if None).
     """
-    with open(SCRIPTS_TS, 'r', encoding='utf-8') as f:
-        content = f.read()
+    if content is None:
+        with open(SCRIPTS_TS, 'r', encoding='utf-8') as f:
+            content = f.read()
 
     # Find the block for this composition and replace startFrame values
     # Strategy: find all startFrame occurrences after the compositionId line
@@ -165,13 +212,18 @@ def update_scripts_ts(composition_id, new_frames):
 def main():
     print("\n🎙  Remotion Timing Sync\n" + "─" * 40)
 
-    with open(SCRIPTS_TS, 'r', encoding='utf-8') as f:
-        scripts_content = f.read()
+    # Load both scripts files
+    scripts_contents = {}
+    for sf in set(v['scripts_file'] for v in VIDEOS):
+        with open(sf, 'r', encoding='utf-8') as f:
+            scripts_contents[sf] = f.read()
 
     for video in VIDEOS:
         audio = video['audio']
         comp = video['composition']
         phrases = video['phrases']
+        sf = video['scripts_file']
+        scripts_content = scripts_contents[sf]
 
         print(f"\n▶  {comp}")
 
@@ -210,10 +262,13 @@ def main():
             else:
                 resolved.append(0)
 
-        scripts_content = update_scripts_ts(comp, resolved)
+        scripts_contents[sf] = update_scripts_ts(comp, resolved, scripts_contents[sf])
 
-    with open(SCRIPTS_TS, 'w', encoding='utf-8') as f:
-        f.write(scripts_content)
+    # Write all updated scripts files
+    for sf, content in scripts_contents.items():
+        with open(sf, 'w', encoding='utf-8') as f:
+            f.write(content)
+        print(f"\n✅  {os.path.basename(sf)} updated.")
 
     print("\n✅  scripts.ts updated with synced timing.\n")
     print("Next: refresh Remotion Studio and play each video to verify.\n")
