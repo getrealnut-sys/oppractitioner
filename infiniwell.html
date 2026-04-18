@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>InfiniWell — Peptide Pattern Notes | OP</title>
+    <meta name="description" content="Pattern observations on BPC-157 from clinical practice. Gut lining. Tendon and fascia. Recovery plateau.">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Mono:wght@400&display=swap');
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            background: #0A0A0F;
+            color: #E8E6E1;
+            font-family: 'DM Sans', system-ui, sans-serif;
+            line-height: 1.7;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .page {
+            max-width: 520px;
+            margin: 0 auto;
+            padding: 3rem 1.5rem 4rem;
+        }
+
+        .tag {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.7rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: #6B8F71;
+            margin-bottom: 1.5rem;
+        }
+
+        h1.brand-h1 {
+            font-size: 1.8rem;
+            font-weight: 700;
+            line-height: 1.25;
+            margin-bottom: 1rem;
+            color: #F0EEEA;
+        }
+
+        .brand-intro {
+            font-size: 0.95rem;
+            color: #9A968E;
+            margin-bottom: 2rem;
+        }
+
+        .toc {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.75rem;
+            letter-spacing: 0.04em;
+            color: #7A7670;
+            border: 1px solid #1A1A22;
+            border-radius: 4px;
+            padding: 1rem 1.25rem;
+            margin-bottom: 3rem;
+        }
+
+        .toc-label {
+            color: #6B8F71;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            font-size: 0.65rem;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .toc a {
+            color: #C4C0B8;
+            text-decoration: none;
+            display: block;
+            padding: 0.3rem 0;
+            border-bottom: 1px dashed #1F1F27;
+            transition: color 0.15s;
+        }
+
+        .toc a:last-child { border-bottom: none; }
+        .toc a:hover { color: #F0EEEA; }
+
+        .observation {
+            margin-bottom: 3rem;
+            scroll-margin-top: 2rem;
+        }
+
+        .observation-label {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.7rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: #6B8F71;
+            margin-bottom: 0.75rem;
+        }
+
+        h2.observation-headline {
+            font-size: 1.3rem;
+            font-weight: 700;
+            line-height: 1.35;
+            margin-bottom: 1.5rem;
+            color: #F0EEEA;
+        }
+
+        .pattern-block {
+            border-left: 2px solid #6B8F71;
+            padding-left: 1.25rem;
+            margin-bottom: 2rem;
+        }
+
+        .pattern-block p {
+            font-size: 0.95rem;
+            color: #C4C0B8;
+            margin-bottom: 0.75rem;
+        }
+
+        .reach-for {
+            margin-bottom: 1.5rem;
+        }
+
+        .reach-for h3 {
+            font-size: 0.75rem;
+            font-weight: 500;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: #7A7670;
+            margin-bottom: 0.5rem;
+        }
+
+        .reach-for p {
+            font-size: 0.95rem;
+            color: #C4C0B8;
+        }
+
+        .product-name {
+            color: #F0EEEA;
+            font-weight: 700;
+        }
+
+        .context-note {
+            background: rgba(107, 143, 113, 0.07);
+            border: 1px solid rgba(107, 143, 113, 0.2);
+            border-radius: 4px;
+            padding: 1rem 1.25rem;
+            margin-bottom: 2.5rem;
+        }
+
+        .context-note p {
+            font-size: 0.85rem;
+            color: #8A9E8D;
+            font-family: 'DM Mono', monospace;
+            line-height: 1.6;
+        }
+
+        .context-note strong {
+            color: #A8C4AB;
+        }
+
+        .observation-divider {
+            border: none;
+            border-top: 1px dashed #2A2A32;
+            margin: 3rem 0 2rem;
+        }
+
+        .cta-block {
+            margin: 3rem 0 1rem;
+            padding: 2rem 1.5rem;
+            background: rgba(107, 143, 113, 0.05);
+            border: 1px solid rgba(107, 143, 113, 0.15);
+            border-radius: 6px;
+        }
+
+        .cta-heading {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.7rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: #6B8F71;
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        .cta-link {
+            display: block;
+            text-align: center;
+            background: #F0EEEA;
+            color: #0A0A0F;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1rem;
+            padding: 1rem 2rem;
+            border-radius: 4px;
+            letter-spacing: 0.02em;
+            transition: opacity 0.2s;
+        }
+
+        .cta-link:hover { opacity: 0.9; }
+
+        .promo-note {
+            text-align: center;
+            font-size: 0.8rem;
+            color: #6B8F71;
+            margin-top: 0.75rem;
+            font-family: 'DM Mono', monospace;
+        }
+
+        .disclosure {
+            margin-top: 3rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid #1A1A22;
+            font-size: 0.75rem;
+            color: #5A5850;
+            line-height: 1.6;
+        }
+
+        @media (max-width: 480px) {
+            .page { padding: 2rem 1.25rem 3rem; }
+            h1.brand-h1 { font-size: 1.5rem; }
+            h2.observation-headline { font-size: 1.15rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <a href="index.html" style="display:inline-block; font-family:'DM Mono',monospace; font-size:0.65rem; letter-spacing:0.12em; text-transform:uppercase; color:#4A4845; text-decoration:none; margin-bottom:2rem;">← All patterns</a>
+
+        <div class="tag">Brand: InfiniWell</div>
+
+        <h1 class="brand-h1">BPC-157 — three clinical surfaces, one pentadecapeptide</h1>
+
+        <p class="brand-intro">InfiniWell shows up in my notes when a protocol is already well-designed and the case still isn't moving. Three pattern observations below — different clinical surfaces, same active compound, different delivery profiles.</p>
+
+        <div class="context-note">
+            <p><strong>Category context:</strong> HHS flagged peptides as a research priority in early 2026. This is a space integrative practice has been observing for close to a decade. The regulatory attention is catching up to the clinical pattern.</p>
+        </div>
+
+        <div class="toc">
+            <span class="toc-label">Observations on this page</span>
+            <a href="#observation-1-gut-lining">1 · Gut lining — when the protocol is right but the epithelium isn't</a>
+            <a href="#observation-2-tendon-fascia">2 · Tendon and fascia — soft-tissue recovery signaling</a>
+            <a href="#observation-3-recovery-plateau">3 · Recovery plateau — the last twenty percent refuses to return</a>
+        </div>
+
+        <!-- OBSERVATION 1 — Gut lining -->
+        <section class="observation" id="observation-1-gut-lining">
+            <div class="observation-label">Observation 1 · Gut mucosal repair</div>
+            <h2 class="observation-headline">The layer every gut protocol has to pass through.</h2>
+
+            <div class="pattern-block">
+                <p>The pattern shows up in clients who have done the work. Clean diet. Right protein. Right binders. Right probiotics. Six months in, symptoms still recur — bloating after meals that shouldn't trigger it, intermittent food reactivity, stool that keeps shifting. The standard protocol has landed every downstream input correctly.</p>
+                <p>The limiting variable is often the gut lining itself. When the epithelium is chronically inflamed, tight junctions stay open. Food particles keep triggering the immune layer. The microbiome gets disrupted before it can stabilize. Every input reaches a closed door.</p>
+                <p>BPC-157 — Body Protection Compound, a pentadecapeptide — has been studied for mucosal support specifically. The delayed-release oral form from InfiniWell is the one I reach for when the protocol is already right and the lining is the layer that hasn't been addressed. Not a replacement for the protocol. The floor it's standing on.</p>
+            </div>
+
+            <div class="reach-for">
+                <h3>What I reach for</h3>
+                <p><span class="product-name">InfiniWell BPC-157 Delayed.</span> Oral pentadecapeptide, delayed-release format targeted at the gut mucosal layer. Short course. Tracked against the rest of the protocol. Usually run in the window where standard inputs have stopped producing change.</p>
+            </div>
+        </section>
+
+        <hr class="observation-divider">
+
+        <!-- OBSERVATION 2 — Tendon + fascia -->
+        <section class="observation" id="observation-2-tendon-fascia">
+            <div class="observation-label">Observation 2 · Soft-tissue repair signaling</div>
+            <h2 class="observation-headline">The peptide practitioners reached for before it was news.</h2>
+
+            <div class="pattern-block">
+                <p>HHS flagged peptides as a research priority this year. In clinical practice, the space has been active for close to a decade. One compound keeps coming back — not because of the hype, because the pattern of response keeps showing up in cases that don't fit the standard protocol.</p>
+                <p>BPC-157 is a pentadecapeptide — fifteen amino acids — derived from a protective sequence the gastric system already produces. The research base keeps returning to the same three clinical surfaces: gut mucosal support, soft-tissue repair, and recovery signaling in cases where the standard protocol has plateaued.</p>
+                <p>InfiniWell offers two release profiles off the same active compound. Delayed-release for gut-lining cases. Rapid-release for soft-tissue and recovery cases. Same pentadecapeptide. Different delivery targets. The split lets a practitioner match the delivery profile to the clinical surface without stacking products.</p>
+            </div>
+
+            <div class="reach-for">
+                <h3>What I reach for</h3>
+                <p><span class="product-name">InfiniWell BPC-157 (Delayed + Rapid formats).</span> Match the release profile to the clinical surface. Delayed for mucosal, rapid for soft-tissue. Short course in both directions. The body recognizes the sequence before the research catches up.</p>
+            </div>
+        </section>
+
+        <hr class="observation-divider">
+
+        <!-- OBSERVATION 3 — Recovery plateau -->
+        <section class="observation" id="observation-3-recovery-plateau">
+            <div class="observation-label">Observation 3 · Recovery plateau</div>
+            <h2 class="observation-headline">When the last twenty percent refuses to come back.</h2>
+
+            <div class="pattern-block">
+                <p>The pattern: old injury, well-designed protocol, right amino acids, right mineral cofactors, right movement rehab. Progress lands in the first phase. Then it stalls around seventy-five to eighty percent of baseline and refuses to close the gap.</p>
+                <p>The frame that shifts these cases is the difference between inputs and signaling. A protocol can deliver every nutrient on the list and still stall if the body isn't receiving the repair signal. Cells need to know the job isn't finished. In plateau cases, a signaling molecule moves the needle where a tenth nutrient wouldn't.</p>
+                <p>BPC-157 Rapid from InfiniWell is the faster-release format of the same pentadecapeptide, targeted at soft tissue. Short course, tracked carefully, stopped when the plateau breaks. Not a forever protocol. A test input when the last twenty percent refuses to come back.</p>
+            </div>
+
+            <div class="reach-for">
+                <h3>What I reach for</h3>
+                <p><span class="product-name">InfiniWell BPC-157 Rapid.</span> Rapid-release pentadecapeptide for soft-tissue and recovery signaling. Used as a signaling-layer test input when the build is right and the curve has flattened.</p>
+            </div>
+        </section>
+
+        <!-- Shared CTA -->
+        <div class="cta-block">
+            <div class="cta-heading">Where I send clients</div>
+            <a href="https://bit.ly/4e3vGOU" class="cta-link" target="_blank" rel="noopener">Shop InfiniWell</a>
+            <div class="promo-note">15% commission / 30-day cookie — no extra cost to you</div>
+        </div>
+
+        <div class="disclosure">
+            DISCLOSURE: The link on this page is an affiliate link. I earn a commission on purchases at no extra cost to you. I only reference products I've observed in clinical practice. This page is for educational purposes and is not medical advice.
+        </div>
+    </div>
+</body>
+</html>

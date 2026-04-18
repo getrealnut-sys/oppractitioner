@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pendulum — Akkermansia Pattern Notes | OP</title>
+    <meta name="description" content="Pattern observations on the keystone gut strain from clinical practice. Metabolic stalls with antibiotic or C-section history.">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Mono:wght@400&display=swap');
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            background: #0A0A0F;
+            color: #E8E6E1;
+            font-family: 'DM Sans', system-ui, sans-serif;
+            line-height: 1.7;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .page {
+            max-width: 520px;
+            margin: 0 auto;
+            padding: 3rem 1.5rem 4rem;
+        }
+
+        /* DRAFT BANNER — remove before publish */
+        .draft-banner {
+            background: rgba(180, 120, 40, 0.1);
+            border: 1px solid rgba(180, 120, 40, 0.4);
+            border-radius: 4px;
+            padding: 0.75rem 1rem;
+            margin-bottom: 2rem;
+            font-family: 'DM Mono', monospace;
+            font-size: 0.75rem;
+            color: #C49A5C;
+            text-align: center;
+            letter-spacing: 0.02em;
+        }
+
+        .tag {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.7rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: #6B8F71;
+            margin-bottom: 1.5rem;
+        }
+
+        h1.brand-h1 {
+            font-size: 1.8rem;
+            font-weight: 700;
+            line-height: 1.25;
+            margin-bottom: 1rem;
+            color: #F0EEEA;
+        }
+
+        .brand-intro {
+            font-size: 0.95rem;
+            color: #9A968E;
+            margin-bottom: 2rem;
+        }
+
+        .toc {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.75rem;
+            letter-spacing: 0.04em;
+            color: #7A7670;
+            border: 1px solid #1A1A22;
+            border-radius: 4px;
+            padding: 1rem 1.25rem;
+            margin-bottom: 3rem;
+        }
+
+        .toc-label {
+            color: #6B8F71;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            font-size: 0.65rem;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .toc a {
+            color: #C4C0B8;
+            text-decoration: none;
+            display: block;
+            padding: 0.3rem 0;
+            transition: color 0.15s;
+        }
+
+        .toc a:hover { color: #F0EEEA; }
+
+        .observation {
+            margin-bottom: 3rem;
+            scroll-margin-top: 2rem;
+        }
+
+        .observation-label {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.7rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: #6B8F71;
+            margin-bottom: 0.75rem;
+        }
+
+        h2.observation-headline {
+            font-size: 1.3rem;
+            font-weight: 700;
+            line-height: 1.35;
+            margin-bottom: 1.5rem;
+            color: #F0EEEA;
+        }
+
+        .pattern-block {
+            border-left: 2px solid #6B8F71;
+            padding-left: 1.25rem;
+            margin-bottom: 2rem;
+        }
+
+        .pattern-block p {
+            font-size: 0.95rem;
+            color: #C4C0B8;
+            margin-bottom: 0.75rem;
+        }
+
+        .reach-for {
+            margin-bottom: 1.5rem;
+        }
+
+        .reach-for h3 {
+            font-size: 0.75rem;
+            font-weight: 500;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: #7A7670;
+            margin-bottom: 0.5rem;
+        }
+
+        .reach-for p {
+            font-size: 0.95rem;
+            color: #C4C0B8;
+        }
+
+        .product-name {
+            color: #F0EEEA;
+            font-weight: 700;
+        }
+
+        .cta-block {
+            margin: 3rem 0 1rem;
+            padding: 2rem 1.5rem;
+            background: rgba(107, 143, 113, 0.05);
+            border: 1px solid rgba(107, 143, 113, 0.15);
+            border-radius: 6px;
+        }
+
+        .cta-heading {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.7rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: #6B8F71;
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        .cta-link {
+            display: block;
+            text-align: center;
+            background: #F0EEEA;
+            color: #0A0A0F;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1rem;
+            padding: 1rem 2rem;
+            border-radius: 4px;
+            letter-spacing: 0.02em;
+            transition: opacity 0.2s;
+        }
+
+        .cta-link:hover { opacity: 0.9; }
+
+        .cta-link.pending {
+            background: #2A2A32;
+            color: #7A7670;
+            cursor: not-allowed;
+            pointer-events: none;
+        }
+
+        .pending-note {
+            text-align: center;
+            font-size: 0.75rem;
+            color: #8A7F50;
+            margin-top: 0.75rem;
+            font-family: 'DM Mono', monospace;
+        }
+
+        .disclosure {
+            margin-top: 3rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid #1A1A22;
+            font-size: 0.75rem;
+            color: #5A5850;
+            line-height: 1.6;
+        }
+
+        @media (max-width: 480px) {
+            .page { padding: 2rem 1.25rem 3rem; }
+            h1.brand-h1 { font-size: 1.5rem; }
+            h2.observation-headline { font-size: 1.15rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="page">
+
+        <!-- DRAFT BANNER — REMOVE BEFORE PUBLISH -->
+        <div class="draft-banner">
+            DRAFT — NOT PUBLISHABLE. Pendulum affiliate partnership in approval. Remove this banner + activate CTA once affiliate link confirmed.
+        </div>
+
+        <a href="index.html" style="display:inline-block; font-family:'DM Mono',monospace; font-size:0.65rem; letter-spacing:0.12em; text-transform:uppercase; color:#4A4845; text-decoration:none; margin-bottom:2rem;">← All patterns</a>
+
+        <div class="tag">Brand: Pendulum</div>
+
+        <h1 class="brand-h1">Akkermansia muciniphila — the keystone strain almost no protocol includes</h1>
+
+        <p class="brand-intro">Pendulum shows up in my notes when a metabolic case is doing everything right and the labs still won't move — and the patient history keeps showing the same two markers. One pattern observation below — the channel will log more as they surface.</p>
+
+        <div class="toc">
+            <span class="toc-label">Observations on this page</span>
+            <a href="#observation-1-metabolic-stall">1 · Metabolic stall — the missing keystone strain</a>
+        </div>
+
+        <!-- OBSERVATION 1 — Metabolic stall -->
+        <section class="observation" id="observation-1-metabolic-stall">
+            <div class="observation-label">Observation 1 · Metabolic stall + keystone gap</div>
+            <h2 class="observation-headline">The keystone strain the microbiome category couldn't ship until recently.</h2>
+
+            <div class="pattern-block">
+                <p>The pattern: client is doing everything right. Clean diet. Decent sleep. Solid probiotic stack for months. Metabolic labs won't budge. Insulin resistance plateaus. Weight plateaus. Satiety feels broken. In nine cases out of ten, patient history turns up one of two markers — a C-section birth, or a heavy antibiotic course in the last decade. Often both.</p>
+                <p>Akkermansia muciniphila is a gut organism that lives in the mucus layer and regulates metabolic signaling, insulin response, and satiety hormones. It is one of the first strains wiped out by antibiotic exposure, and it is rarely seeded at birth without vaginal passage. The two history markers above line up with the strain that's missing.</p>
+                <p>Nobody could put Akkermansia in a capsule for years. It's an obligate anaerobe — dies the second it hits oxygen. Pendulum solved the delivery problem with a manufacturing process that keeps the strain viable through packaging and into the gut. That's why this strain now exists as a supplement at all. Not a fix. A keystone strain that may support what the rest of the protocol can't reach.</p>
+            </div>
+
+            <div class="reach-for">
+                <h3>What I reach for</h3>
+                <p><span class="product-name">Pendulum Akkermansia.</span> Single-strain, anaerobic-viable Akkermansia muciniphila. Introduced when the stack is already solid and the history markers line up. Tracked against the metabolic labs that weren't moving.</p>
+            </div>
+        </section>
+
+        <!-- Shared CTA — affiliate pending -->
+        <div class="cta-block">
+            <div class="cta-heading">Where I send clients</div>
+            <a href="#" class="cta-link pending" onclick="return false;">Affiliate link pending approval</a>
+            <div class="pending-note">Pendulum affiliate partnership in approval window — link will activate on this page once confirmed. No purchase path until then.</div>
+        </div>
+
+        <div class="disclosure">
+            DISCLOSURE: When the link on this page activates, it will be an affiliate link. I will earn a commission on purchases at no extra cost to you. I only reference products I've observed in clinical practice. This page is for educational purposes and is not medical advice.
+        </div>
+    </div>
+</body>
+</html>

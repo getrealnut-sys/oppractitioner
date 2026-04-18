@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alight Formulas — Mycotoxin Pattern Notes | OP</title>
+    <meta name="description" content="Pattern observations on building-specific mycotoxin exposure from clinical practice.">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Mono:wght@400&display=swap');
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            background: #0A0A0F;
+            color: #E8E6E1;
+            font-family: 'DM Sans', system-ui, sans-serif;
+            line-height: 1.7;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .page {
+            max-width: 520px;
+            margin: 0 auto;
+            padding: 3rem 1.5rem 4rem;
+        }
+
+        .tag {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.7rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: #6B8F71;
+            margin-bottom: 1.5rem;
+        }
+
+        h1.brand-h1 {
+            font-size: 1.8rem;
+            font-weight: 700;
+            line-height: 1.25;
+            margin-bottom: 1rem;
+            color: #F0EEEA;
+        }
+
+        .brand-intro {
+            font-size: 0.95rem;
+            color: #9A968E;
+            margin-bottom: 2rem;
+        }
+
+        .toc {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.75rem;
+            letter-spacing: 0.04em;
+            color: #7A7670;
+            border: 1px solid #1A1A22;
+            border-radius: 4px;
+            padding: 1rem 1.25rem;
+            margin-bottom: 3rem;
+        }
+
+        .toc-label {
+            color: #6B8F71;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            font-size: 0.65rem;
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+
+        .toc a {
+            color: #C4C0B8;
+            text-decoration: none;
+            display: block;
+            padding: 0.3rem 0;
+            transition: color 0.15s;
+        }
+
+        .toc a:hover { color: #F0EEEA; }
+
+        .observation {
+            margin-bottom: 3rem;
+            scroll-margin-top: 2rem;
+        }
+
+        .observation-label {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.7rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: #6B8F71;
+            margin-bottom: 0.75rem;
+        }
+
+        h2.observation-headline {
+            font-size: 1.3rem;
+            font-weight: 700;
+            line-height: 1.35;
+            margin-bottom: 1.5rem;
+            color: #F0EEEA;
+        }
+
+        .pattern-block {
+            border-left: 2px solid #6B8F71;
+            padding-left: 1.25rem;
+            margin-bottom: 2rem;
+        }
+
+        .pattern-block p {
+            font-size: 0.95rem;
+            color: #C4C0B8;
+            margin-bottom: 0.75rem;
+        }
+
+        .reach-for {
+            margin-bottom: 1.5rem;
+        }
+
+        .reach-for h3 {
+            font-size: 0.75rem;
+            font-weight: 500;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: #7A7670;
+            margin-bottom: 0.5rem;
+        }
+
+        .reach-for p {
+            font-size: 0.95rem;
+            color: #C4C0B8;
+        }
+
+        .product-name {
+            color: #F0EEEA;
+            font-weight: 700;
+        }
+
+        .cta-block {
+            margin: 3rem 0 1rem;
+            padding: 2rem 1.5rem;
+            background: rgba(107, 143, 113, 0.05);
+            border: 1px solid rgba(107, 143, 113, 0.15);
+            border-radius: 6px;
+        }
+
+        .cta-heading {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.7rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: #6B8F71;
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        .cta-link {
+            display: block;
+            text-align: center;
+            background: #F0EEEA;
+            color: #0A0A0F;
+            text-decoration: none;
+            font-weight: 700;
+            font-size: 1rem;
+            padding: 1rem 2rem;
+            border-radius: 4px;
+            letter-spacing: 0.02em;
+            transition: opacity 0.2s;
+        }
+
+        .cta-link:hover { opacity: 0.9; }
+
+        .cta-link.pending {
+            background: #2A2A32;
+            color: #7A7670;
+            cursor: not-allowed;
+            pointer-events: none;
+        }
+
+        .promo-note {
+            text-align: center;
+            font-size: 0.8rem;
+            color: #6B8F71;
+            margin-top: 0.75rem;
+            font-family: 'DM Mono', monospace;
+        }
+
+        .pending-note {
+            text-align: center;
+            font-size: 0.75rem;
+            color: #8A7F50;
+            margin-top: 0.75rem;
+            font-family: 'DM Mono', monospace;
+        }
+
+        .disclosure {
+            margin-top: 3rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid #1A1A22;
+            font-size: 0.75rem;
+            color: #5A5850;
+            line-height: 1.6;
+        }
+
+        @media (max-width: 480px) {
+            .page { padding: 2rem 1.25rem 3rem; }
+            h1.brand-h1 { font-size: 1.5rem; }
+            h2.observation-headline { font-size: 1.15rem; }
+        }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <a href="index.html" style="display:inline-block; font-family:'DM Mono',monospace; font-size:0.65rem; letter-spacing:0.12em; text-transform:uppercase; color:#4A4845; text-decoration:none; margin-bottom:2rem;">← All patterns</a>
+
+        <div class="tag">Brand: Alight Formulas</div>
+
+        <h1 class="brand-h1">Mycotoxin-specific protocols — matching the target to the pattern</h1>
+
+        <p class="brand-intro">Alight Formulas shows up in my notes when chronic-inflammation cases have tried every broad-spectrum protocol and the location signal still hasn't been mapped. One pattern observation below — more to come as the pattern library grows.</p>
+
+        <div class="toc">
+            <span class="toc-label">Observations on this page</span>
+            <a href="#observation-1-building-specific">1 · Building-specific symptom mapping — fine in some buildings, sick in others</a>
+        </div>
+
+        <!-- OBSERVATION 1 — Building-specific -->
+        <section class="observation" id="observation-1-building-specific">
+            <div class="observation-label">Observation 1 · Building-sourced mycotoxins</div>
+            <h2 class="observation-headline">Eight mycotoxins. Eight symptom profiles. One reason broad-spectrum treatment keeps missing.</h2>
+
+            <div class="pattern-block">
+                <p>The pattern shows up in chronic-inflammation cases that have tried every protocol. Antihistamines. Gut work. Nervous-system regulation. Elimination diet. Some things help for a week. Then symptoms return — in the same places, at the same times. Standard protocols weren't designed to map where the exposure is happening.</p>
+                <p>The simple map: track which rooms, which buildings, which days of the week. Within two weeks, the signal is obvious. Fine at work, sick at home. Fine in the new office, sick in the car. Fine on vacation, back to square one in the bedroom. Almost always a mycotoxin load pattern — not mold generally, a specific mycotoxin, from a specific building source, producing a specific symptom cluster.</p>
+                <p>Ochratoxin from water-damaged drywall looks different from aflatoxin from contaminated food. Gliotoxin from indoor growth looks different from trichothecenes. Alight Formulas publishes mycotoxin-specific clinical guides — one per compound — covering the source mold, the organ it targets, and the differentiating symptom profile. Matching the pattern to the specific mycotoxin is where most of these cases break open.</p>
+            </div>
+
+            <div class="reach-for">
+                <h3>What I reach for</h3>
+                <p><span class="product-name">Alight Formulas mycotoxin-specific clinical guides.</span> Eight guides, one per compound. Source mold, target organ, differentiating symptom profile. Matching the pattern to the specific mycotoxin is where most of my stalled cases break open.</p>
+            </div>
+        </section>
+
+        <!-- Shared CTA -->
+        <div class="cta-block">
+            <div class="cta-heading">Where I send clients</div>
+            <a href="https://alighthealthformulas.com/getrealnutrition" class="cta-link" target="_blank" rel="noopener">Shop Alight Health Formulas</a>
+            <div class="promo-note">Affiliate link — supports this content at no extra cost to you</div>
+        </div>
+
+        <div class="disclosure">
+            DISCLOSURE: The link on this page is an affiliate link. I earn a commission on purchases at no extra cost to you. I only reference products I've observed in clinical practice. This page is for educational purposes and is not medical advice.
+        </div>
+    </div>
+</body>
+</html>
