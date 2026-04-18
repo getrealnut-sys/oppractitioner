@@ -95,28 +95,60 @@ BATCHES = {
         'ts_file': os.path.join(SRCDIR, 'scripts-batch3.ts'),
         'videos': [
             {
-                'composition': 'Video7-AiresTravel',
+                'composition': 'Video7-PendulumMetabolicStall',
                 'audio':       os.path.join(PUBLIC, 'video7-voice.mp3'),
                 'phrases': [
-                    "One thing I check with clients who travel constantly.",
-                    "Feel fine at home. Fall apart on the road.",
-                    "Hotels, airports, cabins — zero control over EMF load.",
-                    "Sleep disrupted. Recovery slow. No obvious cause.",
-                    "Aires Lifetune ONE. Small enough to pack. Worth testing.",
-                    "Link in bio.",
+                    "The gut strain almost no protocol includes.",
+                    "Pattern I keep running into with metabolic stall.",
+                    "Clean diet. Decent sleep. Solid probiotic stack.",
+                    "Labs won't budge. Weight plateaus. Satiety feels broken.",
+                    "Nine times out of ten, history shows C-section birth.",
+                    "Or a heavy antibiotic course in the last decade. Often both.",
+                    "A specific gut organism — Akkermansia muciniphila.",
+                    "Lives in the mucus layer. Regulates metabolic signaling.",
+                    "Wiped out by antibiotics. Rarely seeded without vaginal birth.",
+                    "For years, nobody could supplement it. Obligate anaerobe. Dies on contact with oxygen.",
+                    "Pendulum Akkermansia. Delivery system that keeps it viable to the gut.",
+                    "Not a fix. A keystone strain.",
+                    "tr.ee slash owQ7FM.",
                 ],
             },
             {
-                'composition': 'Video8-BodyBioAbsorption',
+                'composition': 'Video8-AlightMycotoxins',
                 'audio':       os.path.join(PUBLIC, 'video8-voice.mp3'),
                 'phrases': [
-                    "When supplements just aren't landing.",
-                    "Good stack. Right doses. Not much shifting.",
-                    "Before adding more, I check the absorption layer.",
-                    "Cell membranes control what enters the cell.",
-                    "BodyBio PC. Membrane support before anything else.",
-                    "Worth checking when the protocol is right but nothing moves.",
-                    "Link in bio.",
+                    "Fine at work. Sick at home.",
+                    "Comes up in about a third of my chronic inflammation cases.",
+                    "They've tried everything. Antihistamines. Gut work. Nervous system.",
+                    "Some things help for a week. Then the symptoms come back.",
+                    "What I ask them to track — which rooms. Which buildings.",
+                    "Within two weeks, the map is obvious.",
+                    "Fine at work. Sick at home. Fine on vacation. Back to square one in the bedroom.",
+                    "This is almost always a mycotoxin load pattern.",
+                    "Not mold generally. A specific mycotoxin. From specific materials.",
+                    "Ochratoxin. Aflatoxin. Gliotoxin. Trichothecenes.",
+                    "Eight mycotoxins. Eight symptom profiles. Broad-spectrum misses.",
+                    "Alight Formulas Mycotoxin Guides. Source mold. Target organ. Differentiating profile.",
+                    "Worth testing when the protocol keeps stopping.",
+                    "tr.ee slash owQ7FM.",
+                ],
+            },
+            {
+                'composition': 'Video9-BodyBioMoldDetoxFloor',
+                'audio':       os.path.join(PUBLIC, 'video9-voice.mp3'),
+                'phrases': [
+                    "Most stalled mold detox protocols have the same missing step.",
+                    "Everything by the book. Binders. Glutathione. Sauna. Maybe CSM.",
+                    "Some symptoms shift. Then nothing.",
+                    "Protocol drags for months. Sometimes years.",
+                    "One thing almost always skipped. Cell membrane repair.",
+                    "Mycotoxins are lipophilic. They store in cell membranes.",
+                    "If the membrane is damaged — binders never get a full release.",
+                    "Toxins recycle. Protocol runs. Nothing moves.",
+                    "BodyBio PC. The floor binders stand on.",
+                    "Usually introduced two to four weeks before binders.",
+                    "Worth testing when nothing is moving.",
+                    "tr.ee slash owQ7FM.",
                 ],
             },
         ],
@@ -239,7 +271,7 @@ def sync_batch(batch_name, batch_cfg):
         for i, (sf, ph) in enumerate(zip(start_frames, phrases)):
             words = ph.split()
             preview = " ".join(words[:6]) + ("..." if len(words) > 6 else "")
-            print(f"     [{i+1}] frame {sf:4d}  ({sf/FPS:.2f}s)  "{preview}"")
+            print(f'     [{i+1}] frame {sf:4d}  ({sf/FPS:.2f}s)  "{preview}"')
 
         changed = update_ts_file(ts_path, comp, start_frames, total_frames)
         if changed:

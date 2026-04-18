@@ -22,6 +22,58 @@ export interface TextSegment {
  */
 export type PhraseType = 'hook' | 'phrase' | 'product' | 'result' | 'cta';
 
+// ─── Chart Overlay Spec ───────────────────────────────────────────────────────
+// Live-animated chart rendered below phrase text at second-pass reward frames.
+// Built for TikTok retention: grow-in, count-up, optional collapse for dead/dying bars.
+//
+// Animation timeline (relative to phrase startFrame):
+//   0–8    phrase text lands (unchanged)
+//   9–20   chart title + empty tracks fade in
+//   21–35  bar[0] grows left-to-right, value counts up
+//   36–45  dwell / glow
+//   46–70  bar[1] grows, then collapse if collapseAfter=true
+//   71–95  bar[2] grows
+//   96+    hold until next phrase
+//
+// Scan line (always on): 1px phosphor green, 15% opacity, sweeps top-to-bottom.
+
+export interface ChartBar {
+  /** Row label, IBM Plex Mono uppercase. "HEALTHY GUT", "AFTER ANTIBIOTIC", etc. */
+  label: string;
+
+  /** Numeric value used for bar-width scaling (relative to ChartSpec.maxValue). */
+  value: number;
+
+  /** Display string shown at bar end. "3-5%", "<0.1%", "~0.5%". */
+  displayValue: string;
+
+  /** True = phosphor green bar + bright value. False = dim white, low opacity. */
+  highlight?: boolean;
+
+  /**
+   * If true, bar grows to full value then collapses back to a stub.
+   * Used on the "dies on contact with oxygen" row to create the pattern-interrupt.
+   */
+  collapseAfter?: boolean;
+}
+
+export interface ChartSpec {
+  /** Chart family. Currently only 'bar'. 'line' | 'diagram' | 'matrix' reserved. */
+  kind: 'bar';
+
+  /** Optional header above chart. "MICROBIOME COMPOSITION". IBM Plex Mono. */
+  title?: string;
+
+  /** Optional unit label below chart. "% akkermansia muciniphila". Dim. */
+  unit?: string;
+
+  /** Ordered rows, top to bottom. */
+  bars: ChartBar[];
+
+  /** Max value used for bar-width scaling. Bar 0 width = bar.value / maxValue. */
+  maxValue: number;
+}
+
 export interface PhraseEntry {
   type: PhraseType;
 
@@ -57,6 +109,13 @@ export interface PhraseEntry {
    * Use for CTA frames and hard scene breaks.
    */
   clearPrevious?: boolean;
+
+  /**
+   * Optional chart overlay. Renders below phrase text with live grow-in animation.
+   * Use sparingly — reserved for second-pass reward frames where visual payoff
+   * lands harder than text alone.
+   */
+  chart?: ChartSpec;
 }
 
 export interface ScriptData {

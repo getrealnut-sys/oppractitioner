@@ -17,7 +17,7 @@ import { ScriptData } from './types';
 export const video4InfiniWellGut: ScriptData = {
   compositionId: 'Video4-InfiniWellGut',
   title: 'InfiniWell BPC-157 — Gut Lining Pattern',
-  totalFrames: 427,
+  totalFrames: 911,
   fps: 30,
   phrases: [
     {
@@ -30,13 +30,13 @@ export const video4InfiniWellGut: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'Good protocol.\nClean diet.\nRight supplements.' }],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 46,
+      startFrame: 127,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Gut symptoms\nwon\'t clear.' }],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 103,
+      startFrame: 225,
     },
     {
       type: 'phrase',
@@ -46,14 +46,14 @@ export const video4InfiniWellGut: ScriptData = {
         { text: '\nThe layer everything\nhas to pass through.' },
       ],
       tag: 'ROOT PATTERN',
-      startFrame: 138,
+      startFrame: 294,
     },
     {
       type: 'product',
       segments: [{ text: 'InfiniWell\nBPC-157 Delayed' }],
       qualifier: 'Studied for\ngut mucosal support.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 210,
+      startFrame: 494,
     },
     {
       type: 'result',
@@ -62,12 +62,12 @@ export const video4InfiniWellGut: ScriptData = {
         { text: 'isn\'t responding\nto protocol changes.', green: true },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 263,
+      startFrame: 622,
     },
     {
       type: 'cta',
       segments: [{ text: 'Link\nin bio.' }],
-      startFrame: 325,
+      startFrame: 807,
       clearPrevious: true,
     },
   ],
@@ -81,7 +81,7 @@ export const video4InfiniWellGut: ScriptData = {
 export const video5InfiniWellHHS: ScriptData = {
   compositionId: 'Video5-InfiniWellHHS',
   title: 'InfiniWell BPC-157 — HHS Regulation Hook',
-  totalFrames: 339,
+  totalFrames: 689,
   fps: 30,
   phrases: [
     {
@@ -94,7 +94,7 @@ export const video5InfiniWellHHS: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'This space has been\nin integrative practice\nfor years.' }],
       tag: 'CONTEXT',
-      startFrame: 50,
+      startFrame: 114,
     },
     {
       type: 'phrase',
@@ -103,25 +103,25 @@ export const video5InfiniWellHHS: ScriptData = {
         { text: 'BPC-157.', green: true },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 92,
+      startFrame: 258,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Gut lining.\nTissue repair.\nRecovery support.' }],
       tag: 'CLINICAL USE CASES',
-      startFrame: 120,
+      startFrame: 372,
     },
     {
       type: 'product',
       segments: [{ text: 'InfiniWell\nBPC-157' }],
       qualifier: 'The regulation\nis catching up.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 207,
+      startFrame: 471,
     },
     {
       type: 'cta',
       segments: [{ text: 'Link\nin bio.' }],
-      startFrame: 290,
+      startFrame: 585,
       clearPrevious: true,
     },
   ],
@@ -135,7 +135,7 @@ export const video5InfiniWellHHS: ScriptData = {
 export const video6InfiniWellRecovery: ScriptData = {
   compositionId: 'Video6-InfiniWellRecovery',
   title: 'InfiniWell BPC-157 — Recovery Plateau Pattern',
-  totalFrames: 351,
+  totalFrames: 721,
   fps: 30,
   phrases: [
     {
@@ -148,7 +148,7 @@ export const video6InfiniWellRecovery: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'Injury is old.\nProtocol is right.\nProgress just... plateaus.' }],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 36,
+      startFrame: 87,
     },
     {
       type: 'phrase',
@@ -157,14 +157,14 @@ export const video6InfiniWellRecovery: ScriptData = {
         { text: 'the right\nsignaling environment.', green: true },
       ],
       tag: 'ROOT PATTERN',
-      startFrame: 94,
+      startFrame: 211,
     },
     {
       type: 'product',
       segments: [{ text: 'InfiniWell\nBPC-157 Rapid' }],
       qualifier: 'What I add\nwhen timelines\nkeep extending.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 147,
+      startFrame: 387,
     },
     {
       type: 'result',
@@ -173,12 +173,12 @@ export const video6InfiniWellRecovery: ScriptData = {
         { text: 'the gap\nwon\'t close.', green: true },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 226,
+      startFrame: 524,
     },
     {
       type: 'cta',
       segments: [{ text: 'Link\nin bio.' }],
-      startFrame: 300,
+      startFrame: 623,
       clearPrevious: true,
     },
   ],

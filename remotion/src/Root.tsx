@@ -17,8 +17,9 @@ import {
   video6InfiniWellRecovery,
 } from './scripts-batch2';
 import {
-  video7AiresTravel,
-  video8BodyBioAbsorption,
+  video7PendulumMetabolicStall,
+  video8AlightMycotoxins,
+  video9BodyBioMoldDetoxFloor,
 } from './scripts-batch3';
 
 export const RemotionRoot: React.FC = () => {
@@ -117,34 +118,49 @@ export const RemotionRoot: React.FC = () => {
           hasAudio: false,
         }}
       />
-      {/* ── BATCH 3: Aires Travel + BodyBio Absorption ───────────────────────── */}
+      {/* ── BATCH 3: Pendulum + Alight + BodyBio Mold Detox ──────────────────── */}
 
-      {/* Video 7: Aires — Travel Pattern (~16 sec) */}
+      {/* Video 7: Pendulum — Akkermansia / Metabolic Stall (~72 sec) */}
       <Composition
-        id={video7AiresTravel.compositionId}
+        id={video7PendulumMetabolicStall.compositionId}
         component={PhraseVideo}
-        durationInFrames={video7AiresTravel.totalFrames}
-        fps={video7AiresTravel.fps}
+        durationInFrames={video7PendulumMetabolicStall.totalFrames}
+        fps={video7PendulumMetabolicStall.fps}
         width={1080}
         height={1920}
         defaultProps={{
-          phrases: video7AiresTravel.phrases,
+          phrases: video7PendulumMetabolicStall.phrases,
           voiceSrc: 'video7-voice.mp3',
           hasAudio: false,
         }}
       />
 
-      {/* Video 8: BodyBio — Supplement Absorption Pattern (~17 sec) */}
+      {/* Video 8: Alight Formulas — Building-Specific Mycotoxin Mapping (~78 sec) */}
       <Composition
-        id={video8BodyBioAbsorption.compositionId}
+        id={video8AlightMycotoxins.compositionId}
         component={PhraseVideo}
-        durationInFrames={video8BodyBioAbsorption.totalFrames}
-        fps={video8BodyBioAbsorption.fps}
+        durationInFrames={video8AlightMycotoxins.totalFrames}
+        fps={video8AlightMycotoxins.fps}
         width={1080}
         height={1920}
         defaultProps={{
-          phrases: video8BodyBioAbsorption.phrases,
+          phrases: video8AlightMycotoxins.phrases,
           voiceSrc: 'video8-voice.mp3',
+          hasAudio: false,
+        }}
+      />
+
+      {/* Video 9: BodyBio PC — Mold Detox Sequencing (~68 sec) */}
+      <Composition
+        id={video9BodyBioMoldDetoxFloor.compositionId}
+        component={PhraseVideo}
+        durationInFrames={video9BodyBioMoldDetoxFloor.totalFrames}
+        fps={video9BodyBioMoldDetoxFloor.fps}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          phrases: video9BodyBioMoldDetoxFloor.phrases,
+          voiceSrc: 'video9-voice.mp3',
           hasAudio: false,
         }}
       />

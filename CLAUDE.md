@@ -53,13 +53,36 @@
 
 ---
 
+## ⚠️ Bio Link Status — READ THIS
+
+**TikTok bio link is NOT active.** Personal accounts require 1,000 followers for a clickable bio link. Business Account conversion was attempted and denied by TikTok (health content flag). Do not attempt Business Account again.
+
+**Current workaround (in place):** Two layers active as of 2026-04-16:
+1. `https://tr.ee/owQ7FM` added to TikTok bio text field (visible on profile, not clickable)
+2. Every caption includes `https://tr.ee/owQ7FM` as plain text — viewers can copy-paste from caption
+
+**CTA card wording:**
+- Batch 1 (already rendered): says "Link in bio." — cannot change without re-render. Leave as is.
+- Batch 3+ (not yet rendered): says "Link in caption." — accurate, directs viewers to caption where link lives.
+- All future scripts: use "Link in caption." NOT "Link in bio."
+
+**Unlock path:** 1,000 followers → bio link automatically enables. Focus on consistent posting cadence.
+
+**Caption rule:** Every caption must include this line before hashtags:
+```
+Link in bio → https://tr.ee/owQ7FM
+```
+
+---
+
 ## Content Architecture
 
 ### Video → Value Page → Affiliate Link Flow
-- Video CTA: "Link in bio."
-- Bio link: https://tr.ee/owQ7FM
+- Video CTA card: "Link in bio." (all rendered videos — cannot change without re-render)
+- Caption: Always include `https://tr.ee/owQ7FM` as plain text (see caption rule above)
+- Bio link: https://tr.ee/owQ7FM (clickable only after Business Account conversion OR 1K followers)
 - Linktree → index page: https://getrealnut-sys.github.io/oppractitioner/
-- Index page → value pages (aires-emf.html, bodybio-membrane.html)
+- Index page → value pages (aires-emf.html, bodybio-membrane.html, infiniwell-peptides.html)
 - Value pages → affiliate links
 
 ### Batch 1 Videos — Current Status
@@ -99,6 +122,9 @@
 - Team has full creative authority on content — do not ask Coach Maria to approve captions, hashtags, copy, or scheduling.
 - Video production uses Remotion + ElevenLabs voiceover. Audio files go in `remotion/public/`. Sync timing with `remotion/sync-timing.py`.
 - FTC disclosure line: `#ad | Affiliate link in bio — I earn commission on purchases.` — first line of every caption.
+- **Caption link line (REQUIRED):** Every caption must include `Link in bio → https://tr.ee/owQ7FM` as its own line before hashtags. Bio link is not yet clickable (seedling account), so the URL must be visible as plain text in the caption.
+- **CTA card wording:** All scripts batch 3 forward use `Link in caption.` — NOT `Link in bio.` Business Account denied. Bio link unavailable until 1K followers.
+- Timing sync: use `remotion/sync-timing-universal.py` — NOT `sync-timing.py` or `sync-timing-batch2.py`. Requires mutagen only, no ffmpeg, Python 3.14 compatible.
 - `isAiGenerated: true` on all Blotato posts (Remotion = AI-generated).
 - `isBrandedContent: true` on all Blotato posts (all content is affiliate).
 - **Git operations: never use the bash sandbox for git. Always create a task file and route through Claude Code on the local machine.**
