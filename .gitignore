@@ -1,3 +1,10 @@
 remotion/node_modules/
 remotion/out/
 remotion/public/*.mp3
+
+# Sandbox/session cleanup artifacts — never track these
+# (see archive/2026-04-18-value-page-rebuild/.git-stale/README.md)
+*.stale
+*.stale2
+*.corrupt
+_test_write
