@@ -1,0 +1,1626 @@
+{
+  "text": " Client doing everything right, clean diet, right supplements, gut symptoms won't clear, client has done the work. Elimination diet, clean protein, right binders, right probiotics, six months in and the gut symptoms still show up. Bloating after meals that shouldn't cause bloating, stool that keeps shifting, intermittent reactivity to foods that used to be fine. The thing I check next is the gut lining itself. The layer everything has to pass through. If the epithelium is chronically inflamed, nothing you add downstream clears the pattern. The body keeps opening tight junctions. Food particles keep triggering the immune layer. The microbiome keeps getting disrupted before it can stabilize. There's a peptide that has been studied from Eucosal repair specifically. BPC157, short chain, body protection compound. In practice, I use the delayed release oral form from Infiniwell, pentadica peptide that may support the tight junction reset. The rest of the protocol is waiting on. Most gut protocols assume the lining is intact. When it isn't, every input reaches a closed door. Not a replacement for the protocol. The floor the protocol is standing on. Full pattern breakdown at tr.e slash owq7fm. Type it.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.98,
+      "text": " Client doing everything right, clean diet, right supplements, gut symptoms won't clear, client has done the work.",
+      "tokens": [
+        50364,
+        2033,
+        1196,
+        884,
+        1203,
+        558,
+        11,
+        2541,
+        6339,
+        11,
+        558,
+        26645,
+        11,
+        5228,
+        8332,
+        1582,
+        380,
+        1850,
+        11,
+        6423,
+        575,
+        1096,
+        264,
+        589,
+        13,
+        50708
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16148060500019729,
+      "compression_ratio": 1.6885245901639345,
+      "no_speech_prob": 0.018743643537163734,
+      "words": [
+        {
+          "word": " Client",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.7213630974292755
+        },
+        {
+          "word": " doing",
+          "start": 0.34,
+          "end": 0.54,
+          "probability": 0.9703760743141174
+        },
+        {
+          "word": " everything",
+          "start": 0.54,
+          "end": 0.98,
+          "probability": 0.9926486611366272
+        },
+        {
+          "word": " right,",
+          "start": 0.98,
+          "end": 1.26,
+          "probability": 0.9971234202384949
+        },
+        {
+          "word": " clean",
+          "start": 1.72,
+          "end": 1.94,
+          "probability": 0.9773423075675964
+        },
+        {
+          "word": " diet,",
+          "start": 1.94,
+          "end": 2.32,
+          "probability": 0.9831230044364929
+        },
+        {
+          "word": " right",
+          "start": 2.84,
+          "end": 2.98,
+          "probability": 0.9265444278717041
+        },
+        {
+          "word": " supplements,",
+          "start": 2.98,
+          "end": 3.5,
+          "probability": 0.9933649301528931
+        },
+        {
+          "word": " gut",
+          "start": 4.16,
+          "end": 4.28,
+          "probability": 0.9800282716751099
+        },
+        {
+          "word": " symptoms",
+          "start": 4.28,
+          "end": 4.72,
+          "probability": 0.9926720857620239
+        },
+        {
+          "word": " won't",
+          "start": 4.72,
+          "end": 4.98,
+          "probability": 0.9914104044437408
+        },
+        {
+          "word": " clear,",
+          "start": 4.98,
+          "end": 5.3,
+          "probability": 0.9960182309150696
+        },
+        {
+          "word": " client",
+          "start": 5.98,
+          "end": 6.12,
+          "probability": 0.9285581111907959
+        },
+        {
+          "word": " has",
+          "start": 6.12,
+          "end": 6.32,
+          "probability": 0.9967105388641357
+        },
+        {
+          "word": " done",
+          "start": 6.32,
+          "end": 6.48,
+          "probability": 0.9991484880447388
+        },
+        {
+          "word": " the",
+          "start": 6.48,
+          "end": 6.62,
+          "probability": 0.9962466359138489
+        },
+        {
+          "word": " work.",
+          "start": 6.62,
+          "end": 6.98,
+          "probability": 0.9988933205604553
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.74,
+      "end": 15.02,
+      "text": " Elimination diet, clean protein, right binders, right probiotics, six months in and the gut symptoms still show up.",
+      "tokens": [
+        50748,
+        2699,
+        332,
+        2486,
+        6339,
+        11,
+        2541,
+        7944,
+        11,
+        558,
+        14786,
+        433,
+        11,
+        558,
+        45710,
+        1167,
+        11,
+        2309,
+        2493,
+        294,
+        293,
+        264,
+        5228,
+        8332,
+        920,
+        855,
+        493,
+        13,
+        51112
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16148060500019729,
+      "compression_ratio": 1.6885245901639345,
+      "no_speech_prob": 0.018743643537163734,
+      "words": [
+        {
+          "word": " Elimination",
+          "start": 7.74,
+          "end": 8.32,
+          "probability": 0.8841398557027181
+        },
+        {
+          "word": " diet,",
+          "start": 8.32,
+          "end": 8.74,
+          "probability": 0.988040030002594
+        },
+        {
+          "word": " clean",
+          "start": 9.1,
+          "end": 9.26,
+          "probability": 0.9907912015914917
+        },
+        {
+          "word": " protein,",
+          "start": 9.26,
+          "end": 9.72,
+          "probability": 0.9955831170082092
+        },
+        {
+          "word": " right",
+          "start": 10.2,
+          "end": 10.32,
+          "probability": 0.9539623856544495
+        },
+        {
+          "word": " binders,",
+          "start": 10.32,
+          "end": 10.86,
+          "probability": 0.9802018105983734
+        },
+        {
+          "word": " right",
+          "start": 11.16,
+          "end": 11.28,
+          "probability": 0.9932793974876404
+        },
+        {
+          "word": " probiotics,",
+          "start": 11.28,
+          "end": 12.16,
+          "probability": 0.996169775724411
+        },
+        {
+          "word": " six",
+          "start": 12.46,
+          "end": 12.66,
+          "probability": 0.8432543277740479
+        },
+        {
+          "word": " months",
+          "start": 12.66,
+          "end": 12.82,
+          "probability": 0.9958915710449219
+        },
+        {
+          "word": " in",
+          "start": 12.82,
+          "end": 13.16,
+          "probability": 0.9913641214370728
+        },
+        {
+          "word": " and",
+          "start": 13.16,
+          "end": 13.48,
+          "probability": 0.5402100682258606
+        },
+        {
+          "word": " the",
+          "start": 13.48,
+          "end": 13.58,
+          "probability": 0.99744713306427
+        },
+        {
+          "word": " gut",
+          "start": 13.58,
+          "end": 13.74,
+          "probability": 0.997941792011261
+        },
+        {
+          "word": " symptoms",
+          "start": 13.74,
+          "end": 14.2,
+          "probability": 0.9700139760971069
+        },
+        {
+          "word": " still",
+          "start": 14.2,
+          "end": 14.5,
+          "probability": 0.9888457655906677
+        },
+        {
+          "word": " show",
+          "start": 14.5,
+          "end": 14.72,
+          "probability": 0.9991118311882019
+        },
+        {
+          "word": " up.",
+          "start": 14.72,
+          "end": 15.02,
+          "probability": 0.9976104497909546
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 15.94,
+      "end": 22.06,
+      "text": " Bloating after meals that shouldn't cause bloating, stool that keeps shifting, intermittent reactivity to foods that used to be fine.",
+      "tokens": [
+        51160,
+        9865,
+        990,
+        934,
+        12832,
+        300,
+        4659,
+        380,
+        3082,
+        1749,
+        990,
+        11,
+        35086,
+        300,
+        5965,
+        17573,
+        11,
+        44084,
+        4515,
+        4253,
+        281,
+        8656,
+        300,
+        1143,
+        281,
+        312,
+        2489,
+        13,
+        51464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16148060500019729,
+      "compression_ratio": 1.6885245901639345,
+      "no_speech_prob": 0.018743643537163734,
+      "words": [
+        {
+          "word": " Bloating",
+          "start": 15.94,
+          "end": 16.26,
+          "probability": 0.6678307503461838
+        },
+        {
+          "word": " after",
+          "start": 16.26,
+          "end": 16.52,
+          "probability": 0.9857749938964844
+        },
+        {
+          "word": " meals",
+          "start": 16.52,
+          "end": 16.74,
+          "probability": 0.9833129048347473
+        },
+        {
+          "word": " that",
+          "start": 16.74,
+          "end": 16.98,
+          "probability": 0.9784738421440125
+        },
+        {
+          "word": " shouldn't",
+          "start": 16.98,
+          "end": 17.34,
+          "probability": 0.9948067367076874
+        },
+        {
+          "word": " cause",
+          "start": 17.34,
+          "end": 17.58,
+          "probability": 0.9980029463768005
+        },
+        {
+          "word": " bloating,",
+          "start": 17.58,
+          "end": 18.06,
+          "probability": 0.994581788778305
+        },
+        {
+          "word": " stool",
+          "start": 18.36,
+          "end": 18.66,
+          "probability": 0.9950815439224243
+        },
+        {
+          "word": " that",
+          "start": 18.66,
+          "end": 18.82,
+          "probability": 0.9990167617797852
+        },
+        {
+          "word": " keeps",
+          "start": 18.82,
+          "end": 19.0,
+          "probability": 0.9866830706596375
+        },
+        {
+          "word": " shifting,",
+          "start": 19.0,
+          "end": 19.42,
+          "probability": 0.9945937991142273
+        },
+        {
+          "word": " intermittent",
+          "start": 19.72,
+          "end": 19.98,
+          "probability": 0.9979002475738525
+        },
+        {
+          "word": " reactivity",
+          "start": 19.98,
+          "end": 20.74,
+          "probability": 0.9901218712329865
+        },
+        {
+          "word": " to",
+          "start": 20.74,
+          "end": 20.88,
+          "probability": 0.9855705499649048
+        },
+        {
+          "word": " foods",
+          "start": 20.88,
+          "end": 21.12,
+          "probability": 0.9958504438400269
+        },
+        {
+          "word": " that",
+          "start": 21.12,
+          "end": 21.28,
+          "probability": 0.9969528913497925
+        },
+        {
+          "word": " used",
+          "start": 21.28,
+          "end": 21.44,
+          "probability": 0.9922192096710205
+        },
+        {
+          "word": " to",
+          "start": 21.44,
+          "end": 21.62,
+          "probability": 0.9990866184234619
+        },
+        {
+          "word": " be",
+          "start": 21.62,
+          "end": 21.72,
+          "probability": 0.9964331388473511
+        },
+        {
+          "word": " fine.",
+          "start": 21.72,
+          "end": 22.06,
+          "probability": 0.9988821148872375
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 22.82,
+      "end": 25.16,
+      "text": " The thing I check next is the gut lining itself.",
+      "tokens": [
+        51500,
+        440,
+        551,
+        286,
+        1520,
+        958,
+        307,
+        264,
+        5228,
+        19628,
+        2564,
+        13,
+        51624
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16148060500019729,
+      "compression_ratio": 1.6885245901639345,
+      "no_speech_prob": 0.018743643537163734,
+      "words": [
+        {
+          "word": " The",
+          "start": 22.82,
+          "end": 22.96,
+          "probability": 0.9953091740608215
+        },
+        {
+          "word": " thing",
+          "start": 22.96,
+          "end": 23.1,
+          "probability": 0.9969381093978882
+        },
+        {
+          "word": " I",
+          "start": 23.1,
+          "end": 23.22,
+          "probability": 0.988141655921936
+        },
+        {
+          "word": " check",
+          "start": 23.22,
+          "end": 23.42,
+          "probability": 0.9052920341491699
+        },
+        {
+          "word": " next",
+          "start": 23.42,
+          "end": 23.76,
+          "probability": 0.9961472749710083
+        },
+        {
+          "word": " is",
+          "start": 23.76,
+          "end": 23.98,
+          "probability": 0.9758595824241638
+        },
+        {
+          "word": " the",
+          "start": 23.98,
+          "end": 24.12,
+          "probability": 0.9941483736038208
+        },
+        {
+          "word": " gut",
+          "start": 24.12,
+          "end": 24.38,
+          "probability": 0.9935838580131531
+        },
+        {
+          "word": " lining",
+          "start": 24.38,
+          "end": 24.76,
+          "probability": 0.9958189129829407
+        },
+        {
+          "word": " itself.",
+          "start": 24.76,
+          "end": 25.16,
+          "probability": 0.996996283531189
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2516,
+      "start": 26.12,
+      "end": 33.22,
+      "text": " The layer everything has to pass through. If the epithelium is chronically inflamed, nothing you add downstream clears the pattern.",
+      "tokens": [
+        50412,
+        440,
+        4583,
+        1203,
+        575,
+        281,
+        1320,
+        807,
+        13,
+        759,
+        264,
+        2388,
+        355,
+        338,
+        2197,
+        307,
+        19393,
+        984,
+        9922,
+        3475,
+        11,
+        1825,
+        291,
+        909,
+        30621,
+        47033,
+        264,
+        5102,
+        13,
+        50788
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1635624905850025,
+      "compression_ratio": 1.5576923076923077,
+      "no_speech_prob": 0.051863327622413635,
+      "words": [
+        {
+          "word": " The",
+          "start": 26.04,
+          "end": 26.36,
+          "probability": 0.28391486406326294
+        },
+        {
+          "word": " layer",
+          "start": 26.36,
+          "end": 26.62,
+          "probability": 0.9158806800842285
+        },
+        {
+          "word": " everything",
+          "start": 26.62,
+          "end": 27.12,
+          "probability": 0.5494362711906433
+        },
+        {
+          "word": " has",
+          "start": 27.12,
+          "end": 27.42,
+          "probability": 0.9940930008888245
+        },
+        {
+          "word": " to",
+          "start": 27.42,
+          "end": 27.6,
+          "probability": 0.9977397918701172
+        },
+        {
+          "word": " pass",
+          "start": 27.6,
+          "end": 27.84,
+          "probability": 0.9957696199417114
+        },
+        {
+          "word": " through.",
+          "start": 27.84,
+          "end": 28.24,
+          "probability": 0.9952367544174194
+        },
+        {
+          "word": " If",
+          "start": 28.54,
+          "end": 29.04,
+          "probability": 0.9894741177558899
+        },
+        {
+          "word": " the",
+          "start": 29.04,
+          "end": 29.2,
+          "probability": 0.9950500130653381
+        },
+        {
+          "word": " epithelium",
+          "start": 29.2,
+          "end": 29.72,
+          "probability": 0.9892347604036331
+        },
+        {
+          "word": " is",
+          "start": 29.72,
+          "end": 29.9,
+          "probability": 0.9984464049339294
+        },
+        {
+          "word": " chronically",
+          "start": 29.9,
+          "end": 30.4,
+          "probability": 0.996740311384201
+        },
+        {
+          "word": " inflamed,",
+          "start": 30.4,
+          "end": 30.92,
+          "probability": 0.9921052157878876
+        },
+        {
+          "word": " nothing",
+          "start": 31.2,
+          "end": 31.4,
+          "probability": 0.9943053126335144
+        },
+        {
+          "word": " you",
+          "start": 31.4,
+          "end": 31.62,
+          "probability": 0.990944504737854
+        },
+        {
+          "word": " add",
+          "start": 31.62,
+          "end": 31.8,
+          "probability": 0.9965948462486267
+        },
+        {
+          "word": " downstream",
+          "start": 31.8,
+          "end": 32.3,
+          "probability": 0.9878003597259521
+        },
+        {
+          "word": " clears",
+          "start": 32.3,
+          "end": 32.68,
+          "probability": 0.9899216294288635
+        },
+        {
+          "word": " the",
+          "start": 32.68,
+          "end": 32.9,
+          "probability": 0.9959851503372192
+        },
+        {
+          "word": " pattern.",
+          "start": 32.9,
+          "end": 33.22,
+          "probability": 0.9971287846565247
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2516,
+      "start": 33.8,
+      "end": 38.6,
+      "text": " The body keeps opening tight junctions. Food particles keep triggering the immune layer.",
+      "tokens": [
+        50788,
+        440,
+        1772,
+        5965,
+        5193,
+        4524,
+        8156,
+        3916,
+        13,
+        11675,
+        10007,
+        1066,
+        40406,
+        264,
+        11992,
+        4583,
+        13,
+        51060
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1635624905850025,
+      "compression_ratio": 1.5576923076923077,
+      "no_speech_prob": 0.051863327622413635,
+      "words": [
+        {
+          "word": " The",
+          "start": 33.8,
+          "end": 33.92,
+          "probability": 0.9924471378326416
+        },
+        {
+          "word": " body",
+          "start": 33.92,
+          "end": 34.16,
+          "probability": 0.9977983236312866
+        },
+        {
+          "word": " keeps",
+          "start": 34.16,
+          "end": 34.38,
+          "probability": 0.9928678274154663
+        },
+        {
+          "word": " opening",
+          "start": 34.38,
+          "end": 34.84,
+          "probability": 0.9981505274772644
+        },
+        {
+          "word": " tight",
+          "start": 34.84,
+          "end": 35.16,
+          "probability": 0.9956134557723999
+        },
+        {
+          "word": " junctions.",
+          "start": 35.16,
+          "end": 35.84,
+          "probability": 0.9923381805419922
+        },
+        {
+          "word": " Food",
+          "start": 36.44,
+          "end": 36.66,
+          "probability": 0.9760658740997314
+        },
+        {
+          "word": " particles",
+          "start": 36.66,
+          "end": 37.06,
+          "probability": 0.9859859943389893
+        },
+        {
+          "word": " keep",
+          "start": 37.06,
+          "end": 37.36,
+          "probability": 0.9984195232391357
+        },
+        {
+          "word": " triggering",
+          "start": 37.36,
+          "end": 37.74,
+          "probability": 0.9920946955680847
+        },
+        {
+          "word": " the",
+          "start": 37.74,
+          "end": 38.02,
+          "probability": 0.9973673224449158
+        },
+        {
+          "word": " immune",
+          "start": 38.02,
+          "end": 38.22,
+          "probability": 0.9831258654594421
+        },
+        {
+          "word": " layer.",
+          "start": 38.22,
+          "end": 38.6,
+          "probability": 0.9953182339668274
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2516,
+      "start": 39.2,
+      "end": 46.44,
+      "text": " The microbiome keeps getting disrupted before it can stabilize. There's a peptide that has been studied from Eucosal repair specifically.",
+      "tokens": [
+        51060,
+        440,
+        33234,
+        423,
+        5965,
+        1242,
+        42271,
+        949,
+        309,
+        393,
+        31870,
+        13,
+        821,
+        311,
+        257,
+        41781,
+        482,
+        300,
+        575,
+        668,
+        9454,
+        490,
+        462,
+        1311,
+        329,
+        304,
+        10535,
+        4682,
+        13,
+        51428
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1635624905850025,
+      "compression_ratio": 1.5576923076923077,
+      "no_speech_prob": 0.051863327622413635,
+      "words": [
+        {
+          "word": " The",
+          "start": 39.2,
+          "end": 39.32,
+          "probability": 0.9919750094413757
+        },
+        {
+          "word": " microbiome",
+          "start": 39.32,
+          "end": 40.04,
+          "probability": 0.9855904877185822
+        },
+        {
+          "word": " keeps",
+          "start": 40.04,
+          "end": 40.24,
+          "probability": 0.9915103912353516
+        },
+        {
+          "word": " getting",
+          "start": 40.24,
+          "end": 40.58,
+          "probability": 0.9989640712738037
+        },
+        {
+          "word": " disrupted",
+          "start": 40.58,
+          "end": 41.04,
+          "probability": 0.9938132762908936
+        },
+        {
+          "word": " before",
+          "start": 41.04,
+          "end": 41.46,
+          "probability": 0.9807437062263489
+        },
+        {
+          "word": " it",
+          "start": 41.46,
+          "end": 41.68,
+          "probability": 0.9973896145820618
+        },
+        {
+          "word": " can",
+          "start": 41.68,
+          "end": 41.78,
+          "probability": 0.9713478088378906
+        },
+        {
+          "word": " stabilize.",
+          "start": 41.78,
+          "end": 42.2,
+          "probability": 0.9714614152908325
+        },
+        {
+          "word": " There's",
+          "start": 42.94,
+          "end": 43.26,
+          "probability": 0.9393692314624786
+        },
+        {
+          "word": " a",
+          "start": 43.26,
+          "end": 43.34,
+          "probability": 0.9978561997413635
+        },
+        {
+          "word": " peptide",
+          "start": 43.34,
+          "end": 43.76,
+          "probability": 0.9935981035232544
+        },
+        {
+          "word": " that",
+          "start": 43.76,
+          "end": 43.94,
+          "probability": 0.9949458241462708
+        },
+        {
+          "word": " has",
+          "start": 43.94,
+          "end": 44.14,
+          "probability": 0.989339292049408
+        },
+        {
+          "word": " been",
+          "start": 44.14,
+          "end": 44.32,
+          "probability": 0.9957683086395264
+        },
+        {
+          "word": " studied",
+          "start": 44.32,
+          "end": 44.68,
+          "probability": 0.9959139227867126
+        },
+        {
+          "word": " from",
+          "start": 44.68,
+          "end": 44.98,
+          "probability": 0.9708333611488342
+        },
+        {
+          "word": " Eucosal",
+          "start": 44.98,
+          "end": 45.42,
+          "probability": 0.6020491644740105
+        },
+        {
+          "word": " repair",
+          "start": 45.42,
+          "end": 45.64,
+          "probability": 0.20775826275348663
+        },
+        {
+          "word": " specifically.",
+          "start": 45.64,
+          "end": 46.44,
+          "probability": 0.9667214155197144
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2516,
+      "start": 48.26,
+      "end": 51.66,
+      "text": " BPC157, short chain, body protection compound.",
+      "tokens": [
+        51464,
+        363,
+        12986,
+        5211,
+        22,
+        11,
+        2099,
+        5021,
+        11,
+        1772,
+        6334,
+        14154,
+        13,
+        51696
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1635624905850025,
+      "compression_ratio": 1.5576923076923077,
+      "no_speech_prob": 0.051863327622413635,
+      "words": [
+        {
+          "word": " BPC157,",
+          "start": 48.26,
+          "end": 48.9,
+          "probability": 0.814625158905983
+        },
+        {
+          "word": " short",
+          "start": 49.26,
+          "end": 49.5,
+          "probability": 0.8876125812530518
+        },
+        {
+          "word": " chain,",
+          "start": 49.5,
+          "end": 49.82,
+          "probability": 0.7855892777442932
+        },
+        {
+          "word": " body",
+          "start": 50.64,
+          "end": 50.8,
+          "probability": 0.9401262402534485
+        },
+        {
+          "word": " protection",
+          "start": 50.8,
+          "end": 51.2,
+          "probability": 0.9941393136978149
+        },
+        {
+          "word": " compound.",
+          "start": 51.2,
+          "end": 51.66,
+          "probability": 0.9981997013092041
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5166,
+      "start": 52.32,
+      "end": 60.0,
+      "text": " In practice, I use the delayed release oral form from Infiniwell, pentadica peptide that may support the tight junction reset.",
+      "tokens": [
+        50412,
+        682,
+        3124,
+        11,
+        286,
+        764,
+        264,
+        20268,
+        4374,
+        19338,
+        1254,
+        490,
+        22145,
+        72,
+        6326,
+        11,
+        16834,
+        345,
+        2262,
+        41781,
+        482,
+        300,
+        815,
+        1406,
+        264,
+        4524,
+        33718,
+        14322,
+        13,
+        50796
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21666374206542968,
+      "compression_ratio": 1.610655737704918,
+      "no_speech_prob": 0.03530365228652954,
+      "words": [
+        {
+          "word": " In",
+          "start": 52.32,
+          "end": 52.88,
+          "probability": 0.7386198043823242
+        },
+        {
+          "word": " practice,",
+          "start": 52.88,
+          "end": 53.28,
+          "probability": 0.9891397953033447
+        },
+        {
+          "word": " I",
+          "start": 53.56,
+          "end": 53.6,
+          "probability": 0.9944971203804016
+        },
+        {
+          "word": " use",
+          "start": 53.6,
+          "end": 53.78,
+          "probability": 0.8570241332054138
+        },
+        {
+          "word": " the",
+          "start": 53.78,
+          "end": 53.96,
+          "probability": 0.9900515675544739
+        },
+        {
+          "word": " delayed",
+          "start": 53.96,
+          "end": 54.24,
+          "probability": 0.8968648314476013
+        },
+        {
+          "word": " release",
+          "start": 54.24,
+          "end": 54.66,
+          "probability": 0.9748347401618958
+        },
+        {
+          "word": " oral",
+          "start": 54.66,
+          "end": 55.0,
+          "probability": 0.6643828749656677
+        },
+        {
+          "word": " form",
+          "start": 55.0,
+          "end": 55.42,
+          "probability": 0.9962846040725708
+        },
+        {
+          "word": " from",
+          "start": 55.42,
+          "end": 55.72,
+          "probability": 0.9935245513916016
+        },
+        {
+          "word": " Infiniwell,",
+          "start": 55.72,
+          "end": 56.42,
+          "probability": 0.4495085875193278
+        },
+        {
+          "word": " pentadica",
+          "start": 56.86,
+          "end": 57.44,
+          "probability": 0.44288455446561176
+        },
+        {
+          "word": " peptide",
+          "start": 57.44,
+          "end": 57.96,
+          "probability": 0.9654340445995331
+        },
+        {
+          "word": " that",
+          "start": 57.96,
+          "end": 58.22,
+          "probability": 0.8880952000617981
+        },
+        {
+          "word": " may",
+          "start": 58.22,
+          "end": 58.42,
+          "probability": 0.9963877201080322
+        },
+        {
+          "word": " support",
+          "start": 58.42,
+          "end": 58.74,
+          "probability": 0.9978289008140564
+        },
+        {
+          "word": " the",
+          "start": 58.74,
+          "end": 58.96,
+          "probability": 0.9937922358512878
+        },
+        {
+          "word": " tight",
+          "start": 58.96,
+          "end": 59.2,
+          "probability": 0.9911240339279175
+        },
+        {
+          "word": " junction",
+          "start": 59.2,
+          "end": 59.58,
+          "probability": 0.9911655783653259
+        },
+        {
+          "word": " reset.",
+          "start": 59.58,
+          "end": 60.0,
+          "probability": 0.9782487154006958
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5166,
+      "start": 60.82,
+      "end": 64.92,
+      "text": " The rest of the protocol is waiting on. Most gut protocols assume the lining is intact.",
+      "tokens": [
+        50816,
+        440,
+        1472,
+        295,
+        264,
+        10336,
+        307,
+        3806,
+        322,
+        13,
+        4534,
+        5228,
+        20618,
+        6552,
+        264,
+        19628,
+        307,
+        23493,
+        13,
+        51040
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21666374206542968,
+      "compression_ratio": 1.610655737704918,
+      "no_speech_prob": 0.03530365228652954,
+      "words": [
+        {
+          "word": " The",
+          "start": 60.82,
+          "end": 60.94,
+          "probability": 0.9933029413223267
+        },
+        {
+          "word": " rest",
+          "start": 60.94,
+          "end": 61.1,
+          "probability": 0.9994718432426453
+        },
+        {
+          "word": " of",
+          "start": 61.1,
+          "end": 61.26,
+          "probability": 0.9976198077201843
+        },
+        {
+          "word": " the",
+          "start": 61.26,
+          "end": 61.38,
+          "probability": 0.9963068962097168
+        },
+        {
+          "word": " protocol",
+          "start": 61.38,
+          "end": 61.7,
+          "probability": 0.9949401617050171
+        },
+        {
+          "word": " is",
+          "start": 61.7,
+          "end": 61.94,
+          "probability": 0.9960439205169678
+        },
+        {
+          "word": " waiting",
+          "start": 61.94,
+          "end": 62.18,
+          "probability": 0.9629984498023987
+        },
+        {
+          "word": " on.",
+          "start": 62.18,
+          "end": 62.42,
+          "probability": 0.9957796335220337
+        },
+        {
+          "word": " Most",
+          "start": 62.74,
+          "end": 62.96,
+          "probability": 0.9922824501991272
+        },
+        {
+          "word": " gut",
+          "start": 62.96,
+          "end": 63.12,
+          "probability": 0.9785937070846558
+        },
+        {
+          "word": " protocols",
+          "start": 63.12,
+          "end": 63.54,
+          "probability": 0.9758140444755554
+        },
+        {
+          "word": " assume",
+          "start": 63.54,
+          "end": 63.94,
+          "probability": 0.9902687072753906
+        },
+        {
+          "word": " the",
+          "start": 63.94,
+          "end": 64.14,
+          "probability": 0.9798693060874939
+        },
+        {
+          "word": " lining",
+          "start": 64.14,
+          "end": 64.34,
+          "probability": 0.987337589263916
+        },
+        {
+          "word": " is",
+          "start": 64.34,
+          "end": 64.6,
+          "probability": 0.9909821152687073
+        },
+        {
+          "word": " intact.",
+          "start": 64.6,
+          "end": 64.92,
+          "probability": 0.9875943660736084
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5166,
+      "start": 65.54,
+      "end": 71.58,
+      "text": " When it isn't, every input reaches a closed door. Not a replacement for the protocol. The floor the protocol is standing on.",
+      "tokens": [
+        51052,
+        1133,
+        309,
+        1943,
+        380,
+        11,
+        633,
+        4846,
+        14235,
+        257,
+        5395,
+        2853,
+        13,
+        1726,
+        257,
+        14419,
+        337,
+        264,
+        10336,
+        13,
+        440,
+        4123,
+        264,
+        10336,
+        307,
+        4877,
+        322,
+        13,
+        51360
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21666374206542968,
+      "compression_ratio": 1.610655737704918,
+      "no_speech_prob": 0.03530365228652954,
+      "words": [
+        {
+          "word": " When",
+          "start": 65.54,
+          "end": 65.66,
+          "probability": 0.99639892578125
+        },
+        {
+          "word": " it",
+          "start": 65.66,
+          "end": 65.8,
+          "probability": 0.998267412185669
+        },
+        {
+          "word": " isn't,",
+          "start": 65.8,
+          "end": 66.1,
+          "probability": 0.9654183387756348
+        },
+        {
+          "word": " every",
+          "start": 66.2,
+          "end": 66.4,
+          "probability": 0.9933225512504578
+        },
+        {
+          "word": " input",
+          "start": 66.4,
+          "end": 66.72,
+          "probability": 0.9977127313613892
+        },
+        {
+          "word": " reaches",
+          "start": 66.72,
+          "end": 67.04,
+          "probability": 0.9948430061340332
+        },
+        {
+          "word": " a",
+          "start": 67.04,
+          "end": 67.22,
+          "probability": 0.9901608228683472
+        },
+        {
+          "word": " closed",
+          "start": 67.22,
+          "end": 67.48,
+          "probability": 0.9820839166641235
+        },
+        {
+          "word": " door.",
+          "start": 67.48,
+          "end": 67.82,
+          "probability": 0.9960869550704956
+        },
+        {
+          "word": " Not",
+          "start": 68.1,
+          "end": 68.22,
+          "probability": 0.9864684343338013
+        },
+        {
+          "word": " a",
+          "start": 68.22,
+          "end": 68.32,
+          "probability": 0.9975147247314453
+        },
+        {
+          "word": " replacement",
+          "start": 68.32,
+          "end": 68.68,
+          "probability": 0.998289167881012
+        },
+        {
+          "word": " for",
+          "start": 68.68,
+          "end": 68.9,
+          "probability": 0.998710036277771
+        },
+        {
+          "word": " the",
+          "start": 68.9,
+          "end": 69.0,
+          "probability": 0.9958368539810181
+        },
+        {
+          "word": " protocol.",
+          "start": 69.0,
+          "end": 69.42,
+          "probability": 0.9981098175048828
+        },
+        {
+          "word": " The",
+          "start": 69.7,
+          "end": 69.8,
+          "probability": 0.9931573271751404
+        },
+        {
+          "word": " floor",
+          "start": 69.8,
+          "end": 70.14,
+          "probability": 0.9732906222343445
+        },
+        {
+          "word": " the",
+          "start": 70.14,
+          "end": 70.34,
+          "probability": 0.35959717631340027
+        },
+        {
+          "word": " protocol",
+          "start": 70.34,
+          "end": 70.72,
+          "probability": 0.998268723487854
+        },
+        {
+          "word": " is",
+          "start": 70.72,
+          "end": 70.92,
+          "probability": 0.9976171851158142
+        },
+        {
+          "word": " standing",
+          "start": 70.92,
+          "end": 71.28,
+          "probability": 0.9944800138473511
+        },
+        {
+          "word": " on.",
+          "start": 71.28,
+          "end": 71.58,
+          "probability": 0.9962623715400696
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 5166,
+      "start": 72.48,
+      "end": 78.02,
+      "text": " Full pattern breakdown at tr.e slash owq7fm. Type it.",
+      "tokens": [
+        51408,
+        13841,
+        5102,
+        18188,
+        412,
+        504,
+        13,
+        68,
+        17330,
+        277,
+        86,
+        80,
+        22,
+        69,
+        76,
+        13,
+        15576,
+        309,
+        13,
+        51680
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21666374206542968,
+      "compression_ratio": 1.610655737704918,
+      "no_speech_prob": 0.03530365228652954,
+      "words": [
+        {
+          "word": " Full",
+          "start": 72.48,
+          "end": 72.8,
+          "probability": 0.9782771468162537
+        },
+        {
+          "word": " pattern",
+          "start": 72.8,
+          "end": 73.14,
+          "probability": 0.8338302373886108
+        },
+        {
+          "word": " breakdown",
+          "start": 73.14,
+          "end": 73.62,
+          "probability": 0.9212799072265625
+        },
+        {
+          "word": " at",
+          "start": 73.62,
+          "end": 73.88,
+          "probability": 0.9481812715530396
+        },
+        {
+          "word": " tr",
+          "start": 73.88,
+          "end": 74.16,
+          "probability": 0.5151665210723877
+        },
+        {
+          "word": ".e",
+          "start": 74.16,
+          "end": 74.68,
+          "probability": 0.808157205581665
+        },
+        {
+          "word": " slash",
+          "start": 74.68,
+          "end": 75.16,
+          "probability": 0.053159479051828384
+        },
+        {
+          "word": " owq7fm.",
+          "start": 75.16,
+          "end": 76.88,
+          "probability": 0.8681332170963287
+        },
+        {
+          "word": " Type",
+          "start": 77.56,
+          "end": 77.74,
+          "probability": 0.729061484336853
+        },
+        {
+          "word": " it.",
+          "start": 77.74,
+          "end": 78.02,
+          "probability": 0.9775086641311646
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,1746 @@
+{
+  "text": " One pattern in tissue repair cases that plateau at about 80% and stop. Injury is old, sometimes years old, sometimes months. The protocol is well designed, right amino acids, right mineral cofactors, right movement rehab. Progress comes in the first phase, then it stalls. The body lands at maybe 75% of baseline function and refuses to close the gap. What I have come to watch for is the difference between inputs and signaling. You can add every nutrient on the list and still stall if the body is not receiving a repair signal. The cells need to know that the job is not finished. In cases like that, a signaling molecule often moves the needle when a tenth nutrient would not. Here's the one I reach for. In Finnewell, BPC157 rapid. The same pentadeca peptide in a faster release format targeted at soft tissue. Short course, tracked carefully, stopped when the plateau breaks, nutrients build, signaling decides the protocol stalls when the build is right and the signal is missing, not a forever protocol. A test input when the last 20% refuses to come back. Full pattern breakdown at tr.e slash owq7fm. Type it.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.04,
+      "text": " One pattern in tissue repair cases that plateau at about 80% and stop.",
+      "tokens": [
+        50364,
+        1485,
+        5102,
+        294,
+        12404,
+        10535,
+        3331,
+        300,
+        39885,
+        412,
+        466,
+        4688,
+        4,
+        293,
+        1590,
+        13,
+        50614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1450280325753348,
+      "compression_ratio": 1.612781954887218,
+      "no_speech_prob": 0.002745665842667222,
+      "words": [
+        {
+          "word": " One",
+          "start": 0.0,
+          "end": 0.14,
+          "probability": 0.8299673795700073
+        },
+        {
+          "word": " pattern",
+          "start": 0.14,
+          "end": 0.52,
+          "probability": 0.9917672276496887
+        },
+        {
+          "word": " in",
+          "start": 0.52,
+          "end": 0.72,
+          "probability": 0.768912672996521
+        },
+        {
+          "word": " tissue",
+          "start": 0.72,
+          "end": 0.98,
+          "probability": 0.86847984790802
+        },
+        {
+          "word": " repair",
+          "start": 0.98,
+          "end": 1.3,
+          "probability": 0.9947535991668701
+        },
+        {
+          "word": " cases",
+          "start": 1.3,
+          "end": 1.82,
+          "probability": 0.9946645498275757
+        },
+        {
+          "word": " that",
+          "start": 1.82,
+          "end": 2.08,
+          "probability": 0.9896057844161987
+        },
+        {
+          "word": " plateau",
+          "start": 2.08,
+          "end": 2.5,
+          "probability": 0.9943800568580627
+        },
+        {
+          "word": " at",
+          "start": 2.5,
+          "end": 2.66,
+          "probability": 0.9042291641235352
+        },
+        {
+          "word": " about",
+          "start": 2.66,
+          "end": 2.84,
+          "probability": 0.9682305455207825
+        },
+        {
+          "word": " 80",
+          "start": 2.84,
+          "end": 3.18,
+          "probability": 0.9800578355789185
+        },
+        {
+          "word": "%",
+          "start": 3.18,
+          "end": 3.5,
+          "probability": 0.9234248995780945
+        },
+        {
+          "word": " and",
+          "start": 3.5,
+          "end": 3.72,
+          "probability": 0.9678781628608704
+        },
+        {
+          "word": " stop.",
+          "start": 3.72,
+          "end": 4.04,
+          "probability": 0.9911075234413147
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.96,
+      "end": 7.8,
+      "text": " Injury is old, sometimes years old, sometimes months.",
+      "tokens": [
+        50614,
+        682,
+        73,
+        2598,
+        307,
+        1331,
+        11,
+        2171,
+        924,
+        1331,
+        11,
+        2171,
+        2493,
+        13,
+        50780
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1450280325753348,
+      "compression_ratio": 1.612781954887218,
+      "no_speech_prob": 0.002745665842667222,
+      "words": [
+        {
+          "word": " Injury",
+          "start": 4.96,
+          "end": 5.3,
+          "probability": 0.9237908720970154
+        },
+        {
+          "word": " is",
+          "start": 5.3,
+          "end": 5.44,
+          "probability": 0.992260754108429
+        },
+        {
+          "word": " old,",
+          "start": 5.44,
+          "end": 5.68,
+          "probability": 0.9919072389602661
+        },
+        {
+          "word": " sometimes",
+          "start": 6.0,
+          "end": 6.26,
+          "probability": 0.9921688437461853
+        },
+        {
+          "word": " years",
+          "start": 6.26,
+          "end": 6.6,
+          "probability": 0.9792378544807434
+        },
+        {
+          "word": " old,",
+          "start": 6.6,
+          "end": 6.98,
+          "probability": 0.9930852651596069
+        },
+        {
+          "word": " sometimes",
+          "start": 7.18,
+          "end": 7.46,
+          "probability": 0.9925289154052734
+        },
+        {
+          "word": " months.",
+          "start": 7.46,
+          "end": 7.8,
+          "probability": 0.9975367784500122
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 8.3,
+      "end": 13.52,
+      "text": " The protocol is well designed, right amino acids, right mineral cofactors, right movement rehab.",
+      "tokens": [
+        50780,
+        440,
+        10336,
+        307,
+        731,
+        4761,
+        11,
+        558,
+        24674,
+        21667,
+        11,
+        558,
+        21630,
+        598,
+        44919,
+        830,
+        11,
+        558,
+        3963,
+        32414,
+        13,
+        51080
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1450280325753348,
+      "compression_ratio": 1.612781954887218,
+      "no_speech_prob": 0.002745665842667222,
+      "words": [
+        {
+          "word": " The",
+          "start": 8.3,
+          "end": 8.36,
+          "probability": 0.9946619868278503
+        },
+        {
+          "word": " protocol",
+          "start": 8.36,
+          "end": 8.68,
+          "probability": 0.995991051197052
+        },
+        {
+          "word": " is",
+          "start": 8.68,
+          "end": 9.0,
+          "probability": 0.9955006241798401
+        },
+        {
+          "word": " well",
+          "start": 9.0,
+          "end": 9.12,
+          "probability": 0.9984033703804016
+        },
+        {
+          "word": " designed,",
+          "start": 9.12,
+          "end": 9.52,
+          "probability": 0.8226733803749084
+        },
+        {
+          "word": " right",
+          "start": 9.92,
+          "end": 10.0,
+          "probability": 0.9107450842857361
+        },
+        {
+          "word": " amino",
+          "start": 10.0,
+          "end": 10.22,
+          "probability": 0.9033734202384949
+        },
+        {
+          "word": " acids,",
+          "start": 10.22,
+          "end": 10.74,
+          "probability": 0.9980560541152954
+        },
+        {
+          "word": " right",
+          "start": 11.14,
+          "end": 11.26,
+          "probability": 0.9951537847518921
+        },
+        {
+          "word": " mineral",
+          "start": 11.26,
+          "end": 11.58,
+          "probability": 0.9843793511390686
+        },
+        {
+          "word": " cofactors,",
+          "start": 11.58,
+          "end": 12.4,
+          "probability": 0.8900904655456543
+        },
+        {
+          "word": " right",
+          "start": 12.64,
+          "end": 12.78,
+          "probability": 0.9964891672134399
+        },
+        {
+          "word": " movement",
+          "start": 12.78,
+          "end": 13.1,
+          "probability": 0.9974129796028137
+        },
+        {
+          "word": " rehab.",
+          "start": 13.1,
+          "end": 13.52,
+          "probability": 0.9984183311462402
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.3,
+      "end": 16.84,
+      "text": " Progress comes in the first phase, then it stalls.",
+      "tokens": [
+        51080,
+        32587,
+        1487,
+        294,
+        264,
+        700,
+        5574,
+        11,
+        550,
+        309,
+        50248,
+        13,
+        51244
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1450280325753348,
+      "compression_ratio": 1.612781954887218,
+      "no_speech_prob": 0.002745665842667222,
+      "words": [
+        {
+          "word": " Progress",
+          "start": 14.3,
+          "end": 14.52,
+          "probability": 0.9853876233100891
+        },
+        {
+          "word": " comes",
+          "start": 14.52,
+          "end": 14.82,
+          "probability": 0.9955754280090332
+        },
+        {
+          "word": " in",
+          "start": 14.82,
+          "end": 15.02,
+          "probability": 0.9968007802963257
+        },
+        {
+          "word": " the",
+          "start": 15.02,
+          "end": 15.12,
+          "probability": 0.9953011274337769
+        },
+        {
+          "word": " first",
+          "start": 15.12,
+          "end": 15.36,
+          "probability": 0.9978194236755371
+        },
+        {
+          "word": " phase,",
+          "start": 15.36,
+          "end": 15.7,
+          "probability": 0.9991747736930847
+        },
+        {
+          "word": " then",
+          "start": 16.16,
+          "end": 16.4,
+          "probability": 0.9883868098258972
+        },
+        {
+          "word": " it",
+          "start": 16.4,
+          "end": 16.52,
+          "probability": 0.9649870991706848
+        },
+        {
+          "word": " stalls.",
+          "start": 16.52,
+          "end": 16.84,
+          "probability": 0.9747779965400696
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.5,
+      "end": 22.22,
+      "text": " The body lands at maybe 75% of baseline function and refuses to close the gap.",
+      "tokens": [
+        51244,
+        440,
+        1772,
+        5949,
+        412,
+        1310,
+        9562,
+        4,
+        295,
+        20518,
+        2445,
+        293,
+        33222,
+        281,
+        1998,
+        264,
+        7417,
+        13,
+        51528
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1450280325753348,
+      "compression_ratio": 1.612781954887218,
+      "no_speech_prob": 0.002745665842667222,
+      "words": [
+        {
+          "word": " The",
+          "start": 17.5,
+          "end": 17.66,
+          "probability": 0.9962982535362244
+        },
+        {
+          "word": " body",
+          "start": 17.66,
+          "end": 17.9,
+          "probability": 0.9924151301383972
+        },
+        {
+          "word": " lands",
+          "start": 17.9,
+          "end": 18.2,
+          "probability": 0.9201403856277466
+        },
+        {
+          "word": " at",
+          "start": 18.2,
+          "end": 18.36,
+          "probability": 0.9908603429794312
+        },
+        {
+          "word": " maybe",
+          "start": 18.36,
+          "end": 18.58,
+          "probability": 0.9780642986297607
+        },
+        {
+          "word": " 75",
+          "start": 18.58,
+          "end": 19.02,
+          "probability": 0.9916636943817139
+        },
+        {
+          "word": "%",
+          "start": 19.02,
+          "end": 19.58,
+          "probability": 0.9876621961593628
+        },
+        {
+          "word": " of",
+          "start": 19.58,
+          "end": 19.84,
+          "probability": 0.9947991371154785
+        },
+        {
+          "word": " baseline",
+          "start": 19.84,
+          "end": 20.2,
+          "probability": 0.9910377264022827
+        },
+        {
+          "word": " function",
+          "start": 20.2,
+          "end": 20.64,
+          "probability": 0.9972414970397949
+        },
+        {
+          "word": " and",
+          "start": 20.64,
+          "end": 21.0,
+          "probability": 0.9119510054588318
+        },
+        {
+          "word": " refuses",
+          "start": 21.0,
+          "end": 21.34,
+          "probability": 0.9912041425704956
+        },
+        {
+          "word": " to",
+          "start": 21.34,
+          "end": 21.64,
+          "probability": 0.9994522929191589
+        },
+        {
+          "word": " close",
+          "start": 21.64,
+          "end": 21.82,
+          "probability": 0.997141420841217
+        },
+        {
+          "word": " the",
+          "start": 21.82,
+          "end": 22.06,
+          "probability": 0.9986250400543213
+        },
+        {
+          "word": " gap.",
+          "start": 22.06,
+          "end": 22.22,
+          "probability": 0.995006799697876
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23.14,
+      "end": 26.78,
+      "text": " What I have come to watch for is the difference between inputs and signaling.",
+      "tokens": [
+        51528,
+        708,
+        286,
+        362,
+        808,
+        281,
+        1159,
+        337,
+        307,
+        264,
+        2649,
+        1296,
+        15743,
+        293,
+        38639,
+        13,
+        51756
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1450280325753348,
+      "compression_ratio": 1.612781954887218,
+      "no_speech_prob": 0.002745665842667222,
+      "words": [
+        {
+          "word": " What",
+          "start": 23.14,
+          "end": 23.34,
+          "probability": 0.9931187629699707
+        },
+        {
+          "word": " I",
+          "start": 23.34,
+          "end": 23.46,
+          "probability": 0.9985978007316589
+        },
+        {
+          "word": " have",
+          "start": 23.46,
+          "end": 23.58,
+          "probability": 0.98055100440979
+        },
+        {
+          "word": " come",
+          "start": 23.58,
+          "end": 23.74,
+          "probability": 0.9970471262931824
+        },
+        {
+          "word": " to",
+          "start": 23.74,
+          "end": 23.9,
+          "probability": 0.9990280866622925
+        },
+        {
+          "word": " watch",
+          "start": 23.9,
+          "end": 24.1,
+          "probability": 0.9306825995445251
+        },
+        {
+          "word": " for",
+          "start": 24.1,
+          "end": 24.34,
+          "probability": 0.996715784072876
+        },
+        {
+          "word": " is",
+          "start": 24.34,
+          "end": 24.68,
+          "probability": 0.9643083214759827
+        },
+        {
+          "word": " the",
+          "start": 24.68,
+          "end": 24.82,
+          "probability": 0.9951481223106384
+        },
+        {
+          "word": " difference",
+          "start": 24.82,
+          "end": 25.08,
+          "probability": 0.9972297549247742
+        },
+        {
+          "word": " between",
+          "start": 25.08,
+          "end": 25.46,
+          "probability": 0.9990680813789368
+        },
+        {
+          "word": " inputs",
+          "start": 25.46,
+          "end": 25.92,
+          "probability": 0.9942485094070435
+        },
+        {
+          "word": " and",
+          "start": 25.92,
+          "end": 26.36,
+          "probability": 0.9967081546783447
+        },
+        {
+          "word": " signaling.",
+          "start": 26.36,
+          "end": 26.78,
+          "probability": 0.9306391477584839
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2678,
+      "start": 27.66,
+      "end": 33.2,
+      "text": " You can add every nutrient on the list and still stall if the body is not receiving a repair signal.",
+      "tokens": [
+        50408,
+        509,
+        393,
+        909,
+        633,
+        32694,
+        322,
+        264,
+        1329,
+        293,
+        920,
+        19633,
+        498,
+        264,
+        1772,
+        307,
+        406,
+        10040,
+        257,
+        10535,
+        6358,
+        13,
+        50696
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18839299445058785,
+      "compression_ratio": 1.5843621399176955,
+      "no_speech_prob": 0.014296277426183224,
+      "words": [
+        {
+          "word": " You",
+          "start": 27.6,
+          "end": 27.88,
+          "probability": 0.28165945410728455
+        },
+        {
+          "word": " can",
+          "start": 27.88,
+          "end": 28.04,
+          "probability": 0.9932500123977661
+        },
+        {
+          "word": " add",
+          "start": 28.04,
+          "end": 28.24,
+          "probability": 0.9891697764396667
+        },
+        {
+          "word": " every",
+          "start": 28.24,
+          "end": 28.58,
+          "probability": 0.9845255017280579
+        },
+        {
+          "word": " nutrient",
+          "start": 28.58,
+          "end": 28.96,
+          "probability": 0.9932913780212402
+        },
+        {
+          "word": " on",
+          "start": 28.96,
+          "end": 29.16,
+          "probability": 0.9969642758369446
+        },
+        {
+          "word": " the",
+          "start": 29.16,
+          "end": 29.32,
+          "probability": 0.9922123551368713
+        },
+        {
+          "word": " list",
+          "start": 29.32,
+          "end": 29.66,
+          "probability": 0.9968411922454834
+        },
+        {
+          "word": " and",
+          "start": 29.66,
+          "end": 29.88,
+          "probability": 0.79783695936203
+        },
+        {
+          "word": " still",
+          "start": 29.88,
+          "end": 30.18,
+          "probability": 0.9900681972503662
+        },
+        {
+          "word": " stall",
+          "start": 30.18,
+          "end": 30.58,
+          "probability": 0.9883365035057068
+        },
+        {
+          "word": " if",
+          "start": 30.58,
+          "end": 31.02,
+          "probability": 0.9739304184913635
+        },
+        {
+          "word": " the",
+          "start": 31.02,
+          "end": 31.18,
+          "probability": 0.992796003818512
+        },
+        {
+          "word": " body",
+          "start": 31.18,
+          "end": 31.46,
+          "probability": 0.9982288479804993
+        },
+        {
+          "word": " is",
+          "start": 31.46,
+          "end": 31.68,
+          "probability": 0.991367757320404
+        },
+        {
+          "word": " not",
+          "start": 31.68,
+          "end": 31.84,
+          "probability": 0.9950188398361206
+        },
+        {
+          "word": " receiving",
+          "start": 31.84,
+          "end": 32.24,
+          "probability": 0.9969760179519653
+        },
+        {
+          "word": " a",
+          "start": 32.24,
+          "end": 32.46,
+          "probability": 0.9883346557617188
+        },
+        {
+          "word": " repair",
+          "start": 32.46,
+          "end": 32.72,
+          "probability": 0.9947372078895569
+        },
+        {
+          "word": " signal.",
+          "start": 32.72,
+          "end": 33.2,
+          "probability": 0.9965304732322693
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2678,
+      "start": 33.94,
+      "end": 36.48,
+      "text": " The cells need to know that the job is not finished.",
+      "tokens": [
+        50720,
+        440,
+        5438,
+        643,
+        281,
+        458,
+        300,
+        264,
+        1691,
+        307,
+        406,
+        4335,
+        13,
+        50860
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18839299445058785,
+      "compression_ratio": 1.5843621399176955,
+      "no_speech_prob": 0.014296277426183224,
+      "words": [
+        {
+          "word": " The",
+          "start": 33.94,
+          "end": 34.1,
+          "probability": 0.9919680953025818
+        },
+        {
+          "word": " cells",
+          "start": 34.1,
+          "end": 34.34,
+          "probability": 0.9946783781051636
+        },
+        {
+          "word": " need",
+          "start": 34.34,
+          "end": 34.6,
+          "probability": 0.9974721074104309
+        },
+        {
+          "word": " to",
+          "start": 34.6,
+          "end": 34.74,
+          "probability": 0.9961133003234863
+        },
+        {
+          "word": " know",
+          "start": 34.74,
+          "end": 34.9,
+          "probability": 0.9981746673583984
+        },
+        {
+          "word": " that",
+          "start": 34.9,
+          "end": 35.06,
+          "probability": 0.9836591482162476
+        },
+        {
+          "word": " the",
+          "start": 35.06,
+          "end": 35.2,
+          "probability": 0.9931341409683228
+        },
+        {
+          "word": " job",
+          "start": 35.2,
+          "end": 35.44,
+          "probability": 0.9929614663124084
+        },
+        {
+          "word": " is",
+          "start": 35.44,
+          "end": 35.72,
+          "probability": 0.9924444556236267
+        },
+        {
+          "word": " not",
+          "start": 35.72,
+          "end": 35.92,
+          "probability": 0.9888534545898438
+        },
+        {
+          "word": " finished.",
+          "start": 35.92,
+          "end": 36.48,
+          "probability": 0.9958518743515015
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2678,
+      "start": 36.84,
+      "end": 41.82,
+      "text": " In cases like that, a signaling molecule often moves the needle when a tenth nutrient would not.",
+      "tokens": [
+        50860,
+        682,
+        3331,
+        411,
+        300,
+        11,
+        257,
+        38639,
+        15582,
+        2049,
+        6067,
+        264,
+        11037,
+        562,
+        257,
+        27269,
+        32694,
+        576,
+        406,
+        13,
+        51132
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18839299445058785,
+      "compression_ratio": 1.5843621399176955,
+      "no_speech_prob": 0.014296277426183224,
+      "words": [
+        {
+          "word": " In",
+          "start": 36.84,
+          "end": 36.92,
+          "probability": 0.9935030341148376
+        },
+        {
+          "word": " cases",
+          "start": 36.92,
+          "end": 37.22,
+          "probability": 0.996286153793335
+        },
+        {
+          "word": " like",
+          "start": 37.22,
+          "end": 37.5,
+          "probability": 0.9991679191589355
+        },
+        {
+          "word": " that,",
+          "start": 37.5,
+          "end": 37.74,
+          "probability": 0.9978612065315247
+        },
+        {
+          "word": " a",
+          "start": 37.96,
+          "end": 38.0,
+          "probability": 0.990471601486206
+        },
+        {
+          "word": " signaling",
+          "start": 38.0,
+          "end": 38.36,
+          "probability": 0.9869987368583679
+        },
+        {
+          "word": " molecule",
+          "start": 38.36,
+          "end": 38.98,
+          "probability": 0.9992604851722717
+        },
+        {
+          "word": " often",
+          "start": 38.98,
+          "end": 39.44,
+          "probability": 0.9961686730384827
+        },
+        {
+          "word": " moves",
+          "start": 39.44,
+          "end": 39.7,
+          "probability": 0.989926815032959
+        },
+        {
+          "word": " the",
+          "start": 39.7,
+          "end": 39.88,
+          "probability": 0.9929205775260925
+        },
+        {
+          "word": " needle",
+          "start": 39.88,
+          "end": 40.12,
+          "probability": 0.9965304732322693
+        },
+        {
+          "word": " when",
+          "start": 40.12,
+          "end": 40.4,
+          "probability": 0.9949049949645996
+        },
+        {
+          "word": " a",
+          "start": 40.4,
+          "end": 40.52,
+          "probability": 0.9978834986686707
+        },
+        {
+          "word": " tenth",
+          "start": 40.52,
+          "end": 40.72,
+          "probability": 0.4494556188583374
+        },
+        {
+          "word": " nutrient",
+          "start": 40.72,
+          "end": 41.32,
+          "probability": 0.9919309020042419
+        },
+        {
+          "word": " would",
+          "start": 41.32,
+          "end": 41.58,
+          "probability": 0.9945726990699768
+        },
+        {
+          "word": " not.",
+          "start": 41.58,
+          "end": 41.82,
+          "probability": 0.9950941801071167
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2678,
+      "start": 42.3,
+      "end": 43.46,
+      "text": " Here's the one I reach for.",
+      "tokens": [
+        51132,
+        1692,
+        311,
+        264,
+        472,
+        286,
+        2524,
+        337,
+        13,
+        51200
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18839299445058785,
+      "compression_ratio": 1.5843621399176955,
+      "no_speech_prob": 0.014296277426183224,
+      "words": [
+        {
+          "word": " Here's",
+          "start": 42.3,
+          "end": 42.62,
+          "probability": 0.7256472706794739
+        },
+        {
+          "word": " the",
+          "start": 42.62,
+          "end": 42.7,
+          "probability": 0.994649350643158
+        },
+        {
+          "word": " one",
+          "start": 42.7,
+          "end": 42.84,
+          "probability": 0.9965726137161255
+        },
+        {
+          "word": " I",
+          "start": 42.84,
+          "end": 43.0,
+          "probability": 0.9895768165588379
+        },
+        {
+          "word": " reach",
+          "start": 43.0,
+          "end": 43.16,
+          "probability": 0.8185399174690247
+        },
+        {
+          "word": " for.",
+          "start": 43.16,
+          "end": 43.46,
+          "probability": 0.9923145174980164
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2678,
+      "start": 44.26,
+      "end": 47.32,
+      "text": " In Finnewell, BPC157 rapid.",
+      "tokens": [
+        51232,
+        682,
+        3773,
+        716,
+        6326,
+        11,
+        363,
+        12986,
+        5211,
+        22,
+        7558,
+        13,
+        51404
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18839299445058785,
+      "compression_ratio": 1.5843621399176955,
+      "no_speech_prob": 0.014296277426183224,
+      "words": [
+        {
+          "word": " In",
+          "start": 44.26,
+          "end": 44.34,
+          "probability": 0.8775146007537842
+        },
+        {
+          "word": " Finnewell,",
+          "start": 44.34,
+          "end": 44.94,
+          "probability": 0.60802028576533
+        },
+        {
+          "word": " BPC157",
+          "start": 45.56,
+          "end": 46.94,
+          "probability": 0.8303966298699379
+        },
+        {
+          "word": " rapid.",
+          "start": 46.94,
+          "end": 47.32,
+          "probability": 0.3497115671634674
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2678,
+      "start": 47.94,
+      "end": 52.54,
+      "text": " The same pentadeca peptide in a faster release format targeted at soft tissue.",
+      "tokens": [
+        51420,
+        440,
+        912,
+        16834,
+        762,
+        496,
+        41781,
+        482,
+        294,
+        257,
+        4663,
+        4374,
+        7877,
+        15045,
+        412,
+        2787,
+        12404,
+        13,
+        51652
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18839299445058785,
+      "compression_ratio": 1.5843621399176955,
+      "no_speech_prob": 0.014296277426183224,
+      "words": [
+        {
+          "word": " The",
+          "start": 47.94,
+          "end": 48.12,
+          "probability": 0.9895031452178955
+        },
+        {
+          "word": " same",
+          "start": 48.12,
+          "end": 48.4,
+          "probability": 0.99845290184021
+        },
+        {
+          "word": " pentadeca",
+          "start": 48.4,
+          "end": 49.1,
+          "probability": 0.5123180647691091
+        },
+        {
+          "word": " peptide",
+          "start": 49.1,
+          "end": 49.62,
+          "probability": 0.8947459161281586
+        },
+        {
+          "word": " in",
+          "start": 49.62,
+          "end": 49.86,
+          "probability": 0.9763023853302002
+        },
+        {
+          "word": " a",
+          "start": 49.86,
+          "end": 49.98,
+          "probability": 0.9960589408874512
+        },
+        {
+          "word": " faster",
+          "start": 49.98,
+          "end": 50.26,
+          "probability": 0.9640457034111023
+        },
+        {
+          "word": " release",
+          "start": 50.26,
+          "end": 50.56,
+          "probability": 0.7092906832695007
+        },
+        {
+          "word": " format",
+          "start": 50.56,
+          "end": 51.04,
+          "probability": 0.9944028258323669
+        },
+        {
+          "word": " targeted",
+          "start": 51.04,
+          "end": 51.54,
+          "probability": 0.9624730348587036
+        },
+        {
+          "word": " at",
+          "start": 51.54,
+          "end": 51.86,
+          "probability": 0.9967656135559082
+        },
+        {
+          "word": " soft",
+          "start": 51.86,
+          "end": 52.16,
+          "probability": 0.9103662371635437
+        },
+        {
+          "word": " tissue.",
+          "start": 52.16,
+          "end": 52.54,
+          "probability": 0.9962430000305176
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 5254,
+      "start": 53.18,
+      "end": 58.02,
+      "text": " Short course, tracked carefully, stopped when the plateau breaks, nutrients build,",
+      "tokens": [
+        50396,
+        16881,
+        1164,
+        11,
+        31703,
+        7500,
+        11,
+        5936,
+        562,
+        264,
+        39885,
+        9857,
+        11,
+        17617,
+        1322,
+        11,
+        50656
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21485490798950196,
+      "compression_ratio": 1.5175879396984924,
+      "no_speech_prob": 0.017378274351358414,
+      "words": [
+        {
+          "word": " Short",
+          "start": 53.14,
+          "end": 53.46,
+          "probability": 0.14671079814434052
+        },
+        {
+          "word": " course,",
+          "start": 53.46,
+          "end": 53.8,
+          "probability": 0.8264634609222412
+        },
+        {
+          "word": " tracked",
+          "start": 54.2,
+          "end": 54.5,
+          "probability": 0.5997822880744934
+        },
+        {
+          "word": " carefully,",
+          "start": 54.5,
+          "end": 55.04,
+          "probability": 0.9977865219116211
+        },
+        {
+          "word": " stopped",
+          "start": 55.56,
+          "end": 55.7,
+          "probability": 0.9680880904197693
+        },
+        {
+          "word": " when",
+          "start": 55.7,
+          "end": 55.94,
+          "probability": 0.9944722056388855
+        },
+        {
+          "word": " the",
+          "start": 55.94,
+          "end": 56.04,
+          "probability": 0.9935965538024902
+        },
+        {
+          "word": " plateau",
+          "start": 56.04,
+          "end": 56.36,
+          "probability": 0.9551894068717957
+        },
+        {
+          "word": " breaks,",
+          "start": 56.36,
+          "end": 56.76,
+          "probability": 0.9786311388015747
+        },
+        {
+          "word": " nutrients",
+          "start": 57.32,
+          "end": 57.58,
+          "probability": 0.9685465693473816
+        },
+        {
+          "word": " build,",
+          "start": 57.58,
+          "end": 58.02,
+          "probability": 0.9484395384788513
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5254,
+      "start": 58.6,
+      "end": 62.7,
+      "text": " signaling decides the protocol stalls when the build is right and the signal is missing,",
+      "tokens": [
+        50656,
+        38639,
+        14898,
+        264,
+        10336,
+        50248,
+        562,
+        264,
+        1322,
+        307,
+        558,
+        293,
+        264,
+        6358,
+        307,
+        5361,
+        11,
+        50884
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21485490798950196,
+      "compression_ratio": 1.5175879396984924,
+      "no_speech_prob": 0.017378274351358414,
+      "words": [
+        {
+          "word": " signaling",
+          "start": 58.6,
+          "end": 58.8,
+          "probability": 0.9531092643737793
+        },
+        {
+          "word": " decides",
+          "start": 58.8,
+          "end": 59.28,
+          "probability": 0.9694934487342834
+        },
+        {
+          "word": " the",
+          "start": 59.28,
+          "end": 59.78,
+          "probability": 0.695719301700592
+        },
+        {
+          "word": " protocol",
+          "start": 59.78,
+          "end": 60.12,
+          "probability": 0.9913632869720459
+        },
+        {
+          "word": " stalls",
+          "start": 60.12,
+          "end": 60.54,
+          "probability": 0.9754447340965271
+        },
+        {
+          "word": " when",
+          "start": 60.54,
+          "end": 60.82,
+          "probability": 0.9881895780563354
+        },
+        {
+          "word": " the",
+          "start": 60.82,
+          "end": 60.94,
+          "probability": 0.9918859004974365
+        },
+        {
+          "word": " build",
+          "start": 60.94,
+          "end": 61.18,
+          "probability": 0.9637717008590698
+        },
+        {
+          "word": " is",
+          "start": 61.18,
+          "end": 61.34,
+          "probability": 0.9991891980171204
+        },
+        {
+          "word": " right",
+          "start": 61.34,
+          "end": 61.56,
+          "probability": 0.9780260920524597
+        },
+        {
+          "word": " and",
+          "start": 61.56,
+          "end": 61.8,
+          "probability": 0.9140450954437256
+        },
+        {
+          "word": " the",
+          "start": 61.8,
+          "end": 61.92,
+          "probability": 0.9861071109771729
+        },
+        {
+          "word": " signal",
+          "start": 61.92,
+          "end": 62.22,
+          "probability": 0.9983629584312439
+        },
+        {
+          "word": " is",
+          "start": 62.22,
+          "end": 62.4,
+          "probability": 0.9984369874000549
+        },
+        {
+          "word": " missing,",
+          "start": 62.4,
+          "end": 62.7,
+          "probability": 0.9979360103607178
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5254,
+      "start": 63.06,
+      "end": 64.26,
+      "text": " not a forever protocol.",
+      "tokens": [
+        50884,
+        406,
+        257,
+        5680,
+        10336,
+        13,
+        50952
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21485490798950196,
+      "compression_ratio": 1.5175879396984924,
+      "no_speech_prob": 0.017378274351358414,
+      "words": [
+        {
+          "word": " not",
+          "start": 63.06,
+          "end": 63.24,
+          "probability": 0.9963274598121643
+        },
+        {
+          "word": " a",
+          "start": 63.24,
+          "end": 63.4,
+          "probability": 0.9947299957275391
+        },
+        {
+          "word": " forever",
+          "start": 63.4,
+          "end": 63.68,
+          "probability": 0.9768919348716736
+        },
+        {
+          "word": " protocol.",
+          "start": 63.68,
+          "end": 64.26,
+          "probability": 0.9979320764541626
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5254,
+      "start": 64.82,
+      "end": 68.1,
+      "text": " A test input when the last 20% refuses to come back.",
+      "tokens": [
+        50980,
+        316,
+        1500,
+        4846,
+        562,
+        264,
+        1036,
+        945,
+        4,
+        33222,
+        281,
+        808,
+        646,
+        13,
+        51136
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21485490798950196,
+      "compression_ratio": 1.5175879396984924,
+      "no_speech_prob": 0.017378274351358414,
+      "words": [
+        {
+          "word": " A",
+          "start": 64.82,
+          "end": 65.08,
+          "probability": 0.978820264339447
+        },
+        {
+          "word": " test",
+          "start": 65.08,
+          "end": 65.26,
+          "probability": 0.9881452322006226
+        },
+        {
+          "word": " input",
+          "start": 65.26,
+          "end": 65.62,
+          "probability": 0.9863618612289429
+        },
+        {
+          "word": " when",
+          "start": 65.62,
+          "end": 65.94,
+          "probability": 0.9670355319976807
+        },
+        {
+          "word": " the",
+          "start": 65.94,
+          "end": 66.06,
+          "probability": 0.9938515424728394
+        },
+        {
+          "word": " last",
+          "start": 66.06,
+          "end": 66.24,
+          "probability": 0.9978508949279785
+        },
+        {
+          "word": " 20",
+          "start": 66.24,
+          "end": 66.62,
+          "probability": 0.9794194102287292
+        },
+        {
+          "word": "%",
+          "start": 66.62,
+          "end": 66.9,
+          "probability": 0.9081000685691833
+        },
+        {
+          "word": " refuses",
+          "start": 66.9,
+          "end": 67.3,
+          "probability": 0.9616808295249939
+        },
+        {
+          "word": " to",
+          "start": 67.3,
+          "end": 67.56,
+          "probability": 0.9981586337089539
+        },
+        {
+          "word": " come",
+          "start": 67.56,
+          "end": 67.72,
+          "probability": 0.9966636300086975
+        },
+        {
+          "word": " back.",
+          "start": 67.72,
+          "end": 68.1,
+          "probability": 0.9984763264656067
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5254,
+      "start": 69.02,
+      "end": 73.16,
+      "text": " Full pattern breakdown at tr.e slash owq7fm.",
+      "tokens": [
+        51184,
+        13841,
+        5102,
+        18188,
+        412,
+        504,
+        13,
+        68,
+        17330,
+        277,
+        86,
+        80,
+        22,
+        69,
+        76,
+        13,
+        51388
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21485490798950196,
+      "compression_ratio": 1.5175879396984924,
+      "no_speech_prob": 0.017378274351358414,
+      "words": [
+        {
+          "word": " Full",
+          "start": 69.02,
+          "end": 69.24,
+          "probability": 0.9833360910415649
+        },
+        {
+          "word": " pattern",
+          "start": 69.24,
+          "end": 69.56,
+          "probability": 0.8304710388183594
+        },
+        {
+          "word": " breakdown",
+          "start": 69.56,
+          "end": 70.04,
+          "probability": 0.9347490668296814
+        },
+        {
+          "word": " at",
+          "start": 70.04,
+          "end": 70.46,
+          "probability": 0.8551982641220093
+        },
+        {
+          "word": " tr",
+          "start": 70.46,
+          "end": 70.78,
+          "probability": 0.3502422869205475
+        },
+        {
+          "word": ".e",
+          "start": 70.78,
+          "end": 71.24,
+          "probability": 0.8250786662101746
+        },
+        {
+          "word": " slash",
+          "start": 71.24,
+          "end": 71.68,
+          "probability": 0.054704975336790085
+        },
+        {
+          "word": " owq7fm.",
+          "start": 71.68,
+          "end": 73.16,
+          "probability": 0.743357814848423
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5254,
+      "start": 74.06,
+      "end": 74.64,
+      "text": " Type it.",
+      "tokens": [
+        51448,
+        15576,
+        309,
+        13,
+        51508
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.21485490798950196,
+      "compression_ratio": 1.5175879396984924,
+      "no_speech_prob": 0.017378274351358414,
+      "words": [
+        {
+          "word": " Type",
+          "start": 74.06,
+          "end": 74.48,
+          "probability": 0.8829062581062317
+        },
+        {
+          "word": " it.",
+          "start": 74.48,
+          "end": 74.64,
+          "probability": 0.860494077205658
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

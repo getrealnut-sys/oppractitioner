@@ -35,7 +35,7 @@ import { ScriptData } from './types';
 export const video4InfiniWellGutHookA: ScriptData = {
   compositionId: 'Video4-InfiniWellGut-HookA',
   title: 'InfiniWell BPC-157 — Gut Lining (Hook A: Pattern Observation)',
-  totalFrames: 2386,
+  totalFrames: 2381,
   fps: 30,
   phrases: [
     {
@@ -48,7 +48,7 @@ export const video4InfiniWellGutHookA: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'Client has done the work.\nElimination diet.\nClean protein.\nRight binders. Right probiotics.' }],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 229,
+      startFrame: 125,
     },
     {
       type: 'phrase',
@@ -57,7 +57,7 @@ export const video4InfiniWellGutHookA: ScriptData = {
         { text: 'Gut symptoms still show up.', green: true },
       ],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 457,
+      startFrame: 329,
     },
     {
       type: 'phrase',
@@ -67,7 +67,7 @@ export const video4InfiniWellGutHookA: ScriptData = {
         { text: '\nIntermittent reactivity\nto foods that used to be fine.' },
       ],
       tag: 'SYMPTOMS',
-      startFrame: 550,
+      startFrame: 515,
     },
     {
       type: 'phrase',
@@ -77,19 +77,19 @@ export const video4InfiniWellGutHookA: ScriptData = {
         { text: '\nThe layer everything\nhas to pass through.' },
       ],
       tag: 'ROOT PATTERN',
-      startFrame: 602,
+      startFrame: 721,
     },
     {
       type: 'phrase',
       segments: [{ text: 'If the epithelium\nis chronically inflamed,\nnothing added downstream\nclears the pattern.' }],
       tag: 'MECHANISM',
-      startFrame: 898,
+      startFrame: 879,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Body keeps opening\ntight junctions.\nFood particles keep\ntriggering the immune layer.' }],
       tag: 'MECHANISM',
-      startFrame: 1109,
+      startFrame: 1043,
     },
     {
       type: 'phrase',
@@ -98,7 +98,7 @@ export const video4InfiniWellGutHookA: ScriptData = {
         { text: 'before it can stabilize.', green: true },
       ],
       tag: 'MECHANISM',
-      startFrame: 1200,
+      startFrame: 1146,
     },
     {
       type: 'phrase',
@@ -108,14 +108,14 @@ export const video4InfiniWellGutHookA: ScriptData = {
         { text: '\nBPC-157. Short chain.\nBody Protection Compound.' },
       ],
       tag: 'INTRODUCING',
-      startFrame: 1270,
+      startFrame: 1305,
     },
     {
       type: 'product',
       segments: [{ text: 'InfiniWell\nBPC-157\nDelayed Release' }],
       qualifier: 'Studied for mucosal repair.\nMay support the tight-junction\nreset the protocol is waiting on.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 1321,
+      startFrame: 1645,
     },
     {
       type: 'phrase',
@@ -125,7 +125,7 @@ export const video4InfiniWellGutHookA: ScriptData = {
         { text: '\nWhen it isn\'t, every input\nreaches a closed door.' },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1634,
+      startFrame: 1873,
     },
     {
       type: 'result',
@@ -134,12 +134,12 @@ export const video4InfiniWellGutHookA: ScriptData = {
         { text: 'The floor the protocol\nis standing on.', green: true },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 1930,
+      startFrame: 2044,
     },
     {
       type: 'cta',
       segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2158,
+      startFrame: 2381,
       clearPrevious: true,
     },
   ],
@@ -148,7 +148,7 @@ export const video4InfiniWellGutHookA: ScriptData = {
 export const video4InfiniWellGutHookB: ScriptData = {
   compositionId: 'Video4-InfiniWellGut-HookB',
   title: 'InfiniWell BPC-157 — Gut Lining (Hook B: Contradiction)',
-  totalFrames: 2464,
+  totalFrames: 2457,
   fps: 30,
   phrases: [
     {
@@ -165,123 +165,7 @@ export const video4InfiniWellGutHookB: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'Client has done the work.\nElimination diet.\nClean protein.\nRight binders. Right probiotics.' }],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 267,
-    },
-    {
-      type: 'phrase',
-      segments: [
-        { text: 'Six months in.\n' },
-        { text: 'Gut symptoms still show up.', green: true },
-      ],
-      tag: 'CLIENT PRESENTATION',
-      startFrame: 500,
-    },
-    {
-      type: 'phrase',
-      segments: [
-        { text: 'Bloating after meals\nthat shouldn\'t cause bloating.\n' },
-        { text: 'Stool that keeps shifting.', green: true },
-        { text: '\nIntermittent reactivity\nto foods that used to be fine.' },
-      ],
-      tag: 'SYMPTOMS',
-      startFrame: 590,
-    },
-    {
-      type: 'phrase',
-      segments: [
-        { text: 'The thing I check next\nis ' },
-        { text: 'the gut lining itself.', green: true },
-        { text: '\nThe layer everything\nhas to pass through.' },
-      ],
-      tag: 'ROOT PATTERN',
-      startFrame: 647,
-    },
-    {
-      type: 'phrase',
-      segments: [{ text: 'If the epithelium\nis chronically inflamed,\nnothing added downstream\nclears the pattern.' }],
-      tag: 'MECHANISM',
-      startFrame: 949,
-    },
-    {
-      type: 'phrase',
-      segments: [{ text: 'Body keeps opening\ntight junctions.\nFood particles keep\ntriggering the immune layer.' }],
-      tag: 'MECHANISM',
-      startFrame: 1165,
-    },
-    {
-      type: 'phrase',
-      segments: [
-        { text: 'The microbiome keeps\ngetting disrupted\n' },
-        { text: 'before it can stabilize.', green: true },
-      ],
-      tag: 'MECHANISM',
-      startFrame: 1250,
-    },
-    {
-      type: 'phrase',
-      segments: [
-        { text: 'There\'s a peptide\nstudied for ' },
-        { text: 'mucosal repair\nspecifically.', green: true },
-        { text: '\nBPC-157. Short chain.\nBody Protection Compound.' },
-      ],
-      tag: 'INTRODUCING',
-      startFrame: 1320,
-    },
-    {
-      type: 'product',
-      segments: [{ text: 'InfiniWell\nBPC-157\nDelayed Release' }],
-      qualifier: 'Studied for mucosal repair.\nMay support the tight-junction\nreset the protocol is waiting on.',
-      tag: 'WHAT I REACH FOR',
-      startFrame: 1380,
-    },
-    {
-      type: 'phrase',
-      segments: [
-        { text: 'Most gut protocols\nassume ' },
-        { text: 'the lining is intact.', green: true },
-        { text: '\nWhen it isn\'t, every input\nreaches a closed door.' },
-      ],
-      tag: 'SECOND-PASS REWARD',
-      startFrame: 1699,
-    },
-    {
-      type: 'result',
-      segments: [
-        { text: 'Not a replacement\nfor the protocol.\n' },
-        { text: 'The floor the protocol\nis standing on.', green: true },
-      ],
-      tag: 'PATTERN OBSERVED',
-      startFrame: 2000,
-    },
-    {
-      type: 'cta',
-      segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2233,
-      clearPrevious: true,
-    },
-  ],
-};
-
-export const video4InfiniWellGutHookC: ScriptData = {
-  compositionId: 'Video4-InfiniWellGut-HookC',
-  title: 'InfiniWell BPC-157 — Gut Lining (Hook C: Outcome-First)',
-  totalFrames: 2409,
-  fps: 30,
-  phrases: [
-    {
-      type: 'hook',
-      segments: [
-        { text: 'Client doing everything right.\nClean diet.\nRight supplements.\n' },
-        { text: 'Gut symptoms won\'t clear.', green: true },
-      ],
-      tag: 'PATTERN OBSERVED',
-      startFrame: 0,
-    },
-    {
-      type: 'phrase',
-      segments: [{ text: 'Elimination diet.\nClean protein.\nRight binders. Right probiotics.' }],
-      tag: 'CLIENT PRESENTATION',
-      startFrame: 223,
+      startFrame: 183,
     },
     {
       type: 'phrase',
@@ -300,7 +184,7 @@ export const video4InfiniWellGutHookC: ScriptData = {
         { text: '\nIntermittent reactivity\nto foods that used to be fine.' },
       ],
       tag: 'SYMPTOMS',
-      startFrame: 470,
+      startFrame: 565,
     },
     {
       type: 'phrase',
@@ -310,19 +194,19 @@ export const video4InfiniWellGutHookC: ScriptData = {
         { text: '\nThe layer everything\nhas to pass through.' },
       ],
       tag: 'ROOT PATTERN',
-      startFrame: 528,
+      startFrame: 756,
     },
     {
       type: 'phrase',
       segments: [{ text: 'If the epithelium\nis chronically inflamed,\nnothing added downstream\nclears the pattern.' }],
       tag: 'MECHANISM',
-      startFrame: 841,
+      startFrame: 923,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Body keeps opening\ntight junctions.\nFood particles keep\ntriggering the immune layer.' }],
       tag: 'MECHANISM',
-      startFrame: 1064,
+      startFrame: 1103,
     },
     {
       type: 'phrase',
@@ -331,7 +215,7 @@ export const video4InfiniWellGutHookC: ScriptData = {
         { text: 'before it can stabilize.', green: true },
       ],
       tag: 'MECHANISM',
-      startFrame: 1150,
+      startFrame: 1213,
     },
     {
       type: 'phrase',
@@ -341,14 +225,14 @@ export const video4InfiniWellGutHookC: ScriptData = {
         { text: '\nBPC-157. Short chain.\nBody Protection Compound.' },
       ],
       tag: 'INTRODUCING',
-      startFrame: 1220,
+      startFrame: 1365,
     },
     {
       type: 'product',
       segments: [{ text: 'InfiniWell\nBPC-157\nDelayed Release' }],
       qualifier: 'Studied for mucosal repair.\nMay support the tight-junction\nreset the protocol is waiting on.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 1288,
+      startFrame: 1721,
     },
     {
       type: 'phrase',
@@ -358,7 +242,7 @@ export const video4InfiniWellGutHookC: ScriptData = {
         { text: '\nWhen it isn\'t, every input\nreaches a closed door.' },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1618,
+      startFrame: 1937,
     },
     {
       type: 'result',
@@ -367,12 +251,128 @@ export const video4InfiniWellGutHookC: ScriptData = {
         { text: 'The floor the protocol\nis standing on.', green: true },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 1930,
+      startFrame: 2108,
     },
     {
       type: 'cta',
       segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2171,
+      startFrame: 2457,
+      clearPrevious: true,
+    },
+  ],
+};
+
+export const video4InfiniWellGutHookC: ScriptData = {
+  compositionId: 'Video4-InfiniWellGut-HookC',
+  title: 'InfiniWell BPC-157 — Gut Lining (Hook C: Outcome-First)',
+  totalFrames: 2401,
+  fps: 30,
+  phrases: [
+    {
+      type: 'hook',
+      segments: [
+        { text: 'Client doing everything right.\nClean diet.\nRight supplements.\n' },
+        { text: 'Gut symptoms won\'t clear.', green: true },
+      ],
+      tag: 'PATTERN OBSERVED',
+      startFrame: 0,
+    },
+    {
+      type: 'phrase',
+      segments: [{ text: 'Elimination diet.\nClean protein.\nRight binders. Right probiotics.' }],
+      tag: 'CLIENT PRESENTATION',
+      startFrame: 232,
+    },
+    {
+      type: 'phrase',
+      segments: [
+        { text: 'Six months in.\n' },
+        { text: 'Gut symptoms still show up.', green: true },
+      ],
+      tag: 'CLIENT PRESENTATION',
+      startFrame: 374,
+    },
+    {
+      type: 'phrase',
+      segments: [
+        { text: 'Bloating after meals\nthat shouldn\'t cause bloating.\n' },
+        { text: 'Stool that keeps shifting.', green: true },
+        { text: '\nIntermittent reactivity\nto foods that used to be fine.' },
+      ],
+      tag: 'SYMPTOMS',
+      startFrame: 478,
+    },
+    {
+      type: 'phrase',
+      segments: [
+        { text: 'The thing I check next\nis ' },
+        { text: 'the gut lining itself.', green: true },
+        { text: '\nThe layer everything\nhas to pass through.' },
+      ],
+      tag: 'ROOT PATTERN',
+      startFrame: 685,
+    },
+    {
+      type: 'phrase',
+      segments: [{ text: 'If the epithelium\nis chronically inflamed,\nnothing added downstream\nclears the pattern.' }],
+      tag: 'MECHANISM',
+      startFrame: 856,
+    },
+    {
+      type: 'phrase',
+      segments: [{ text: 'Body keeps opening\ntight junctions.\nFood particles keep\ntriggering the immune layer.' }],
+      tag: 'MECHANISM',
+      startFrame: 1018,
+    },
+    {
+      type: 'phrase',
+      segments: [
+        { text: 'The microbiome keeps\ngetting disrupted\n' },
+        { text: 'before it can stabilize.', green: true },
+      ],
+      tag: 'MECHANISM',
+      startFrame: 1132,
+    },
+    {
+      type: 'phrase',
+      segments: [
+        { text: 'There\'s a peptide\nstudied for ' },
+        { text: 'mucosal repair\nspecifically.', green: true },
+        { text: '\nBPC-157. Short chain.\nBody Protection Compound.' },
+      ],
+      tag: 'INTRODUCING',
+      startFrame: 1288,
+    },
+    {
+      type: 'product',
+      segments: [{ text: 'InfiniWell\nBPC-157\nDelayed Release' }],
+      qualifier: 'Studied for mucosal repair.\nMay support the tight-junction\nreset the protocol is waiting on.',
+      tag: 'WHAT I REACH FOR',
+      startFrame: 1672,
+    },
+    {
+      type: 'phrase',
+      segments: [
+        { text: 'Most gut protocols\nassume ' },
+        { text: 'the lining is intact.', green: true },
+        { text: '\nWhen it isn\'t, every input\nreaches a closed door.' },
+      ],
+      tag: 'SECOND-PASS REWARD',
+      startFrame: 1882,
+    },
+    {
+      type: 'result',
+      segments: [
+        { text: 'Not a replacement\nfor the protocol.\n' },
+        { text: 'The floor the protocol\nis standing on.', green: true },
+      ],
+      tag: 'PATTERN OBSERVED',
+      startFrame: 2043,
+    },
+    {
+      type: 'cta',
+      segments: [{ text: 'tr.ee/\nowQ7FM' }],
+      startFrame: 2401,
       clearPrevious: true,
     },
   ],
@@ -390,7 +390,7 @@ export const video4InfiniWellGutHookC: ScriptData = {
 export const video5InfiniWellPeptideWindowHookA: ScriptData = {
   compositionId: 'Video5-InfiniWellPeptideWindow-HookA',
   title: 'InfiniWell BPC-157 — Peptide Regulatory Window (Hook A: Pattern Observation)',
-  totalFrames: 2374,
+  totalFrames: 2370,
   fps: 30,
   phrases: [
     {
@@ -403,7 +403,7 @@ export const video5InfiniWellPeptideWindowHookA: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'HHS flagged peptides\nas a research priority this year.\nIn clinical practice,\nthis space has been active\nfor a decade.' }],
       tag: 'CONTEXT',
-      startFrame: 219,
+      startFrame: 132,
     },
     {
       type: 'phrase',
@@ -413,7 +413,7 @@ export const video5InfiniWellPeptideWindowHookA: ScriptData = {
         { text: '\nin the cases that don\'t fit\nthe standard protocol.' },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 550,
+      startFrame: 358,
     },
     {
       type: 'phrase',
@@ -423,20 +423,20 @@ export const video5InfiniWellPeptideWindowHookA: ScriptData = {
         { text: '\nPentadecapeptide — fifteen amino acids —\nderived from a protective sequence\nin gastric juice.' },
       ],
       tag: 'WHAT IT IS',
-      startFrame: 818,
+      startFrame: 434,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Three clinical surfaces\nthe research keeps returning to:\ngut mucosal support,\nsoft-tissue repair,\nrecovery signaling.' }],
       tag: 'CLINICAL SURFACES',
-      startFrame: 1117,
+      startFrame: 1007,
     },
     {
       type: 'product',
       segments: [{ text: 'InfiniWell\nBPC-157' }],
       qualifier: 'Two release profiles.\nDelayed release for gut-lining cases.\nRapid release for soft-tissue.\nSame compound. Different targets.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 1368,
+      startFrame: 1322,
     },
     {
       type: 'phrase',
@@ -446,7 +446,7 @@ export const video5InfiniWellPeptideWindowHookA: ScriptData = {
         { text: '\nThe body recognizes it\nbefore the research catches up.' },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1635,
+      startFrame: 1736,
     },
     {
       type: 'result',
@@ -455,12 +455,12 @@ export const video5InfiniWellPeptideWindowHookA: ScriptData = {
         { text: 'A variable worth testing\nwhen a case has plateaued.', green: true },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 1951,
+      startFrame: 1970,
     },
     {
       type: 'cta',
       segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2154,
+      startFrame: 2370,
       clearPrevious: true,
     },
   ],
@@ -469,7 +469,7 @@ export const video5InfiniWellPeptideWindowHookA: ScriptData = {
 export const video5InfiniWellPeptideWindowHookB: ScriptData = {
   compositionId: 'Video5-InfiniWellPeptideWindow-HookB',
   title: 'InfiniWell BPC-157 — Peptide Regulatory Window (Hook B: Contradiction)',
-  totalFrames: 2395,
+  totalFrames: 2390,
   fps: 30,
   phrases: [
     {
@@ -485,7 +485,7 @@ export const video5InfiniWellPeptideWindowHookB: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'HHS flagged peptides\nas a research priority this year.\nIn clinical practice,\nthis space has been active\nfor a decade.' }],
       tag: 'CONTEXT',
-      startFrame: 264,
+      startFrame: 195,
     },
     {
       type: 'phrase',
@@ -495,7 +495,7 @@ export const video5InfiniWellPeptideWindowHookB: ScriptData = {
         { text: '\nin the cases that don\'t fit\nthe standard protocol.' },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 592,
+      startFrame: 421,
     },
     {
       type: 'phrase',
@@ -505,20 +505,20 @@ export const video5InfiniWellPeptideWindowHookB: ScriptData = {
         { text: '\nPentadecapeptide — fifteen amino acids —\nderived from a protective sequence\nin gastric juice.' },
       ],
       tag: 'WHAT IT IS',
-      startFrame: 856,
+      startFrame: 503,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Three clinical surfaces\nthe research keeps returning to:\ngut mucosal support,\nsoft-tissue repair,\nrecovery signaling.' }],
       tag: 'CLINICAL SURFACES',
-      startFrame: 1152,
+      startFrame: 1052,
     },
     {
       type: 'product',
       segments: [{ text: 'InfiniWell\nBPC-157' }],
       qualifier: 'Two release profiles.\nDelayed release for gut-lining cases.\nRapid release for soft-tissue.\nSame compound. Different targets.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 1400,
+      startFrame: 1386,
     },
     {
       type: 'phrase',
@@ -528,7 +528,7 @@ export const video5InfiniWellPeptideWindowHookB: ScriptData = {
         { text: '\nThe body recognizes it\nbefore the research catches up.' },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1664,
+      startFrame: 1768,
     },
     {
       type: 'result',
@@ -537,12 +537,12 @@ export const video5InfiniWellPeptideWindowHookB: ScriptData = {
         { text: 'A variable worth testing\nwhen a case has plateaued.', green: true },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 1976,
+      startFrame: 1987,
     },
     {
       type: 'cta',
       segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2177,
+      startFrame: 2390,
       clearPrevious: true,
     },
   ],
@@ -551,7 +551,7 @@ export const video5InfiniWellPeptideWindowHookB: ScriptData = {
 export const video5InfiniWellPeptideWindowHookC: ScriptData = {
   compositionId: 'Video5-InfiniWellPeptideWindow-HookC',
   title: 'InfiniWell BPC-157 — Peptide Regulatory Window (Hook C: Outcome-First)',
-  totalFrames: 2373,
+  totalFrames: 2364,
   fps: 30,
   phrases: [
     {
@@ -564,7 +564,7 @@ export const video5InfiniWellPeptideWindowHookC: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'HHS flagged peptides\nas a research priority this year.\nIn clinical practice,\nthis space has been active\nfor a decade.' }],
       tag: 'CONTEXT',
-      startFrame: 204,
+      startFrame: 145,
     },
     {
       type: 'phrase',
@@ -574,7 +574,7 @@ export const video5InfiniWellPeptideWindowHookC: ScriptData = {
         { text: '\nin the cases that don\'t fit\nthe standard protocol.' },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 538,
+      startFrame: 361,
     },
     {
       type: 'phrase',
@@ -584,20 +584,20 @@ export const video5InfiniWellPeptideWindowHookC: ScriptData = {
         { text: '\nPentadecapeptide — fifteen amino acids —\nderived from a protective sequence\nin gastric juice.' },
       ],
       tag: 'WHAT IT IS',
-      startFrame: 807,
+      startFrame: 451,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Three clinical surfaces\nthe research keeps returning to:\ngut mucosal support,\nsoft-tissue repair,\nrecovery signaling.' }],
       tag: 'CLINICAL SURFACES',
-      startFrame: 1108,
+      startFrame: 982,
     },
     {
       type: 'product',
       segments: [{ text: 'InfiniWell\nBPC-157' }],
       qualifier: 'Two release profiles.\nDelayed release for gut-lining cases.\nRapid release for soft-tissue.\nSame compound. Different targets.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 1361,
+      startFrame: 1332,
     },
     {
       type: 'phrase',
@@ -607,7 +607,7 @@ export const video5InfiniWellPeptideWindowHookC: ScriptData = {
         { text: '\nThe body recognizes it\nbefore the research catches up.' },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1629,
+      startFrame: 1733,
     },
     {
       type: 'result',
@@ -616,12 +616,12 @@ export const video5InfiniWellPeptideWindowHookC: ScriptData = {
         { text: 'A variable worth testing\nwhen a case has plateaued.', green: true },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 1947,
+      startFrame: 1971,
     },
     {
       type: 'cta',
       segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2151,
+      startFrame: 2364,
       clearPrevious: true,
     },
   ],
@@ -639,7 +639,7 @@ export const video5InfiniWellPeptideWindowHookC: ScriptData = {
 export const video6InfiniWellRecoveryPlateauHookA: ScriptData = {
   compositionId: 'Video6-InfiniWellRecoveryPlateau-HookA',
   title: 'InfiniWell BPC-157 — Recovery Plateau (Hook A: Pattern Observation)',
-  totalFrames: 2301,
+  totalFrames: 2299,
   fps: 30,
   phrases: [
     {
@@ -652,7 +652,7 @@ export const video6InfiniWellRecoveryPlateauHookA: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'Injury is old.\nSometimes years old.\nSometimes months.\nProtocol is well-designed.\nRight amino acids.\nRight mineral cofactors.\nRight movement rehab.' }],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 230,
+      startFrame: 149,
     },
     {
       type: 'phrase',
@@ -662,7 +662,7 @@ export const video6InfiniWellRecoveryPlateauHookA: ScriptData = {
         { text: '\nBody lands at seventy-five percent\nof baseline function.\nRefuses to close the gap.' },
       ],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 493,
+      startFrame: 429,
     },
     {
       type: 'phrase',
@@ -671,13 +671,13 @@ export const video6InfiniWellRecoveryPlateauHookA: ScriptData = {
         { text: 'signaling.', green: true },
       ],
       tag: 'ROOT PATTERN',
-      startFrame: 790,
+      startFrame: 694,
     },
     {
       type: 'phrase',
       segments: [{ text: 'You can add every nutrient\non the list and still stall\nif the body isn\'t receiving\na repair signal.' }],
       tag: 'MECHANISM',
-      startFrame: 986,
+      startFrame: 828,
     },
     {
       type: 'phrase',
@@ -687,14 +687,14 @@ export const video6InfiniWellRecoveryPlateauHookA: ScriptData = {
         { text: '\nwhen a tenth nutrient\nwould not.' },
       ],
       tag: 'MECHANISM',
-      startFrame: 1180,
+      startFrame: 875,
     },
     {
       type: 'product',
       segments: [{ text: 'InfiniWell\nBPC-157 Rapid' }],
       qualifier: 'Same pentadecapeptide. Faster release.\nShort course. Tracked carefully.\nStopped when the plateau breaks.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 1317,
+      startFrame: 1330,
     },
     {
       type: 'phrase',
@@ -704,7 +704,7 @@ export const video6InfiniWellRecoveryPlateauHookA: ScriptData = {
         { text: '\nThe protocol stalls when\nthe build is right\nand the signal is missing.' },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1512,
+      startFrame: 1720,
     },
     {
       type: 'result',
@@ -713,12 +713,12 @@ export const video6InfiniWellRecoveryPlateauHookA: ScriptData = {
         { text: 'A test input when the last\ntwenty percent won\'t come back.', green: true },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 1809,
+      startFrame: 1892,
     },
     {
       type: 'cta',
       segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2073,
+      startFrame: 2299,
       clearPrevious: true,
     },
   ],
@@ -727,7 +727,7 @@ export const video6InfiniWellRecoveryPlateauHookA: ScriptData = {
 export const video6InfiniWellRecoveryPlateauHookB: ScriptData = {
   compositionId: 'Video6-InfiniWellRecoveryPlateau-HookB',
   title: 'InfiniWell BPC-157 — Recovery Plateau (Hook B: Contradiction)',
-  totalFrames: 2375,
+  totalFrames: 2368,
   fps: 30,
   phrases: [
     {
@@ -743,7 +743,7 @@ export const video6InfiniWellRecoveryPlateauHookB: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'Injury is old.\nSometimes years old.\nSometimes months.\nProtocol is well-designed.\nRight amino acids.\nRight mineral cofactors.\nRight movement rehab.' }],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 268,
+      startFrame: 185,
     },
     {
       type: 'phrase',
@@ -753,7 +753,7 @@ export const video6InfiniWellRecoveryPlateauHookB: ScriptData = {
         { text: '\nBody lands at seventy-five percent\nof baseline function.\nRefuses to close the gap.' },
       ],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 536,
+      startFrame: 515,
     },
     {
       type: 'phrase',
@@ -762,13 +762,13 @@ export const video6InfiniWellRecoveryPlateauHookB: ScriptData = {
         { text: 'signaling.', green: true },
       ],
       tag: 'ROOT PATTERN',
-      startFrame: 838,
+      startFrame: 791,
     },
     {
       type: 'phrase',
       segments: [{ text: 'You can add every nutrient\non the list and still stall\nif the body isn\'t receiving\na repair signal.' }],
       tag: 'MECHANISM',
-      startFrame: 1037,
+      startFrame: 928,
     },
     {
       type: 'phrase',
@@ -778,14 +778,14 @@ export const video6InfiniWellRecoveryPlateauHookB: ScriptData = {
         { text: '\nwhen a tenth nutrient\nwould not.' },
       ],
       tag: 'MECHANISM',
-      startFrame: 1230,
+      startFrame: 973,
     },
     {
       type: 'product',
       segments: [{ text: 'InfiniWell\nBPC-157 Rapid' }],
       qualifier: 'Same pentadecapeptide. Faster release.\nShort course. Tracked carefully.\nStopped when the plateau breaks.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 1374,
+      startFrame: 1405,
     },
     {
       type: 'phrase',
@@ -795,7 +795,7 @@ export const video6InfiniWellRecoveryPlateauHookB: ScriptData = {
         { text: '\nThe protocol stalls when\nthe build is right\nand the signal is missing.' },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1573,
+      startFrame: 1786,
     },
     {
       type: 'result',
@@ -804,12 +804,12 @@ export const video6InfiniWellRecoveryPlateauHookB: ScriptData = {
         { text: 'A test input when the last\ntwenty percent won\'t come back.', green: true },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 1875,
+      startFrame: 1972,
     },
     {
       type: 'cta',
       segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2143,
+      startFrame: 2368,
       clearPrevious: true,
     },
   ],
@@ -818,7 +818,7 @@ export const video6InfiniWellRecoveryPlateauHookB: ScriptData = {
 export const video6InfiniWellRecoveryPlateauHookC: ScriptData = {
   compositionId: 'Video6-InfiniWellRecoveryPlateau-HookC',
   title: 'InfiniWell BPC-157 — Recovery Plateau (Hook C: Outcome-First)',
-  totalFrames: 2314,
+  totalFrames: 2308,
   fps: 30,
   phrases: [
     {
@@ -834,7 +834,7 @@ export const video6InfiniWellRecoveryPlateauHookC: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'Injury is old.\nSometimes years old.\nSometimes months.\nProtocol is well-designed.\nRight amino acids.\nRight mineral cofactors.\nRight movement rehab.' }],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 200,
+      startFrame: 139,
     },
     {
       type: 'phrase',
@@ -844,7 +844,7 @@ export const video6InfiniWellRecoveryPlateauHookC: ScriptData = {
         { text: '\nBody lands at seventy-five percent\nof baseline function.\nRefuses to close the gap.' },
       ],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 469,
+      startFrame: 448,
     },
     {
       type: 'phrase',
@@ -853,13 +853,13 @@ export const video6InfiniWellRecoveryPlateauHookC: ScriptData = {
         { text: 'signaling.', green: true },
       ],
       tag: 'ROOT PATTERN',
-      startFrame: 772,
+      startFrame: 708,
     },
     {
       type: 'phrase',
       segments: [{ text: 'You can add every nutrient\non the list and still stall\nif the body isn\'t receiving\na repair signal.' }],
       tag: 'MECHANISM',
-      startFrame: 972,
+      startFrame: 838,
     },
     {
       type: 'phrase',
@@ -869,14 +869,14 @@ export const video6InfiniWellRecoveryPlateauHookC: ScriptData = {
         { text: '\nwhen a tenth nutrient\nwould not.' },
       ],
       tag: 'MECHANISM',
-      startFrame: 1165,
+      startFrame: 875,
     },
     {
       type: 'product',
       segments: [{ text: 'InfiniWell\nBPC-157 Rapid' }],
       qualifier: 'Same pentadecapeptide. Faster release.\nShort course. Tracked carefully.\nStopped when the plateau breaks.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 1310,
+      startFrame: 1305,
     },
     {
       type: 'phrase',
@@ -886,7 +886,7 @@ export const video6InfiniWellRecoveryPlateauHookC: ScriptData = {
         { text: '\nThe protocol stalls when\nthe build is right\nand the signal is missing.' },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1510,
+      startFrame: 1706,
     },
     {
       type: 'result',
@@ -895,12 +895,12 @@ export const video6InfiniWellRecoveryPlateauHookC: ScriptData = {
         { text: 'A test input when the last\ntwenty percent won\'t come back.', green: true },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 1813,
+      startFrame: 1908,
     },
     {
       type: 'cta',
       segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2082,
+      startFrame: 2308,
       clearPrevious: true,
     },
   ],
@@ -928,7 +928,7 @@ export const video6InfiniWellRecoveryPlateauHookC: ScriptData = {
 export const video7PendulumMetabolicStallHookA: ScriptData = {
   compositionId: 'Video7-PendulumMetabolicStall-HookA',
   title: 'Pendulum Akkermansia — Metabolic Stall (Hook A: Pattern Observation) [HOLD]',
-  totalFrames: 2457,
+  totalFrames: 2451,
   fps: 30,
   phrases: [
     {
@@ -941,7 +941,7 @@ export const video7PendulumMetabolicStallHookA: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'Clean diet.\nDecent sleep.\nSolid probiotic stack for months.' }],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 209,
+      startFrame: 148,
     },
     {
       type: 'phrase',
@@ -950,7 +950,7 @@ export const video7PendulumMetabolicStallHookA: ScriptData = {
         { text: 'Satiety feels broken.', green: true },
       ],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 357,
+      startFrame: 278,
     },
     {
       type: 'phrase',
@@ -960,7 +960,7 @@ export const video7PendulumMetabolicStallHookA: ScriptData = {
         { text: '\nOr a heavy antibiotic course\nsomewhere in the last decade.\nOften both.' },
       ],
       tag: 'ROOT PATTERN',
-      startFrame: 550,
+      startFrame: 482,
     },
     {
       type: 'phrase',
@@ -969,13 +969,13 @@ export const video7PendulumMetabolicStallHookA: ScriptData = {
         { text: 'Akkermansia muciniphila.', green: true },
       ],
       tag: 'KEYSTONE STRAIN',
-      startFrame: 988,
+      startFrame: 769,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Lives in the mucus layer.\nRegulates metabolic signaling,\ninsulin response,\nsatiety hormones.\nOne of the first strains\nwiped out by antibiotics.\nRarely seeded at birth\nwithout vaginal passage.' }],
       tag: 'WHAT IT DOES',
-      startFrame: 1242,
+      startFrame: 1029,
     },
     {
       type: 'phrase',
@@ -985,7 +985,7 @@ export const video7PendulumMetabolicStallHookA: ScriptData = {
         { text: '\nThat is why every other probiotic\non the shelf skipped it.' },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1436,
+      startFrame: 1439,
       chart: {
         kind: 'bar',
         title: 'MICROBIOME COMPOSITION',
@@ -1003,7 +1003,7 @@ export const video7PendulumMetabolicStallHookA: ScriptData = {
       segments: [{ text: 'Pendulum\nAkkermansia' }],
       qualifier: 'Pendulum solved the delivery —\nkeeps it viable through manufacturing\nand into the gut.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 1751,
+      startFrame: 1668,
     },
     {
       type: 'result',
@@ -1012,12 +1012,12 @@ export const video7PendulumMetabolicStallHookA: ScriptData = {
         { text: 'A keystone strain that may support\nwhat the rest of the protocol\ncannot reach.', green: true },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 1975,
+      startFrame: 2057,
     },
     {
       type: 'cta',
       segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2245,
+      startFrame: 2451,
       clearPrevious: true,
     },
   ],
@@ -1026,7 +1026,7 @@ export const video7PendulumMetabolicStallHookA: ScriptData = {
 export const video7PendulumMetabolicStallHookB: ScriptData = {
   compositionId: 'Video7-PendulumMetabolicStall-HookB',
   title: 'Pendulum Akkermansia — Metabolic Stall (Hook B: Contradiction) [HOLD]',
-  totalFrames: 2499,
+  totalFrames: 2494,
   fps: 30,
   phrases: [
     {
@@ -1042,7 +1042,7 @@ export const video7PendulumMetabolicStallHookB: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'Clean diet.\nDecent sleep.\nSolid probiotic stack for months.' }],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 268,
+      startFrame: 225,
     },
     {
       type: 'phrase',
@@ -1051,7 +1051,7 @@ export const video7PendulumMetabolicStallHookB: ScriptData = {
         { text: 'Satiety feels broken.', green: true },
       ],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 414,
+      startFrame: 367,
     },
     {
       type: 'phrase',
@@ -1061,7 +1061,7 @@ export const video7PendulumMetabolicStallHookB: ScriptData = {
         { text: '\nOr a heavy antibiotic course\nsomewhere in the last decade.\nOften both.' },
       ],
       tag: 'ROOT PATTERN',
-      startFrame: 606,
+      startFrame: 566,
     },
     {
       type: 'phrase',
@@ -1070,13 +1070,13 @@ export const video7PendulumMetabolicStallHookB: ScriptData = {
         { text: 'Akkermansia muciniphila.', green: true },
       ],
       tag: 'KEYSTONE STRAIN',
-      startFrame: 1040,
+      startFrame: 874,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Lives in the mucus layer.\nRegulates metabolic signaling,\ninsulin response,\nsatiety hormones.\nOne of the first strains\nwiped out by antibiotics.\nRarely seeded at birth\nwithout vaginal passage.' }],
       tag: 'WHAT IT DOES',
-      startFrame: 1293,
+      startFrame: 1112,
     },
     {
       type: 'phrase',
@@ -1086,7 +1086,7 @@ export const video7PendulumMetabolicStallHookB: ScriptData = {
         { text: '\nThat is why every other probiotic\non the shelf skipped it.' },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1485,
+      startFrame: 1512,
       chart: {
         kind: 'bar',
         title: 'MICROBIOME COMPOSITION',
@@ -1104,7 +1104,7 @@ export const video7PendulumMetabolicStallHookB: ScriptData = {
       segments: [{ text: 'Pendulum\nAkkermansia' }],
       qualifier: 'Pendulum solved the delivery —\nkeeps it viable through manufacturing\nand into the gut.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 1798,
+      startFrame: 1748,
     },
     {
       type: 'result',
@@ -1113,12 +1113,12 @@ export const video7PendulumMetabolicStallHookB: ScriptData = {
         { text: 'A keystone strain that may support\nwhat the rest of the protocol\ncannot reach.', green: true },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 2020,
+      startFrame: 2131,
     },
     {
       type: 'cta',
       segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2288,
+      startFrame: 2494,
       clearPrevious: true,
     },
   ],
@@ -1127,7 +1127,7 @@ export const video7PendulumMetabolicStallHookB: ScriptData = {
 export const video7PendulumMetabolicStallHookC: ScriptData = {
   compositionId: 'Video7-PendulumMetabolicStall-HookC',
   title: 'Pendulum Akkermansia — Metabolic Stall (Hook C: Outcome-First) [HOLD]',
-  totalFrames: 2451,
+  totalFrames: 2445,
   fps: 30,
   phrases: [
     {
@@ -1143,7 +1143,7 @@ export const video7PendulumMetabolicStallHookC: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'Clean diet.\nDecent sleep.\nSolid probiotic stack for months.' }],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 208,
+      startFrame: 185,
     },
     {
       type: 'phrase',
@@ -1152,7 +1152,7 @@ export const video7PendulumMetabolicStallHookC: ScriptData = {
         { text: 'Satiety feels broken.', green: true },
       ],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 356,
+      startFrame: 322,
     },
     {
       type: 'phrase',
@@ -1162,7 +1162,7 @@ export const video7PendulumMetabolicStallHookC: ScriptData = {
         { text: '\nOr a heavy antibiotic course\nsomewhere in the last decade.\nOften both.' },
       ],
       tag: 'ROOT PATTERN',
-      startFrame: 549,
+      startFrame: 538,
     },
     {
       type: 'phrase',
@@ -1171,13 +1171,13 @@ export const video7PendulumMetabolicStallHookC: ScriptData = {
         { text: 'Akkermansia muciniphila.', green: true },
       ],
       tag: 'KEYSTONE STRAIN',
-      startFrame: 985,
+      startFrame: 837,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Lives in the mucus layer.\nRegulates metabolic signaling,\ninsulin response,\nsatiety hormones.\nOne of the first strains\nwiped out by antibiotics.\nRarely seeded at birth\nwithout vaginal passage.' }],
       tag: 'WHAT IT DOES',
-      startFrame: 1239,
+      startFrame: 1058,
     },
     {
       type: 'phrase',
@@ -1187,7 +1187,7 @@ export const video7PendulumMetabolicStallHookC: ScriptData = {
         { text: '\nThat is why every other probiotic\non the shelf skipped it.' },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1432,
+      startFrame: 1443,
       chart: {
         kind: 'bar',
         title: 'MICROBIOME COMPOSITION',
@@ -1205,7 +1205,7 @@ export const video7PendulumMetabolicStallHookC: ScriptData = {
       segments: [{ text: 'Pendulum\nAkkermansia' }],
       qualifier: 'Pendulum solved the delivery —\nkeeps it viable through manufacturing\nand into the gut.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 1746,
+      startFrame: 1697,
     },
     {
       type: 'result',
@@ -1214,12 +1214,12 @@ export const video7PendulumMetabolicStallHookC: ScriptData = {
         { text: 'A keystone strain that may support\nwhat the rest of the protocol\ncannot reach.', green: true },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 1970,
+      startFrame: 2064,
     },
     {
       type: 'cta',
       segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2239,
+      startFrame: 2445,
       clearPrevious: true,
     },
   ],
@@ -1237,7 +1237,7 @@ export const video7PendulumMetabolicStallHookC: ScriptData = {
 export const video8AlightMycotoxinsHookA: ScriptData = {
   compositionId: 'Video8-AlightMycotoxins-HookA',
   title: 'Alight Formulas — Mycotoxin Mapping (Hook A: Pattern Observation)',
-  totalFrames: 2599,
+  totalFrames: 2594,
   fps: 30,
   phrases: [
     {
@@ -1250,7 +1250,7 @@ export const video8AlightMycotoxinsHookA: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'Client has tried every protocol.\nAntihistamines. Gut work.\nNervous system regulation.\nElimination diet.' }],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 226,
+      startFrame: 148,
     },
     {
       type: 'phrase',
@@ -1260,13 +1260,13 @@ export const video8AlightMycotoxinsHookA: ScriptData = {
         { text: '\nUsually in the same places.\nUsually at the same times.\nNobody can map it because\nthe protocol was not designed to.' },
       ],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 436,
+      startFrame: 360,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Here is what I ask them to track.\nWhich rooms. Which buildings.\nWhich days of the week.' }],
       tag: 'WHAT I DO',
-      startFrame: 769,
+      startFrame: 679,
     },
     {
       type: 'phrase',
@@ -1276,7 +1276,7 @@ export const video8AlightMycotoxinsHookA: ScriptData = {
         { text: '\nFine at work. Sick at home.\nFine in the new office.\nSick in the car.\nFine on vacation. Back to square one\nin the bedroom.' },
       ],
       tag: 'RESULT',
-      startFrame: 1041,
+      startFrame: 834,
     },
     {
       type: 'phrase',
@@ -1286,7 +1286,7 @@ export const video8AlightMycotoxinsHookA: ScriptData = {
         { text: '\nNot mold generally.\nA specific mycotoxin\nfrom a specific building material\nproducing a specific symptom cluster.' },
       ],
       tag: 'ROOT PATTERN',
-      startFrame: 1405,
+      startFrame: 1185,
     },
     {
       type: 'phrase',
@@ -1295,7 +1295,7 @@ export const video8AlightMycotoxinsHookA: ScriptData = {
         { text: 'Gliotoxin from indoor growth\nlooks different from\ntrichothecenes.', green: true },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1631,
+      startFrame: 1537,
     },
     {
       type: 'phrase',
@@ -1305,19 +1305,19 @@ export const video8AlightMycotoxinsHookA: ScriptData = {
         { text: '\nBroad-spectrum treatment keeps missing\nbecause the target is specific.' },
       ],
       tag: 'WHY IT FAILS',
-      startFrame: 1934,
+      startFrame: 1847,
     },
     {
       type: 'product',
       segments: [{ text: 'Alight Formulas\nMycotoxin Guides' }],
       qualifier: 'Eight mycotoxin-specific guides.\nSource mold. Organ targeted.\nDifferentiating symptom profile.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 2160,
+      startFrame: 2080,
     },
     {
       type: 'cta',
       segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2385,
+      startFrame: 2594,
       clearPrevious: true,
     },
   ],
@@ -1326,7 +1326,7 @@ export const video8AlightMycotoxinsHookA: ScriptData = {
 export const video8AlightMycotoxinsHookB: ScriptData = {
   compositionId: 'Video8-AlightMycotoxins-HookB',
   title: 'Alight Formulas — Mycotoxin Mapping (Hook B: Contradiction)',
-  totalFrames: 2734,
+  totalFrames: 2727,
   fps: 30,
   phrases: [
     {
@@ -1342,7 +1342,7 @@ export const video8AlightMycotoxinsHookB: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'Client has tried every protocol.\nAntihistamines. Gut work.\nNervous system regulation.\nElimination diet.' }],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 281,
+      startFrame: 254,
     },
     {
       type: 'phrase',
@@ -1352,13 +1352,13 @@ export const video8AlightMycotoxinsHookB: ScriptData = {
         { text: '\nUsually in the same places.\nUsually at the same times.\nNobody can map it because\nthe protocol was not designed to.' },
       ],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 499,
+      startFrame: 470,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Here is what I ask them to track.\nWhich rooms. Which buildings.\nWhich days of the week.' }],
       tag: 'WHAT I DO',
-      startFrame: 844,
+      startFrame: 792,
     },
     {
       type: 'phrase',
@@ -1368,7 +1368,7 @@ export const video8AlightMycotoxinsHookB: ScriptData = {
         { text: '\nFine at work. Sick at home.\nFine in the new office.\nSick in the car.\nFine on vacation. Back to square one\nin the bedroom.' },
       ],
       tag: 'RESULT',
-      startFrame: 1125,
+      startFrame: 928,
     },
     {
       type: 'phrase',
@@ -1378,7 +1378,7 @@ export const video8AlightMycotoxinsHookB: ScriptData = {
         { text: '\nNot mold generally.\nA specific mycotoxin\nfrom a specific building material\nproducing a specific symptom cluster.' },
       ],
       tag: 'ROOT PATTERN',
-      startFrame: 1501,
+      startFrame: 1293,
     },
     {
       type: 'phrase',
@@ -1387,7 +1387,7 @@ export const video8AlightMycotoxinsHookB: ScriptData = {
         { text: 'Gliotoxin from indoor growth\nlooks different from\ntrichothecenes.', green: true },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1735,
+      startFrame: 1651,
     },
     {
       type: 'phrase',
@@ -1397,19 +1397,19 @@ export const video8AlightMycotoxinsHookB: ScriptData = {
         { text: '\nBroad-spectrum treatment keeps missing\nbecause the target is specific.' },
       ],
       tag: 'WHY IT FAILS',
-      startFrame: 2048,
+      startFrame: 1941,
     },
     {
       type: 'product',
       segments: [{ text: 'Alight Formulas\nMycotoxin Guides' }],
       qualifier: 'Eight mycotoxin-specific guides.\nSource mold. Organ targeted.\nDifferentiating symptom profile.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 2281,
+      startFrame: 2192,
     },
     {
       type: 'cta',
       segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2515,
+      startFrame: 2727,
       clearPrevious: true,
     },
   ],
@@ -1418,7 +1418,7 @@ export const video8AlightMycotoxinsHookB: ScriptData = {
 export const video8AlightMycotoxinsHookC: ScriptData = {
   compositionId: 'Video8-AlightMycotoxins-HookC',
   title: 'Alight Formulas — Mycotoxin Mapping (Hook C: Outcome-First)',
-  totalFrames: 2556,
+  totalFrames: 2548,
   fps: 30,
   phrases: [
     {
@@ -1434,7 +1434,7 @@ export const video8AlightMycotoxinsHookC: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'Client has tried every protocol.\nAntihistamines. Gut work.\nNervous system regulation.\nElimination diet.' }],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 151,
+      startFrame: 107,
     },
     {
       type: 'phrase',
@@ -1444,13 +1444,13 @@ export const video8AlightMycotoxinsHookC: ScriptData = {
         { text: '\nUsually in the same places.\nUsually at the same times.\nNobody can map it because\nthe protocol was not designed to.' },
       ],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 364,
+      startFrame: 344,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Here is what I ask them to track.\nWhich rooms. Which buildings.\nWhich days of the week.' }],
       tag: 'WHAT I DO',
-      startFrame: 702,
+      startFrame: 659,
     },
     {
       type: 'phrase',
@@ -1460,7 +1460,7 @@ export const video8AlightMycotoxinsHookC: ScriptData = {
         { text: '\nFine at work. Sick at home.\nFine in the new office.\nSick in the car.\nFine on vacation. Back to square one\nin the bedroom.' },
       ],
       tag: 'RESULT',
-      startFrame: 978,
+      startFrame: 782,
     },
     {
       type: 'phrase',
@@ -1470,7 +1470,7 @@ export const video8AlightMycotoxinsHookC: ScriptData = {
         { text: '\nNot mold generally.\nA specific mycotoxin\nfrom a specific building material\nproducing a specific symptom cluster.' },
       ],
       tag: 'ROOT PATTERN',
-      startFrame: 1347,
+      startFrame: 1111,
     },
     {
       type: 'phrase',
@@ -1479,7 +1479,7 @@ export const video8AlightMycotoxinsHookC: ScriptData = {
         { text: 'Gliotoxin from indoor growth\nlooks different from\ntrichothecenes.', green: true },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1576,
+      startFrame: 1470,
     },
     {
       type: 'phrase',
@@ -1489,19 +1489,19 @@ export const video8AlightMycotoxinsHookC: ScriptData = {
         { text: '\nBroad-spectrum treatment keeps missing\nbecause the target is specific.' },
       ],
       tag: 'WHY IT FAILS',
-      startFrame: 1882,
+      startFrame: 1774,
     },
     {
       type: 'product',
       segments: [{ text: 'Alight Formulas\nMycotoxin Guides' }],
       qualifier: 'Eight mycotoxin-specific guides.\nSource mold. Organ targeted.\nDifferentiating symptom profile.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 2111,
+      startFrame: 2019,
     },
     {
       type: 'cta',
       segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2340,
+      startFrame: 2548,
       clearPrevious: true,
     },
   ],
@@ -1520,7 +1520,7 @@ export const video8AlightMycotoxinsHookC: ScriptData = {
 export const video9BodyBioMoldDetoxHookA: ScriptData = {
   compositionId: 'Video9-BodyBioMoldDetox-HookA',
   title: 'BodyBio PC — Mold Detox Floor Angle 2 (Hook A: Pattern Observation)',
-  totalFrames: 2311,
+  totalFrames: 2302,
   fps: 30,
   phrases: [
     {
@@ -1533,7 +1533,7 @@ export const video9BodyBioMoldDetoxHookA: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'Client is doing everything\nby the book.\nBinders. Glutathione.\nSauna. Maybe CSM.' }],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 247,
+      startFrame: 142,
     },
     {
       type: 'phrase',
@@ -1543,7 +1543,7 @@ export const video9BodyBioMoldDetoxHookA: ScriptData = {
         { text: '\nProtocol drags for months.\nSometimes years.' },
       ],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 446,
+      startFrame: 322,
     },
     {
       type: 'phrase',
@@ -1553,7 +1553,7 @@ export const video9BodyBioMoldDetoxHookA: ScriptData = {
         { text: '\nHere is the mechanism.' },
       ],
       tag: 'ROOT PATTERN',
-      startFrame: 645,
+      startFrame: 555,
     },
     {
       type: 'phrase',
@@ -1563,13 +1563,13 @@ export const video9BodyBioMoldDetoxHookA: ScriptData = {
         { text: '\nThey store in cell membranes.\nIf the membrane is damaged —\nfrom years of exposure,\ninflammation, oxidative stress —\nbinders never get a full release.' },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 908,
+      startFrame: 763,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Toxins keep recycling.\nProtocol keeps running.\nNothing moves.' }],
       tag: 'MECHANISM',
-      startFrame: 1217,
+      startFrame: 1097,
     },
     {
       type: 'phrase',
@@ -1578,20 +1578,20 @@ export const video9BodyBioMoldDetoxHookA: ScriptData = {
         { text: 'the body uses to rebuild\nthat membrane layer.', green: true },
       ],
       tag: 'INTRODUCING',
-      startFrame: 1290,
+      startFrame: 1294,
     },
     {
       type: 'product',
       segments: [{ text: 'BodyBio PC' }],
       qualifier: 'The phospholipid the body uses\nto rebuild the membrane layer.\nThe floor binders stand on.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 1354,
+      startFrame: 1496,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Usually introduced two to four weeks\nbefore the binding protocol starts,\nor alongside it.' }],
       tag: 'SEQUENCING',
-      startFrame: 1632,
+      startFrame: 1495,
     },
     {
       type: 'phrase',
@@ -1600,7 +1600,7 @@ export const video9BodyBioMoldDetoxHookA: ScriptData = {
         { text: 'is why most protocols stall.', green: true },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1750,
+      startFrame: 1825,
     },
     {
       type: 'result',
@@ -1609,12 +1609,12 @@ export const video9BodyBioMoldDetoxHookA: ScriptData = {
         { text: 'As the floor\nthe binders are standing on.', green: true },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 1862,
+      startFrame: 1934,
     },
     {
       type: 'cta',
       segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2093,
+      startFrame: 2302,
       clearPrevious: true,
     },
   ],
@@ -1623,7 +1623,7 @@ export const video9BodyBioMoldDetoxHookA: ScriptData = {
 export const video9BodyBioMoldDetoxHookB: ScriptData = {
   compositionId: 'Video9-BodyBioMoldDetox-HookB',
   title: 'BodyBio PC — Mold Detox Floor Angle 2 (Hook B: Contradiction)',
-  totalFrames: 2532,
+  totalFrames: 2527,
   fps: 30,
   phrases: [
     {
@@ -1639,7 +1639,7 @@ export const video9BodyBioMoldDetoxHookB: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'Client is doing everything\nby the book.\nBinders. Glutathione.\nSauna. Maybe CSM.' }],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 316,
+      startFrame: 208,
     },
     {
       type: 'phrase',
@@ -1649,7 +1649,7 @@ export const video9BodyBioMoldDetoxHookB: ScriptData = {
         { text: '\nProtocol drags for months.\nSometimes years.' },
       ],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 531,
+      startFrame: 415,
     },
     {
       type: 'phrase',
@@ -1659,7 +1659,7 @@ export const video9BodyBioMoldDetoxHookB: ScriptData = {
         { text: '\nHere is the mechanism.' },
       ],
       tag: 'ROOT PATTERN',
-      startFrame: 745,
+      startFrame: 661,
     },
     {
       type: 'phrase',
@@ -1669,13 +1669,13 @@ export const video9BodyBioMoldDetoxHookB: ScriptData = {
         { text: '\nThey store in cell membranes.\nIf the membrane is damaged —\nfrom years of exposure,\ninflammation, oxidative stress —\nbinders never get a full release.' },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1027,
+      startFrame: 904,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Toxins keep recycling.\nProtocol keeps running.\nNothing moves.' }],
       tag: 'MECHANISM',
-      startFrame: 1360,
+      startFrame: 1261,
     },
     {
       type: 'phrase',
@@ -1684,20 +1684,20 @@ export const video9BodyBioMoldDetoxHookB: ScriptData = {
         { text: 'the body uses to rebuild\nthat membrane layer.', green: true },
       ],
       tag: 'INTRODUCING',
-      startFrame: 1435,
+      startFrame: 1477,
     },
     {
       type: 'product',
       segments: [{ text: 'BodyBio PC' }],
       qualifier: 'The phospholipid the body uses\nto rebuild the membrane layer.\nThe floor binders stand on.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 1507,
+      startFrame: 1687,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Usually introduced two to four weeks\nbefore the binding protocol starts,\nor alongside it.' }],
       tag: 'SEQUENCING',
-      startFrame: 1806,
+      startFrame: 1687,
     },
     {
       type: 'phrase',
@@ -1706,7 +1706,7 @@ export const video9BodyBioMoldDetoxHookB: ScriptData = {
         { text: 'is why most protocols stall.', green: true },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1930,
+      startFrame: 2047,
     },
     {
       type: 'result',
@@ -1715,12 +1715,12 @@ export const video9BodyBioMoldDetoxHookB: ScriptData = {
         { text: 'As the floor\nthe binders are standing on.', green: true },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 2054,
+      startFrame: 2160,
     },
     {
       type: 'cta',
       segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2303,
+      startFrame: 2527,
       clearPrevious: true,
     },
   ],
@@ -1729,7 +1729,7 @@ export const video9BodyBioMoldDetoxHookB: ScriptData = {
 export const video9BodyBioMoldDetoxHookC: ScriptData = {
   compositionId: 'Video9-BodyBioMoldDetox-HookC',
   title: 'BodyBio PC — Mold Detox Floor Angle 2 (Hook C: Outcome-First)',
-  totalFrames: 2443,
+  totalFrames: 2434,
   fps: 30,
   phrases: [
     {
@@ -1745,7 +1745,7 @@ export const video9BodyBioMoldDetoxHookC: ScriptData = {
       type: 'phrase',
       segments: [{ text: 'Client is doing everything\nby the book.\nBinders. Glutathione.\nSauna. Maybe CSM.' }],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 200,
+      startFrame: 189,
     },
     {
       type: 'phrase',
@@ -1755,7 +1755,7 @@ export const video9BodyBioMoldDetoxHookC: ScriptData = {
         { text: '\nProtocol drags for months.\nSometimes years.' },
       ],
       tag: 'CLIENT PRESENTATION',
-      startFrame: 417,
+      startFrame: 394,
     },
     {
       type: 'phrase',
@@ -1765,7 +1765,7 @@ export const video9BodyBioMoldDetoxHookC: ScriptData = {
         { text: '\nHere is the mechanism.' },
       ],
       tag: 'ROOT PATTERN',
-      startFrame: 634,
+      startFrame: 630,
     },
     {
       type: 'phrase',
@@ -1775,13 +1775,13 @@ export const video9BodyBioMoldDetoxHookC: ScriptData = {
         { text: '\nThey store in cell membranes.\nIf the membrane is damaged —\nfrom years of exposure,\ninflammation, oxidative stress —\nbinders never get a full release.' },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 920,
+      startFrame: 863,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Toxins keep recycling.\nProtocol keeps running.\nNothing moves.' }],
       tag: 'MECHANISM',
-      startFrame: 1257,
+      startFrame: 1223,
     },
     {
       type: 'phrase',
@@ -1790,20 +1790,20 @@ export const video9BodyBioMoldDetoxHookC: ScriptData = {
         { text: 'the body uses to rebuild\nthat membrane layer.', green: true },
       ],
       tag: 'INTRODUCING',
-      startFrame: 1340,
+      startFrame: 1417,
     },
     {
       type: 'product',
       segments: [{ text: 'BodyBio PC' }],
       qualifier: 'The phospholipid the body uses\nto rebuild the membrane layer.\nThe floor binders stand on.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 1405,
+      startFrame: 1620,
     },
     {
       type: 'phrase',
       segments: [{ text: 'Usually introduced two to four weeks\nbefore the binding protocol starts,\nor alongside it.' }],
       tag: 'SEQUENCING',
-      startFrame: 1708,
+      startFrame: 1618,
     },
     {
       type: 'phrase',
@@ -1812,7 +1812,7 @@ export const video9BodyBioMoldDetoxHookC: ScriptData = {
         { text: 'is why most protocols stall.', green: true },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1830,
+      startFrame: 1935,
     },
     {
       type: 'result',
@@ -1821,12 +1821,12 @@ export const video9BodyBioMoldDetoxHookC: ScriptData = {
         { text: 'As the floor\nthe binders are standing on.', green: true },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 1960,
+      startFrame: 2047,
     },
     {
       type: 'cta',
       segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2211,
+      startFrame: 2434,
       clearPrevious: true,
     },
   ],

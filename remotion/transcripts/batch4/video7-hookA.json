@@ -1,0 +1,1946 @@
+{
+  "text": " One pattern I keep running into with metabolic stall cases who do everything right. Clean diet, decent sleep, solid probiotic stack for months. But the labs will not budge. Insulin resistance plateaus, weight plateaus. Satiety feels broken. Nine times out of 10, when I dig into history, I find two things. C-section birth. Or a heavy antibiotic course somewhere in the last decade. Often both. There is a specific gut organism almost nobody knew how to supplement until recently. Acrimansia mutes anifila. It lives in the mucus layer of the gut. Regulates metabolic signaling, insulin response, satiety hormones. One of the first strains wiped out by antibiotics and rarely seated at birth without vaginal passage. For years, nobody could put it in a capsule. Acrimansia is an obligate anaerobic. Obed. Dies the second it hits oxygen. Pendulum figured out a delivery system that keeps it viable through manufacturing and into the gut. Obligate anaerobic. Dies the second it hits oxygen. That is why every other probiotic on the shelf skipped it. Not a fix. A keystone strain that may support what the rest of the protocol cannot reach. Full pattern breakdown at tr.e slash aw7fm. Type it.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.32,
+      "text": " One pattern I keep running into with metabolic stall cases who do everything right.",
+      "tokens": [
+        50364,
+        1485,
+        5102,
+        286,
+        1066,
+        2614,
+        666,
+        365,
+        36464,
+        19633,
+        3331,
+        567,
+        360,
+        1203,
+        558,
+        13,
+        50608
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19193995110342435,
+      "compression_ratio": 1.5511811023622046,
+      "no_speech_prob": 0.0034896100405603647,
+      "words": [
+        {
+          "word": " One",
+          "start": 0.0,
+          "end": 0.12,
+          "probability": 0.810849666595459
+        },
+        {
+          "word": " pattern",
+          "start": 0.12,
+          "end": 0.54,
+          "probability": 0.9914946556091309
+        },
+        {
+          "word": " I",
+          "start": 0.54,
+          "end": 0.82,
+          "probability": 0.9170556664466858
+        },
+        {
+          "word": " keep",
+          "start": 0.82,
+          "end": 1.02,
+          "probability": 0.9945078492164612
+        },
+        {
+          "word": " running",
+          "start": 1.02,
+          "end": 1.28,
+          "probability": 0.9972067475318909
+        },
+        {
+          "word": " into",
+          "start": 1.28,
+          "end": 1.66,
+          "probability": 0.9912469983100891
+        },
+        {
+          "word": " with",
+          "start": 1.66,
+          "end": 1.92,
+          "probability": 0.9622411727905273
+        },
+        {
+          "word": " metabolic",
+          "start": 1.92,
+          "end": 2.24,
+          "probability": 0.9882670044898987
+        },
+        {
+          "word": " stall",
+          "start": 2.24,
+          "end": 2.68,
+          "probability": 0.9253700375556946
+        },
+        {
+          "word": " cases",
+          "start": 2.68,
+          "end": 3.1,
+          "probability": 0.9582955837249756
+        },
+        {
+          "word": " who",
+          "start": 3.1,
+          "end": 3.42,
+          "probability": 0.8435004949569702
+        },
+        {
+          "word": " do",
+          "start": 3.42,
+          "end": 3.56,
+          "probability": 0.9982479810714722
+        },
+        {
+          "word": " everything",
+          "start": 3.56,
+          "end": 4.0,
+          "probability": 0.9969250559806824
+        },
+        {
+          "word": " right.",
+          "start": 4.0,
+          "end": 4.32,
+          "probability": 0.9985852241516113
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.92,
+      "end": 8.4,
+      "text": " Clean diet, decent sleep, solid probiotic stack for months.",
+      "tokens": [
+        50608,
+        18463,
+        6339,
+        11,
+        8681,
+        2817,
+        11,
+        5100,
+        45710,
+        299,
+        8630,
+        337,
+        2493,
+        13,
+        50818
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19193995110342435,
+      "compression_ratio": 1.5511811023622046,
+      "no_speech_prob": 0.0034896100405603647,
+      "words": [
+        {
+          "word": " Clean",
+          "start": 4.92,
+          "end": 5.08,
+          "probability": 0.9630395770072937
+        },
+        {
+          "word": " diet,",
+          "start": 5.08,
+          "end": 5.54,
+          "probability": 0.9626387357711792
+        },
+        {
+          "word": " decent",
+          "start": 5.84,
+          "end": 6.04,
+          "probability": 0.8939318060874939
+        },
+        {
+          "word": " sleep,",
+          "start": 6.04,
+          "end": 6.4,
+          "probability": 0.9957400560379028
+        },
+        {
+          "word": " solid",
+          "start": 6.84,
+          "end": 7.06,
+          "probability": 0.9952369928359985
+        },
+        {
+          "word": " probiotic",
+          "start": 7.06,
+          "end": 7.68,
+          "probability": 0.9734932780265808
+        },
+        {
+          "word": " stack",
+          "start": 7.68,
+          "end": 7.92,
+          "probability": 0.9070144891738892
+        },
+        {
+          "word": " for",
+          "start": 7.92,
+          "end": 8.16,
+          "probability": 0.988440990447998
+        },
+        {
+          "word": " months.",
+          "start": 8.16,
+          "end": 8.4,
+          "probability": 0.9970784187316895
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 9.06,
+      "end": 10.4,
+      "text": " But the labs will not budge.",
+      "tokens": [
+        50818,
+        583,
+        264,
+        20339,
+        486,
+        406,
+        3265,
+        432,
+        13,
+        50904
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19193995110342435,
+      "compression_ratio": 1.5511811023622046,
+      "no_speech_prob": 0.0034896100405603647,
+      "words": [
+        {
+          "word": " But",
+          "start": 9.06,
+          "end": 9.14,
+          "probability": 0.9814432859420776
+        },
+        {
+          "word": " the",
+          "start": 9.14,
+          "end": 9.28,
+          "probability": 0.9894176125526428
+        },
+        {
+          "word": " labs",
+          "start": 9.28,
+          "end": 9.54,
+          "probability": 0.964966356754303
+        },
+        {
+          "word": " will",
+          "start": 9.54,
+          "end": 9.74,
+          "probability": 0.9920499920845032
+        },
+        {
+          "word": " not",
+          "start": 9.74,
+          "end": 9.9,
+          "probability": 0.9968464970588684
+        },
+        {
+          "word": " budge.",
+          "start": 9.9,
+          "end": 10.4,
+          "probability": 0.9860149919986725
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.78,
+      "end": 13.54,
+      "text": " Insulin resistance plateaus, weight plateaus.",
+      "tokens": [
+        50904,
+        9442,
+        17701,
+        7335,
+        5924,
+        8463,
+        11,
+        3364,
+        5924,
+        8463,
+        13,
+        51066
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19193995110342435,
+      "compression_ratio": 1.5511811023622046,
+      "no_speech_prob": 0.0034896100405603647,
+      "words": [
+        {
+          "word": " Insulin",
+          "start": 10.78,
+          "end": 11.1,
+          "probability": 0.959993988275528
+        },
+        {
+          "word": " resistance",
+          "start": 11.1,
+          "end": 11.54,
+          "probability": 0.9076306819915771
+        },
+        {
+          "word": " plateaus,",
+          "start": 11.54,
+          "end": 12.18,
+          "probability": 0.8871062695980072
+        },
+        {
+          "word": " weight",
+          "start": 12.74,
+          "end": 12.9,
+          "probability": 0.9570983648300171
+        },
+        {
+          "word": " plateaus.",
+          "start": 12.9,
+          "end": 13.54,
+          "probability": 0.9945069253444672
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 14.08,
+      "end": 15.3,
+      "text": " Satiety feels broken.",
+      "tokens": [
+        51066,
+        5344,
+        4014,
+        3417,
+        5463,
+        13,
+        51168
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19193995110342435,
+      "compression_ratio": 1.5511811023622046,
+      "no_speech_prob": 0.0034896100405603647,
+      "words": [
+        {
+          "word": " Satiety",
+          "start": 14.08,
+          "end": 14.5,
+          "probability": 0.7709145545959473
+        },
+        {
+          "word": " feels",
+          "start": 14.5,
+          "end": 14.84,
+          "probability": 0.9955754280090332
+        },
+        {
+          "word": " broken.",
+          "start": 14.84,
+          "end": 15.3,
+          "probability": 0.998050332069397
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 16.06,
+      "end": 19.18,
+      "text": " Nine times out of 10, when I dig into history, I find two things.",
+      "tokens": [
+        51168,
+        18939,
+        1413,
+        484,
+        295,
+        1266,
+        11,
+        562,
+        286,
+        2528,
+        666,
+        2503,
+        11,
+        286,
+        915,
+        732,
+        721,
+        13,
+        51342
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19193995110342435,
+      "compression_ratio": 1.5511811023622046,
+      "no_speech_prob": 0.0034896100405603647,
+      "words": [
+        {
+          "word": " Nine",
+          "start": 16.06,
+          "end": 16.2,
+          "probability": 0.8269718289375305
+        },
+        {
+          "word": " times",
+          "start": 16.2,
+          "end": 16.48,
+          "probability": 0.9965482354164124
+        },
+        {
+          "word": " out",
+          "start": 16.48,
+          "end": 16.7,
+          "probability": 0.9979871511459351
+        },
+        {
+          "word": " of",
+          "start": 16.7,
+          "end": 16.78,
+          "probability": 0.996705949306488
+        },
+        {
+          "word": " 10,",
+          "start": 16.78,
+          "end": 17.04,
+          "probability": 0.4938924312591553
+        },
+        {
+          "word": " when",
+          "start": 17.18,
+          "end": 17.26,
+          "probability": 0.9894809722900391
+        },
+        {
+          "word": " I",
+          "start": 17.26,
+          "end": 17.38,
+          "probability": 0.9946960210800171
+        },
+        {
+          "word": " dig",
+          "start": 17.38,
+          "end": 17.56,
+          "probability": 0.9984278678894043
+        },
+        {
+          "word": " into",
+          "start": 17.56,
+          "end": 17.72,
+          "probability": 0.9929144382476807
+        },
+        {
+          "word": " history,",
+          "start": 17.72,
+          "end": 18.04,
+          "probability": 0.9957002401351929
+        },
+        {
+          "word": " I",
+          "start": 18.3,
+          "end": 18.36,
+          "probability": 0.998690664768219
+        },
+        {
+          "word": " find",
+          "start": 18.36,
+          "end": 18.6,
+          "probability": 0.9991995692253113
+        },
+        {
+          "word": " two",
+          "start": 18.6,
+          "end": 18.84,
+          "probability": 0.9844136238098145
+        },
+        {
+          "word": " things.",
+          "start": 18.84,
+          "end": 19.18,
+          "probability": 0.9993252754211426
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 19.64,
+      "end": 20.4,
+      "text": " C-section birth.",
+      "tokens": [
+        51342,
+        383,
+        12,
+        11963,
+        3965,
+        13,
+        51428
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19193995110342435,
+      "compression_ratio": 1.5511811023622046,
+      "no_speech_prob": 0.0034896100405603647,
+      "words": [
+        {
+          "word": " C",
+          "start": 19.64,
+          "end": 19.74,
+          "probability": 0.6040463447570801
+        },
+        {
+          "word": "-section",
+          "start": 19.74,
+          "end": 20.12,
+          "probability": 0.7354629337787628
+        },
+        {
+          "word": " birth.",
+          "start": 20.12,
+          "end": 20.4,
+          "probability": 0.8631657958030701
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 21.18,
+      "end": 24.36,
+      "text": " Or a heavy antibiotic course somewhere in the last decade.",
+      "tokens": [
+        51428,
+        1610,
+        257,
+        4676,
+        37828,
+        1164,
+        4079,
+        294,
+        264,
+        1036,
+        10378,
+        13,
+        51618
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19193995110342435,
+      "compression_ratio": 1.5511811023622046,
+      "no_speech_prob": 0.0034896100405603647,
+      "words": [
+        {
+          "word": " Or",
+          "start": 21.18,
+          "end": 21.46,
+          "probability": 0.9764605164527893
+        },
+        {
+          "word": " a",
+          "start": 21.46,
+          "end": 21.8,
+          "probability": 0.9400896430015564
+        },
+        {
+          "word": " heavy",
+          "start": 21.8,
+          "end": 22.04,
+          "probability": 0.9968572854995728
+        },
+        {
+          "word": " antibiotic",
+          "start": 22.04,
+          "end": 22.7,
+          "probability": 0.9756671786308289
+        },
+        {
+          "word": " course",
+          "start": 22.7,
+          "end": 23.1,
+          "probability": 0.9283808469772339
+        },
+        {
+          "word": " somewhere",
+          "start": 23.1,
+          "end": 23.48,
+          "probability": 0.7765604853630066
+        },
+        {
+          "word": " in",
+          "start": 23.48,
+          "end": 23.66,
+          "probability": 0.9982351064682007
+        },
+        {
+          "word": " the",
+          "start": 23.66,
+          "end": 23.72,
+          "probability": 0.9975518584251404
+        },
+        {
+          "word": " last",
+          "start": 23.72,
+          "end": 23.94,
+          "probability": 0.9984273910522461
+        },
+        {
+          "word": " decade.",
+          "start": 23.94,
+          "end": 24.36,
+          "probability": 0.9997705817222595
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 24.96,
+      "end": 25.64,
+      "text": " Often both.",
+      "tokens": [
+        51618,
+        20043,
+        1293,
+        13,
+        51676
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19193995110342435,
+      "compression_ratio": 1.5511811023622046,
+      "no_speech_prob": 0.0034896100405603647,
+      "words": [
+        {
+          "word": " Often",
+          "start": 24.96,
+          "end": 25.3,
+          "probability": 0.9919923543930054
+        },
+        {
+          "word": " both.",
+          "start": 25.3,
+          "end": 25.64,
+          "probability": 0.9726964235305786
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2564,
+      "start": 25.64,
+      "end": 31.08,
+      "text": " There is a specific gut organism almost nobody knew how to supplement until recently.",
+      "tokens": [
+        50364,
+        821,
+        307,
+        257,
+        2685,
+        5228,
+        24128,
+        1920,
+        5079,
+        2586,
+        577,
+        281,
+        15436,
+        1826,
+        3938,
+        13,
+        50678
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2986176102249711,
+      "compression_ratio": 1.576470588235294,
+      "no_speech_prob": 0.004217217210680246,
+      "words": [
+        {
+          "word": " There",
+          "start": 25.64,
+          "end": 26.28,
+          "probability": 0.34079763293266296
+        },
+        {
+          "word": " is",
+          "start": 26.28,
+          "end": 26.44,
+          "probability": 0.9843655824661255
+        },
+        {
+          "word": " a",
+          "start": 26.44,
+          "end": 26.54,
+          "probability": 0.9908580183982849
+        },
+        {
+          "word": " specific",
+          "start": 26.54,
+          "end": 26.98,
+          "probability": 0.993198037147522
+        },
+        {
+          "word": " gut",
+          "start": 26.98,
+          "end": 27.32,
+          "probability": 0.9804723858833313
+        },
+        {
+          "word": " organism",
+          "start": 27.32,
+          "end": 28.12,
+          "probability": 0.8652018904685974
+        },
+        {
+          "word": " almost",
+          "start": 28.12,
+          "end": 28.7,
+          "probability": 0.7744495272636414
+        },
+        {
+          "word": " nobody",
+          "start": 28.7,
+          "end": 29.12,
+          "probability": 0.9793394207954407
+        },
+        {
+          "word": " knew",
+          "start": 29.12,
+          "end": 29.32,
+          "probability": 0.9989953637123108
+        },
+        {
+          "word": " how",
+          "start": 29.32,
+          "end": 29.5,
+          "probability": 0.9971537590026855
+        },
+        {
+          "word": " to",
+          "start": 29.5,
+          "end": 29.58,
+          "probability": 0.999397873878479
+        },
+        {
+          "word": " supplement",
+          "start": 29.58,
+          "end": 29.96,
+          "probability": 0.9977498650550842
+        },
+        {
+          "word": " until",
+          "start": 29.96,
+          "end": 30.36,
+          "probability": 0.9691134095191956
+        },
+        {
+          "word": " recently.",
+          "start": 30.36,
+          "end": 31.08,
+          "probability": 0.9968392848968506
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2564,
+      "start": 32.08,
+      "end": 33.64,
+      "text": " Acrimansia mutes anifila.",
+      "tokens": [
+        50678,
+        5097,
+        5565,
+        599,
+        654,
+        275,
+        1819,
+        364,
+        351,
+        7371,
+        13,
+        50796
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2986176102249711,
+      "compression_ratio": 1.576470588235294,
+      "no_speech_prob": 0.004217217210680246,
+      "words": [
+        {
+          "word": " Acrimansia",
+          "start": 32.08,
+          "end": 32.74,
+          "probability": 0.6164016015827656
+        },
+        {
+          "word": " mutes",
+          "start": 32.74,
+          "end": 33.18,
+          "probability": 0.47857050597667694
+        },
+        {
+          "word": " anifila.",
+          "start": 33.18,
+          "end": 33.64,
+          "probability": 0.3970902661482493
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2564,
+      "start": 34.22,
+      "end": 35.9,
+      "text": " It lives in the mucus layer of the gut.",
+      "tokens": [
+        50796,
+        467,
+        2909,
+        294,
+        264,
+        2992,
+        1149,
+        4583,
+        295,
+        264,
+        5228,
+        13,
+        50936
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2986176102249711,
+      "compression_ratio": 1.576470588235294,
+      "no_speech_prob": 0.004217217210680246,
+      "words": [
+        {
+          "word": " It",
+          "start": 34.22,
+          "end": 34.3,
+          "probability": 0.9894123673439026
+        },
+        {
+          "word": " lives",
+          "start": 34.3,
+          "end": 34.54,
+          "probability": 0.9906172156333923
+        },
+        {
+          "word": " in",
+          "start": 34.54,
+          "end": 34.74,
+          "probability": 0.9985923171043396
+        },
+        {
+          "word": " the",
+          "start": 34.74,
+          "end": 34.86,
+          "probability": 0.9966446161270142
+        },
+        {
+          "word": " mucus",
+          "start": 34.86,
+          "end": 35.18,
+          "probability": 0.8779246211051941
+        },
+        {
+          "word": " layer",
+          "start": 35.18,
+          "end": 35.4,
+          "probability": 0.9826399683952332
+        },
+        {
+          "word": " of",
+          "start": 35.4,
+          "end": 35.6,
+          "probability": 0.9989225268363953
+        },
+        {
+          "word": " the",
+          "start": 35.6,
+          "end": 35.68,
+          "probability": 0.9959088563919067
+        },
+        {
+          "word": " gut.",
+          "start": 35.68,
+          "end": 35.9,
+          "probability": 0.9962881803512573
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2564,
+      "start": 36.52,
+      "end": 40.96,
+      "text": " Regulates metabolic signaling, insulin response, satiety hormones.",
+      "tokens": [
+        50936,
+        4791,
+        26192,
+        36464,
+        38639,
+        11,
+        21587,
+        4134,
+        11,
+        3227,
+        4014,
+        22453,
+        13,
+        51188
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2986176102249711,
+      "compression_ratio": 1.576470588235294,
+      "no_speech_prob": 0.004217217210680246,
+      "words": [
+        {
+          "word": " Regulates",
+          "start": 36.52,
+          "end": 37.02,
+          "probability": 0.9408805072307587
+        },
+        {
+          "word": " metabolic",
+          "start": 37.02,
+          "end": 37.52,
+          "probability": 0.9911693334579468
+        },
+        {
+          "word": " signaling,",
+          "start": 37.52,
+          "end": 38.14,
+          "probability": 0.9815441370010376
+        },
+        {
+          "word": " insulin",
+          "start": 38.6,
+          "end": 38.88,
+          "probability": 0.9881393909454346
+        },
+        {
+          "word": " response,",
+          "start": 38.88,
+          "end": 39.32,
+          "probability": 0.9932568073272705
+        },
+        {
+          "word": " satiety",
+          "start": 40.06,
+          "end": 40.46,
+          "probability": 0.937399834394455
+        },
+        {
+          "word": " hormones.",
+          "start": 40.46,
+          "end": 40.96,
+          "probability": 0.984348475933075
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2564,
+      "start": 41.8,
+      "end": 46.66,
+      "text": " One of the first strains wiped out by antibiotics and rarely seated at birth without vaginal",
+      "tokens": [
+        51188,
+        1485,
+        295,
+        264,
+        700,
+        39110,
+        26879,
+        484,
+        538,
+        26922,
+        293,
+        13752,
+        20959,
+        412,
+        3965,
+        1553,
+        13501,
+        2071,
+        51418
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2986176102249711,
+      "compression_ratio": 1.576470588235294,
+      "no_speech_prob": 0.004217217210680246,
+      "words": [
+        {
+          "word": " One",
+          "start": 41.8,
+          "end": 42.14,
+          "probability": 0.9945218563079834
+        },
+        {
+          "word": " of",
+          "start": 42.14,
+          "end": 42.22,
+          "probability": 0.9980093836784363
+        },
+        {
+          "word": " the",
+          "start": 42.22,
+          "end": 42.34,
+          "probability": 0.9978112578392029
+        },
+        {
+          "word": " first",
+          "start": 42.34,
+          "end": 42.64,
+          "probability": 0.9963843822479248
+        },
+        {
+          "word": " strains",
+          "start": 42.64,
+          "end": 42.96,
+          "probability": 0.9977850914001465
+        },
+        {
+          "word": " wiped",
+          "start": 42.96,
+          "end": 43.34,
+          "probability": 0.9637635946273804
+        },
+        {
+          "word": " out",
+          "start": 43.34,
+          "end": 43.52,
+          "probability": 0.998416543006897
+        },
+        {
+          "word": " by",
+          "start": 43.52,
+          "end": 43.7,
+          "probability": 0.9969969987869263
+        },
+        {
+          "word": " antibiotics",
+          "start": 43.7,
+          "end": 44.4,
+          "probability": 0.9828009605407715
+        },
+        {
+          "word": " and",
+          "start": 44.4,
+          "end": 44.76,
+          "probability": 0.9372584819793701
+        },
+        {
+          "word": " rarely",
+          "start": 44.76,
+          "end": 45.08,
+          "probability": 0.9975945353507996
+        },
+        {
+          "word": " seated",
+          "start": 45.08,
+          "end": 45.38,
+          "probability": 0.3801344931125641
+        },
+        {
+          "word": " at",
+          "start": 45.38,
+          "end": 45.6,
+          "probability": 0.9962170720100403
+        },
+        {
+          "word": " birth",
+          "start": 45.6,
+          "end": 45.82,
+          "probability": 0.9985339641571045
+        },
+        {
+          "word": " without",
+          "start": 45.82,
+          "end": 46.22,
+          "probability": 0.9936915636062622
+        },
+        {
+          "word": " vaginal",
+          "start": 46.22,
+          "end": 46.66,
+          "probability": 0.9822454154491425
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2564,
+      "start": 46.66,
+      "end": 47.08,
+      "text": " passage.",
+      "tokens": [
+        51418,
+        11497,
+        13,
+        51484
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2986176102249711,
+      "compression_ratio": 1.576470588235294,
+      "no_speech_prob": 0.004217217210680246,
+      "words": [
+        {
+          "word": " passage.",
+          "start": 46.66,
+          "end": 47.08,
+          "probability": 0.9967417120933533
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2564,
+      "start": 47.96,
+      "end": 49.86,
+      "text": " For years, nobody could put it in a capsule.",
+      "tokens": [
+        51484,
+        1171,
+        924,
+        11,
+        5079,
+        727,
+        829,
+        309,
+        294,
+        257,
+        29247,
+        13,
+        51598
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2986176102249711,
+      "compression_ratio": 1.576470588235294,
+      "no_speech_prob": 0.004217217210680246,
+      "words": [
+        {
+          "word": " For",
+          "start": 47.96,
+          "end": 48.08,
+          "probability": 0.9980054497718811
+        },
+        {
+          "word": " years,",
+          "start": 48.08,
+          "end": 48.38,
+          "probability": 0.9980040192604065
+        },
+        {
+          "word": " nobody",
+          "start": 48.58,
+          "end": 48.78,
+          "probability": 0.9950939416885376
+        },
+        {
+          "word": " could",
+          "start": 48.78,
+          "end": 48.98,
+          "probability": 0.9755973815917969
+        },
+        {
+          "word": " put",
+          "start": 48.98,
+          "end": 49.16,
+          "probability": 0.9977434873580933
+        },
+        {
+          "word": " it",
+          "start": 49.16,
+          "end": 49.28,
+          "probability": 0.9926964044570923
+        },
+        {
+          "word": " in",
+          "start": 49.28,
+          "end": 49.42,
+          "probability": 0.986223042011261
+        },
+        {
+          "word": " a",
+          "start": 49.42,
+          "end": 49.54,
+          "probability": 0.9904581308364868
+        },
+        {
+          "word": " capsule.",
+          "start": 49.54,
+          "end": 49.86,
+          "probability": 0.9948264956474304
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2564,
+      "start": 50.5,
+      "end": 52.58,
+      "text": " Acrimansia is an obligate anaerobic.",
+      "tokens": [
+        51598,
+        5097,
+        5565,
+        599,
+        654,
+        307,
+        364,
+        9270,
+        473,
+        34178,
+        260,
+        22234,
+        13,
+        51748
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2986176102249711,
+      "compression_ratio": 1.576470588235294,
+      "no_speech_prob": 0.004217217210680246,
+      "words": [
+        {
+          "word": " Acrimansia",
+          "start": 50.5,
+          "end": 51.1,
+          "probability": 0.9151823073625565
+        },
+        {
+          "word": " is",
+          "start": 51.1,
+          "end": 51.34,
+          "probability": 0.9966017007827759
+        },
+        {
+          "word": " an",
+          "start": 51.34,
+          "end": 51.48,
+          "probability": 0.9968435764312744
+        },
+        {
+          "word": " obligate",
+          "start": 51.48,
+          "end": 52.04,
+          "probability": 0.8689582049846649
+        },
+        {
+          "word": " anaerobic.",
+          "start": 52.04,
+          "end": 52.58,
+          "probability": 0.7405691742897034
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5258,
+      "start": 52.58,
+      "end": 52.72,
+      "text": " Obed.",
+      "tokens": [
+        50364,
+        422,
+        2883,
+        13,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28266400950295584,
+      "compression_ratio": 1.61864406779661,
+      "no_speech_prob": 0.40156614780426025,
+      "words": [
+        {
+          "word": " Obed.",
+          "start": 52.58,
+          "end": 52.72,
+          "probability": 0.01270909991580993
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5258,
+      "start": 53.16,
+      "end": 54.82,
+      "text": " Dies the second it hits oxygen.",
+      "tokens": [
+        50414,
+        413,
+        530,
+        264,
+        1150,
+        309,
+        8664,
+        9169,
+        13,
+        50526
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28266400950295584,
+      "compression_ratio": 1.61864406779661,
+      "no_speech_prob": 0.40156614780426025,
+      "words": [
+        {
+          "word": " Dies",
+          "start": 53.16,
+          "end": 53.52,
+          "probability": 0.779520183801651
+        },
+        {
+          "word": " the",
+          "start": 53.52,
+          "end": 53.66,
+          "probability": 0.9572997689247131
+        },
+        {
+          "word": " second",
+          "start": 53.66,
+          "end": 53.98,
+          "probability": 0.9593929052352905
+        },
+        {
+          "word": " it",
+          "start": 53.98,
+          "end": 54.12,
+          "probability": 0.8380610346794128
+        },
+        {
+          "word": " hits",
+          "start": 54.12,
+          "end": 54.34,
+          "probability": 0.9956438541412354
+        },
+        {
+          "word": " oxygen.",
+          "start": 54.34,
+          "end": 54.82,
+          "probability": 0.9270024299621582
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 5258,
+      "start": 55.6,
+      "end": 59.6,
+      "text": " Pendulum figured out a delivery system that keeps it viable through manufacturing and",
+      "tokens": [
+        50526,
+        38048,
+        11560,
+        8932,
+        484,
+        257,
+        8982,
+        1185,
+        300,
+        5965,
+        309,
+        22024,
+        807,
+        11096,
+        293,
+        50718
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28266400950295584,
+      "compression_ratio": 1.61864406779661,
+      "no_speech_prob": 0.40156614780426025,
+      "words": [
+        {
+          "word": " Pendulum",
+          "start": 55.6,
+          "end": 55.98,
+          "probability": 0.9340175986289978
+        },
+        {
+          "word": " figured",
+          "start": 55.98,
+          "end": 56.3,
+          "probability": 0.9743029475212097
+        },
+        {
+          "word": " out",
+          "start": 56.3,
+          "end": 56.5,
+          "probability": 0.9982700347900391
+        },
+        {
+          "word": " a",
+          "start": 56.5,
+          "end": 56.62,
+          "probability": 0.9948201179504395
+        },
+        {
+          "word": " delivery",
+          "start": 56.62,
+          "end": 56.9,
+          "probability": 0.9973613619804382
+        },
+        {
+          "word": " system",
+          "start": 56.9,
+          "end": 57.34,
+          "probability": 0.9976046085357666
+        },
+        {
+          "word": " that",
+          "start": 57.34,
+          "end": 57.52,
+          "probability": 0.9912149906158447
+        },
+        {
+          "word": " keeps",
+          "start": 57.52,
+          "end": 57.72,
+          "probability": 0.995488703250885
+        },
+        {
+          "word": " it",
+          "start": 57.72,
+          "end": 57.96,
+          "probability": 0.9968273043632507
+        },
+        {
+          "word": " viable",
+          "start": 57.96,
+          "end": 58.26,
+          "probability": 0.9913411736488342
+        },
+        {
+          "word": " through",
+          "start": 58.26,
+          "end": 58.56,
+          "probability": 0.9939885139465332
+        },
+        {
+          "word": " manufacturing",
+          "start": 58.56,
+          "end": 59.24,
+          "probability": 0.9893261194229126
+        },
+        {
+          "word": " and",
+          "start": 59.24,
+          "end": 59.6,
+          "probability": 0.9716116189956665
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 5258,
+      "start": 59.6,
+      "end": 60.2,
+      "text": " into the gut.",
+      "tokens": [
+        50718,
+        666,
+        264,
+        5228,
+        13,
+        50814
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28266400950295584,
+      "compression_ratio": 1.61864406779661,
+      "no_speech_prob": 0.40156614780426025,
+      "words": [
+        {
+          "word": " into",
+          "start": 59.6,
+          "end": 59.86,
+          "probability": 0.9676184058189392
+        },
+        {
+          "word": " the",
+          "start": 59.86,
+          "end": 60.04,
+          "probability": 0.995614767074585
+        },
+        {
+          "word": " gut.",
+          "start": 60.04,
+          "end": 60.2,
+          "probability": 0.9935751557350159
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 5258,
+      "start": 61.18,
+      "end": 62.18,
+      "text": " Obligate anaerobic.",
+      "tokens": [
+        50814,
+        4075,
+        5073,
+        473,
+        34178,
+        260,
+        22234,
+        13,
+        50864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28266400950295584,
+      "compression_ratio": 1.61864406779661,
+      "no_speech_prob": 0.40156614780426025,
+      "words": [
+        {
+          "word": " Obligate",
+          "start": 61.18,
+          "end": 61.62,
+          "probability": 0.9125334421793619
+        },
+        {
+          "word": " anaerobic.",
+          "start": 61.62,
+          "end": 62.18,
+          "probability": 0.600002775589625
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 5258,
+      "start": 62.6,
+      "end": 64.18,
+      "text": " Dies the second it hits oxygen.",
+      "tokens": [
+        50864,
+        413,
+        530,
+        264,
+        1150,
+        309,
+        8664,
+        9169,
+        13,
+        51000
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28266400950295584,
+      "compression_ratio": 1.61864406779661,
+      "no_speech_prob": 0.40156614780426025,
+      "words": [
+        {
+          "word": " Dies",
+          "start": 62.6,
+          "end": 62.94,
+          "probability": 0.9063769578933716
+        },
+        {
+          "word": " the",
+          "start": 62.94,
+          "end": 63.06,
+          "probability": 0.9931074976921082
+        },
+        {
+          "word": " second",
+          "start": 63.06,
+          "end": 63.36,
+          "probability": 0.9961436986923218
+        },
+        {
+          "word": " it",
+          "start": 63.36,
+          "end": 63.52,
+          "probability": 0.9754748940467834
+        },
+        {
+          "word": " hits",
+          "start": 63.52,
+          "end": 63.72,
+          "probability": 0.993599534034729
+        },
+        {
+          "word": " oxygen.",
+          "start": 63.72,
+          "end": 64.18,
+          "probability": 0.9896529316902161
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 5258,
+      "start": 65.04,
+      "end": 67.98,
+      "text": " That is why every other probiotic on the shelf skipped it.",
+      "tokens": [
+        51000,
+        663,
+        307,
+        983,
+        633,
+        661,
+        45710,
+        299,
+        322,
+        264,
+        15222,
+        30193,
+        309,
+        13,
+        51174
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28266400950295584,
+      "compression_ratio": 1.61864406779661,
+      "no_speech_prob": 0.40156614780426025,
+      "words": [
+        {
+          "word": " That",
+          "start": 65.04,
+          "end": 65.26,
+          "probability": 0.9872592091560364
+        },
+        {
+          "word": " is",
+          "start": 65.26,
+          "end": 65.36,
+          "probability": 0.9223144054412842
+        },
+        {
+          "word": " why",
+          "start": 65.36,
+          "end": 65.52,
+          "probability": 0.9988731741905212
+        },
+        {
+          "word": " every",
+          "start": 65.52,
+          "end": 65.82,
+          "probability": 0.9921619296073914
+        },
+        {
+          "word": " other",
+          "start": 65.82,
+          "end": 66.02,
+          "probability": 0.9884004592895508
+        },
+        {
+          "word": " probiotic",
+          "start": 66.02,
+          "end": 66.78,
+          "probability": 0.9937103688716888
+        },
+        {
+          "word": " on",
+          "start": 66.78,
+          "end": 66.86,
+          "probability": 0.9970634579658508
+        },
+        {
+          "word": " the",
+          "start": 66.86,
+          "end": 67.0,
+          "probability": 0.9894276261329651
+        },
+        {
+          "word": " shelf",
+          "start": 67.0,
+          "end": 67.22,
+          "probability": 0.9825131893157959
+        },
+        {
+          "word": " skipped",
+          "start": 67.22,
+          "end": 67.72,
+          "probability": 0.98795086145401
+        },
+        {
+          "word": " it.",
+          "start": 67.72,
+          "end": 67.98,
+          "probability": 0.9886661767959595
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 5258,
+      "start": 68.56,
+      "end": 69.18,
+      "text": " Not a fix.",
+      "tokens": [
+        51174,
+        1726,
+        257,
+        3191,
+        13,
+        51224
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28266400950295584,
+      "compression_ratio": 1.61864406779661,
+      "no_speech_prob": 0.40156614780426025,
+      "words": [
+        {
+          "word": " Not",
+          "start": 68.56,
+          "end": 68.74,
+          "probability": 0.9664901494979858
+        },
+        {
+          "word": " a",
+          "start": 68.74,
+          "end": 68.86,
+          "probability": 0.8744471073150635
+        },
+        {
+          "word": " fix.",
+          "start": 68.86,
+          "end": 69.18,
+          "probability": 0.9777334928512573
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 5258,
+      "start": 69.48,
+      "end": 72.68,
+      "text": " A keystone strain that may support what the rest of the protocol cannot reach.",
+      "tokens": [
+        51224,
+        316,
+        2141,
+        11243,
+        14249,
+        300,
+        815,
+        1406,
+        437,
+        264,
+        1472,
+        295,
+        264,
+        10336,
+        2644,
+        2524,
+        13,
+        51438
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28266400950295584,
+      "compression_ratio": 1.61864406779661,
+      "no_speech_prob": 0.40156614780426025,
+      "words": [
+        {
+          "word": " A",
+          "start": 69.48,
+          "end": 69.56,
+          "probability": 0.9829607605934143
+        },
+        {
+          "word": " keystone",
+          "start": 69.56,
+          "end": 69.98,
+          "probability": 0.8621427714824677
+        },
+        {
+          "word": " strain",
+          "start": 69.98,
+          "end": 70.26,
+          "probability": 0.9821422696113586
+        },
+        {
+          "word": " that",
+          "start": 70.26,
+          "end": 70.48,
+          "probability": 0.9917283654212952
+        },
+        {
+          "word": " may",
+          "start": 70.48,
+          "end": 70.64,
+          "probability": 0.9946112632751465
+        },
+        {
+          "word": " support",
+          "start": 70.64,
+          "end": 70.92,
+          "probability": 0.9975685477256775
+        },
+        {
+          "word": " what",
+          "start": 70.92,
+          "end": 71.14,
+          "probability": 0.938407301902771
+        },
+        {
+          "word": " the",
+          "start": 71.14,
+          "end": 71.28,
+          "probability": 0.9960117340087891
+        },
+        {
+          "word": " rest",
+          "start": 71.28,
+          "end": 71.4,
+          "probability": 0.9994606375694275
+        },
+        {
+          "word": " of",
+          "start": 71.4,
+          "end": 71.54,
+          "probability": 0.9976213574409485
+        },
+        {
+          "word": " the",
+          "start": 71.54,
+          "end": 71.66,
+          "probability": 0.9943799376487732
+        },
+        {
+          "word": " protocol",
+          "start": 71.66,
+          "end": 71.98,
+          "probability": 0.9958567023277283
+        },
+        {
+          "word": " cannot",
+          "start": 71.98,
+          "end": 72.36,
+          "probability": 0.8573389649391174
+        },
+        {
+          "word": " reach.",
+          "start": 72.36,
+          "end": 72.68,
+          "probability": 0.9976587295532227
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 5258,
+      "start": 73.76,
+      "end": 78.76,
+      "text": " Full pattern breakdown at tr.e slash aw7fm.",
+      "tokens": [
+        51438,
+        13841,
+        5102,
+        18188,
+        412,
+        504,
+        13,
+        68,
+        17330,
+        1714,
+        22,
+        69,
+        76,
+        13,
+        51698
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28266400950295584,
+      "compression_ratio": 1.61864406779661,
+      "no_speech_prob": 0.40156614780426025,
+      "words": [
+        {
+          "word": " Full",
+          "start": 73.76,
+          "end": 74.0,
+          "probability": 0.9788749814033508
+        },
+        {
+          "word": " pattern",
+          "start": 74.0,
+          "end": 74.36,
+          "probability": 0.8428049683570862
+        },
+        {
+          "word": " breakdown",
+          "start": 74.36,
+          "end": 74.82,
+          "probability": 0.880113959312439
+        },
+        {
+          "word": " at",
+          "start": 74.82,
+          "end": 75.3,
+          "probability": 0.8287007808685303
+        },
+        {
+          "word": " tr",
+          "start": 75.3,
+          "end": 75.7,
+          "probability": 0.5013043880462646
+        },
+        {
+          "word": ".e",
+          "start": 75.7,
+          "end": 76.42,
+          "probability": 0.6874118149280548
+        },
+        {
+          "word": " slash",
+          "start": 76.42,
+          "end": 76.92,
+          "probability": 0.05020417645573616
+        },
+        {
+          "word": " aw7fm.",
+          "start": 76.92,
+          "end": 78.76,
+          "probability": 0.6708721127361059
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 7876,
+      "start": 78.76,
+      "end": 79.7,
+      "text": " Type it.",
+      "tokens": [
+        50364,
+        15576,
+        309,
+        13,
+        50414
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.7227147420247396,
+      "compression_ratio": 0.5,
+      "no_speech_prob": 0.9020215272903442,
+      "words": [
+        {
+          "word": " Type",
+          "start": 78.76,
+          "end": 79.4,
+          "probability": 0.35864391922950745
+        },
+        {
+          "word": " it.",
+          "start": 79.4,
+          "end": 79.7,
+          "probability": 0.8494846820831299
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

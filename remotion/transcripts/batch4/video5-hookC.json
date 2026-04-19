@@ -1,0 +1,1729 @@
+{
+  "text": " The peptide that finally shows up in tissue repair cases, no protocol touches. HHS flagged peptides as a research priority this year. In clinical practice, this space has been active for a decade. One compound keeps coming back. Not because of the hype, because the pattern of response keeps showing up in the cases that don't fit the standard protocol. The compound is BPC157, pentadecopeptide, 15 amino acids, derived from a protective sequence in gastric juice. What the research keeps returning to is the same three clinical surfaces. Gut, mucosal support, soft tissue repair, and recovery signaling in cases where the standard protocol has plateaued. In practice, I reach for infiniwell because they offer two release profiles. The delayed release oral form for gut lining cases, the rapid release form for soft tissue and recovery cases, same active compound, different delivery targets, 15 amino acids, a protective sequence the stomach already makes. The body recognizes it before the research catches up. Not a fix, a variable worth testing when a case has plateaued in a predictable place. Full pattern breakdown at tr.e slash owq7fm. Type it.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.82,
+      "text": " The peptide that finally shows up in tissue repair cases,",
+      "tokens": [
+        50364,
+        440,
+        41781,
+        482,
+        300,
+        2721,
+        3110,
+        493,
+        294,
+        12404,
+        10535,
+        3331,
+        11,
+        50512
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18883030631325462,
+      "compression_ratio": 1.611764705882353,
+      "no_speech_prob": 0.004516140557825565,
+      "words": [
+        {
+          "word": " The",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.7708896994590759
+        },
+        {
+          "word": " peptide",
+          "start": 0.16,
+          "end": 0.56,
+          "probability": 0.9888938069343567
+        },
+        {
+          "word": " that",
+          "start": 0.56,
+          "end": 0.74,
+          "probability": 0.9927825927734375
+        },
+        {
+          "word": " finally",
+          "start": 0.74,
+          "end": 1.08,
+          "probability": 0.9750008583068848
+        },
+        {
+          "word": " shows",
+          "start": 1.08,
+          "end": 1.3,
+          "probability": 0.996498703956604
+        },
+        {
+          "word": " up",
+          "start": 1.3,
+          "end": 1.58,
+          "probability": 0.9986346364021301
+        },
+        {
+          "word": " in",
+          "start": 1.58,
+          "end": 1.76,
+          "probability": 0.9923419952392578
+        },
+        {
+          "word": " tissue",
+          "start": 1.76,
+          "end": 2.06,
+          "probability": 0.9517112970352173
+        },
+        {
+          "word": " repair",
+          "start": 2.06,
+          "end": 2.32,
+          "probability": 0.9916826486587524
+        },
+        {
+          "word": " cases,",
+          "start": 2.32,
+          "end": 2.82,
+          "probability": 0.9980795383453369
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.06,
+      "end": 4.0,
+      "text": " no protocol touches.",
+      "tokens": [
+        50512,
+        572,
+        10336,
+        17431,
+        13,
+        50602
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18883030631325462,
+      "compression_ratio": 1.611764705882353,
+      "no_speech_prob": 0.004516140557825565,
+      "words": [
+        {
+          "word": " no",
+          "start": 3.06,
+          "end": 3.14,
+          "probability": 0.9821569323539734
+        },
+        {
+          "word": " protocol",
+          "start": 3.14,
+          "end": 3.5,
+          "probability": 0.97006756067276
+        },
+        {
+          "word": " touches.",
+          "start": 3.5,
+          "end": 4.0,
+          "probability": 0.9926918148994446
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.839999999999999,
+      "end": 8.04,
+      "text": " HHS flagged peptides as a research priority this year.",
+      "tokens": [
+        50602,
+        389,
+        12527,
+        7166,
+        3004,
+        41781,
+        1875,
+        382,
+        257,
+        2132,
+        9365,
+        341,
+        1064,
+        13,
+        50780
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18883030631325462,
+      "compression_ratio": 1.611764705882353,
+      "no_speech_prob": 0.004516140557825565,
+      "words": [
+        {
+          "word": " HHS",
+          "start": 4.839999999999999,
+          "end": 5.3999999999999995,
+          "probability": 0.9250107109546661
+        },
+        {
+          "word": " flagged",
+          "start": 5.3999999999999995,
+          "end": 5.96,
+          "probability": 0.9652864634990692
+        },
+        {
+          "word": " peptides",
+          "start": 5.96,
+          "end": 6.44,
+          "probability": 0.9962285459041595
+        },
+        {
+          "word": " as",
+          "start": 6.44,
+          "end": 6.6,
+          "probability": 0.9953151941299438
+        },
+        {
+          "word": " a",
+          "start": 6.6,
+          "end": 6.72,
+          "probability": 0.9956746697425842
+        },
+        {
+          "word": " research",
+          "start": 6.72,
+          "end": 7.02,
+          "probability": 0.982964038848877
+        },
+        {
+          "word": " priority",
+          "start": 7.02,
+          "end": 7.56,
+          "probability": 0.9926970601081848
+        },
+        {
+          "word": " this",
+          "start": 7.56,
+          "end": 7.84,
+          "probability": 0.9883451461791992
+        },
+        {
+          "word": " year.",
+          "start": 7.84,
+          "end": 8.04,
+          "probability": 0.9994762539863586
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 8.42,
+      "end": 11.16,
+      "text": " In clinical practice, this space has been active for a decade.",
+      "tokens": [
+        50780,
+        682,
+        9115,
+        3124,
+        11,
+        341,
+        1901,
+        575,
+        668,
+        4967,
+        337,
+        257,
+        10378,
+        13,
+        50962
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18883030631325462,
+      "compression_ratio": 1.611764705882353,
+      "no_speech_prob": 0.004516140557825565,
+      "words": [
+        {
+          "word": " In",
+          "start": 8.42,
+          "end": 8.48,
+          "probability": 0.9946092367172241
+        },
+        {
+          "word": " clinical",
+          "start": 8.48,
+          "end": 8.74,
+          "probability": 0.9854153394699097
+        },
+        {
+          "word": " practice,",
+          "start": 8.74,
+          "end": 9.2,
+          "probability": 0.9974454641342163
+        },
+        {
+          "word": " this",
+          "start": 9.4,
+          "end": 9.5,
+          "probability": 0.9971963167190552
+        },
+        {
+          "word": " space",
+          "start": 9.5,
+          "end": 9.76,
+          "probability": 0.9967814683914185
+        },
+        {
+          "word": " has",
+          "start": 9.76,
+          "end": 9.98,
+          "probability": 0.9953917264938354
+        },
+        {
+          "word": " been",
+          "start": 9.98,
+          "end": 10.12,
+          "probability": 0.9994283318519592
+        },
+        {
+          "word": " active",
+          "start": 10.12,
+          "end": 10.48,
+          "probability": 0.9990341663360596
+        },
+        {
+          "word": " for",
+          "start": 10.48,
+          "end": 10.72,
+          "probability": 0.9987143278121948
+        },
+        {
+          "word": " a",
+          "start": 10.72,
+          "end": 10.82,
+          "probability": 0.9987286925315857
+        },
+        {
+          "word": " decade.",
+          "start": 10.82,
+          "end": 11.16,
+          "probability": 0.9997875094413757
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 12.04,
+      "end": 13.58,
+      "text": " One compound keeps coming back.",
+      "tokens": [
+        50962,
+        1485,
+        14154,
+        5965,
+        1348,
+        646,
+        13,
+        51088
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18883030631325462,
+      "compression_ratio": 1.611764705882353,
+      "no_speech_prob": 0.004516140557825565,
+      "words": [
+        {
+          "word": " One",
+          "start": 12.04,
+          "end": 12.18,
+          "probability": 0.9470915794372559
+        },
+        {
+          "word": " compound",
+          "start": 12.18,
+          "end": 12.62,
+          "probability": 0.9956933856010437
+        },
+        {
+          "word": " keeps",
+          "start": 12.62,
+          "end": 12.88,
+          "probability": 0.9966763257980347
+        },
+        {
+          "word": " coming",
+          "start": 12.88,
+          "end": 13.2,
+          "probability": 0.9990870952606201
+        },
+        {
+          "word": " back.",
+          "start": 13.2,
+          "end": 13.58,
+          "probability": 0.9995282888412476
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 14.38,
+      "end": 16.96,
+      "text": " Not because of the hype, because the pattern of response",
+      "tokens": [
+        51088,
+        1726,
+        570,
+        295,
+        264,
+        24144,
+        11,
+        570,
+        264,
+        5102,
+        295,
+        4134,
+        51224
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18883030631325462,
+      "compression_ratio": 1.611764705882353,
+      "no_speech_prob": 0.004516140557825565,
+      "words": [
+        {
+          "word": " Not",
+          "start": 14.38,
+          "end": 14.64,
+          "probability": 0.990479052066803
+        },
+        {
+          "word": " because",
+          "start": 14.64,
+          "end": 14.86,
+          "probability": 0.9982004165649414
+        },
+        {
+          "word": " of",
+          "start": 14.86,
+          "end": 15.02,
+          "probability": 0.9956865906715393
+        },
+        {
+          "word": " the",
+          "start": 15.02,
+          "end": 15.14,
+          "probability": 0.9973909854888916
+        },
+        {
+          "word": " hype,",
+          "start": 15.14,
+          "end": 15.28,
+          "probability": 0.9886252880096436
+        },
+        {
+          "word": " because",
+          "start": 15.82,
+          "end": 16.04,
+          "probability": 0.9875990152359009
+        },
+        {
+          "word": " the",
+          "start": 16.04,
+          "end": 16.2,
+          "probability": 0.9977754950523376
+        },
+        {
+          "word": " pattern",
+          "start": 16.2,
+          "end": 16.56,
+          "probability": 0.9975119829177856
+        },
+        {
+          "word": " of",
+          "start": 16.56,
+          "end": 16.72,
+          "probability": 0.9991599321365356
+        },
+        {
+          "word": " response",
+          "start": 16.72,
+          "end": 16.96,
+          "probability": 0.9737398624420166
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 16.96,
+      "end": 20.4,
+      "text": " keeps showing up in the cases that don't fit the standard protocol.",
+      "tokens": [
+        51224,
+        5965,
+        4099,
+        493,
+        294,
+        264,
+        3331,
+        300,
+        500,
+        380,
+        3318,
+        264,
+        3832,
+        10336,
+        13,
+        51420
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18883030631325462,
+      "compression_ratio": 1.611764705882353,
+      "no_speech_prob": 0.004516140557825565,
+      "words": [
+        {
+          "word": " keeps",
+          "start": 16.96,
+          "end": 17.38,
+          "probability": 0.9859360456466675
+        },
+        {
+          "word": " showing",
+          "start": 17.38,
+          "end": 17.74,
+          "probability": 0.9935528039932251
+        },
+        {
+          "word": " up",
+          "start": 17.74,
+          "end": 17.96,
+          "probability": 0.9993818998336792
+        },
+        {
+          "word": " in",
+          "start": 17.96,
+          "end": 18.18,
+          "probability": 0.9894161820411682
+        },
+        {
+          "word": " the",
+          "start": 18.18,
+          "end": 18.28,
+          "probability": 0.9940755367279053
+        },
+        {
+          "word": " cases",
+          "start": 18.28,
+          "end": 18.6,
+          "probability": 0.9983847141265869
+        },
+        {
+          "word": " that",
+          "start": 18.6,
+          "end": 18.86,
+          "probability": 0.9981001019477844
+        },
+        {
+          "word": " don't",
+          "start": 18.86,
+          "end": 19.2,
+          "probability": 0.9971885681152344
+        },
+        {
+          "word": " fit",
+          "start": 19.2,
+          "end": 19.34,
+          "probability": 0.9988389611244202
+        },
+        {
+          "word": " the",
+          "start": 19.34,
+          "end": 19.52,
+          "probability": 0.9935322999954224
+        },
+        {
+          "word": " standard",
+          "start": 19.52,
+          "end": 19.84,
+          "probability": 0.9975155591964722
+        },
+        {
+          "word": " protocol.",
+          "start": 19.84,
+          "end": 20.4,
+          "probability": 0.9987748265266418
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 21.1,
+      "end": 26.88,
+      "text": " The compound is BPC157, pentadecopeptide, 15 amino acids,",
+      "tokens": [
+        51420,
+        440,
+        14154,
+        307,
+        363,
+        12986,
+        5211,
+        22,
+        11,
+        16834,
+        762,
+        66,
+        1114,
+        662,
+        482,
+        11,
+        2119,
+        24674,
+        21667,
+        11,
+        51724
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18883030631325462,
+      "compression_ratio": 1.611764705882353,
+      "no_speech_prob": 0.004516140557825565,
+      "words": [
+        {
+          "word": " The",
+          "start": 21.1,
+          "end": 21.3,
+          "probability": 0.9978546500205994
+        },
+        {
+          "word": " compound",
+          "start": 21.3,
+          "end": 21.68,
+          "probability": 0.9992282390594482
+        },
+        {
+          "word": " is",
+          "start": 21.68,
+          "end": 21.92,
+          "probability": 0.9981132745742798
+        },
+        {
+          "word": " BPC157,",
+          "start": 21.92,
+          "end": 23.56,
+          "probability": 0.8394893109798431
+        },
+        {
+          "word": " pentadecopeptide,",
+          "start": 23.88,
+          "end": 24.98,
+          "probability": 0.590014452735583
+        },
+        {
+          "word": " 15",
+          "start": 25.52,
+          "end": 25.9,
+          "probability": 0.9597563147544861
+        },
+        {
+          "word": " amino",
+          "start": 25.9,
+          "end": 26.24,
+          "probability": 0.9536626935005188
+        },
+        {
+          "word": " acids,",
+          "start": 26.24,
+          "end": 26.88,
+          "probability": 0.9971023201942444
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2688,
+      "start": 26.88,
+      "end": 29.74,
+      "text": " derived from a protective sequence in gastric juice.",
+      "tokens": [
+        50364,
+        18949,
+        490,
+        257,
+        16314,
+        8310,
+        294,
+        17898,
+        1341,
+        8544,
+        13,
+        50544
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17807456290367807,
+      "compression_ratio": 1.7103174603174602,
+      "no_speech_prob": 0.0010634306818246841,
+      "words": [
+        {
+          "word": " derived",
+          "start": 26.88,
+          "end": 27.52,
+          "probability": 0.12975046038627625
+        },
+        {
+          "word": " from",
+          "start": 27.52,
+          "end": 27.78,
+          "probability": 0.9927002787590027
+        },
+        {
+          "word": " a",
+          "start": 27.78,
+          "end": 27.88,
+          "probability": 0.9287509918212891
+        },
+        {
+          "word": " protective",
+          "start": 27.88,
+          "end": 28.24,
+          "probability": 0.9889752864837646
+        },
+        {
+          "word": " sequence",
+          "start": 28.24,
+          "end": 28.74,
+          "probability": 0.9873881936073303
+        },
+        {
+          "word": " in",
+          "start": 28.74,
+          "end": 28.92,
+          "probability": 0.9278203248977661
+        },
+        {
+          "word": " gastric",
+          "start": 28.92,
+          "end": 29.32,
+          "probability": 0.9801869094371796
+        },
+        {
+          "word": " juice.",
+          "start": 29.32,
+          "end": 29.74,
+          "probability": 0.9956058859825134
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2688,
+      "start": 30.5,
+      "end": 34.04,
+      "text": " What the research keeps returning to is the same three clinical surfaces.",
+      "tokens": [
+        50544,
+        708,
+        264,
+        2132,
+        5965,
+        12678,
+        281,
+        307,
+        264,
+        912,
+        1045,
+        9115,
+        16130,
+        13,
+        50764
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17807456290367807,
+      "compression_ratio": 1.7103174603174602,
+      "no_speech_prob": 0.0010634306818246841,
+      "words": [
+        {
+          "word": " What",
+          "start": 30.5,
+          "end": 30.72,
+          "probability": 0.9259451031684875
+        },
+        {
+          "word": " the",
+          "start": 30.72,
+          "end": 30.84,
+          "probability": 0.9942126870155334
+        },
+        {
+          "word": " research",
+          "start": 30.84,
+          "end": 31.14,
+          "probability": 0.9914098381996155
+        },
+        {
+          "word": " keeps",
+          "start": 31.14,
+          "end": 31.48,
+          "probability": 0.9887323379516602
+        },
+        {
+          "word": " returning",
+          "start": 31.48,
+          "end": 31.9,
+          "probability": 0.9977678060531616
+        },
+        {
+          "word": " to",
+          "start": 31.9,
+          "end": 32.14,
+          "probability": 0.9958666563034058
+        },
+        {
+          "word": " is",
+          "start": 32.14,
+          "end": 32.34,
+          "probability": 0.9759947061538696
+        },
+        {
+          "word": " the",
+          "start": 32.34,
+          "end": 32.46,
+          "probability": 0.9939748644828796
+        },
+        {
+          "word": " same",
+          "start": 32.46,
+          "end": 32.72,
+          "probability": 0.9919018149375916
+        },
+        {
+          "word": " three",
+          "start": 32.72,
+          "end": 33.08,
+          "probability": 0.9022170901298523
+        },
+        {
+          "word": " clinical",
+          "start": 33.08,
+          "end": 33.42,
+          "probability": 0.9959586262702942
+        },
+        {
+          "word": " surfaces.",
+          "start": 33.42,
+          "end": 34.04,
+          "probability": 0.9933980703353882
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2688,
+      "start": 35.0,
+      "end": 37.7,
+      "text": " Gut, mucosal support, soft tissue repair,",
+      "tokens": [
+        50764,
+        24481,
+        11,
+        275,
+        1311,
+        329,
+        304,
+        1406,
+        11,
+        2787,
+        12404,
+        10535,
+        11,
+        50924
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17807456290367807,
+      "compression_ratio": 1.7103174603174602,
+      "no_speech_prob": 0.0010634306818246841,
+      "words": [
+        {
+          "word": " Gut,",
+          "start": 35.0,
+          "end": 35.18,
+          "probability": 0.49557211995124817
+        },
+        {
+          "word": " mucosal",
+          "start": 35.5,
+          "end": 35.88,
+          "probability": 0.8059680685400963
+        },
+        {
+          "word": " support,",
+          "start": 35.88,
+          "end": 36.3,
+          "probability": 0.9282860159873962
+        },
+        {
+          "word": " soft",
+          "start": 36.76,
+          "end": 37.02,
+          "probability": 0.9745442867279053
+        },
+        {
+          "word": " tissue",
+          "start": 37.02,
+          "end": 37.3,
+          "probability": 0.9957181811332703
+        },
+        {
+          "word": " repair,",
+          "start": 37.3,
+          "end": 37.7,
+          "probability": 0.9982048273086548
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2688,
+      "start": 38.04,
+      "end": 42.08,
+      "text": " and recovery signaling in cases where the standard protocol has plateaued.",
+      "tokens": [
+        50924,
+        293,
+        8597,
+        38639,
+        294,
+        3331,
+        689,
+        264,
+        3832,
+        10336,
+        575,
+        39885,
+        292,
+        13,
+        51172
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17807456290367807,
+      "compression_ratio": 1.7103174603174602,
+      "no_speech_prob": 0.0010634306818246841,
+      "words": [
+        {
+          "word": " and",
+          "start": 38.04,
+          "end": 38.44,
+          "probability": 0.9973052740097046
+        },
+        {
+          "word": " recovery",
+          "start": 38.44,
+          "end": 38.84,
+          "probability": 0.9944082498550415
+        },
+        {
+          "word": " signaling",
+          "start": 38.84,
+          "end": 39.32,
+          "probability": 0.9576799869537354
+        },
+        {
+          "word": " in",
+          "start": 39.32,
+          "end": 39.58,
+          "probability": 0.976069986820221
+        },
+        {
+          "word": " cases",
+          "start": 39.58,
+          "end": 39.92,
+          "probability": 0.995555579662323
+        },
+        {
+          "word": " where",
+          "start": 39.92,
+          "end": 40.16,
+          "probability": 0.996311604976654
+        },
+        {
+          "word": " the",
+          "start": 40.16,
+          "end": 40.28,
+          "probability": 0.9942219853401184
+        },
+        {
+          "word": " standard",
+          "start": 40.28,
+          "end": 40.6,
+          "probability": 0.9924046397209167
+        },
+        {
+          "word": " protocol",
+          "start": 40.6,
+          "end": 41.04,
+          "probability": 0.9958826303482056
+        },
+        {
+          "word": " has",
+          "start": 41.04,
+          "end": 41.32,
+          "probability": 0.9979478716850281
+        },
+        {
+          "word": " plateaued.",
+          "start": 41.32,
+          "end": 42.08,
+          "probability": 0.9836966395378113
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2688,
+      "start": 42.68,
+      "end": 47.1,
+      "text": " In practice, I reach for infiniwell because they offer two release profiles.",
+      "tokens": [
+        51172,
+        682,
+        3124,
+        11,
+        286,
+        2524,
+        337,
+        1536,
+        3812,
+        6326,
+        570,
+        436,
+        2626,
+        732,
+        4374,
+        23693,
+        13,
+        51400
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17807456290367807,
+      "compression_ratio": 1.7103174603174602,
+      "no_speech_prob": 0.0010634306818246841,
+      "words": [
+        {
+          "word": " In",
+          "start": 42.68,
+          "end": 43.36,
+          "probability": 0.9934989213943481
+        },
+        {
+          "word": " practice,",
+          "start": 43.36,
+          "end": 43.74,
+          "probability": 0.994255006313324
+        },
+        {
+          "word": " I",
+          "start": 43.96,
+          "end": 44.04,
+          "probability": 0.9969923496246338
+        },
+        {
+          "word": " reach",
+          "start": 44.04,
+          "end": 44.2,
+          "probability": 0.9784069657325745
+        },
+        {
+          "word": " for",
+          "start": 44.2,
+          "end": 44.4,
+          "probability": 0.9905588626861572
+        },
+        {
+          "word": " infiniwell",
+          "start": 44.4,
+          "end": 44.92,
+          "probability": 0.6054573605457941
+        },
+        {
+          "word": " because",
+          "start": 44.92,
+          "end": 45.22,
+          "probability": 0.8886951804161072
+        },
+        {
+          "word": " they",
+          "start": 45.22,
+          "end": 45.42,
+          "probability": 0.9981061220169067
+        },
+        {
+          "word": " offer",
+          "start": 45.42,
+          "end": 45.72,
+          "probability": 0.9652289748191833
+        },
+        {
+          "word": " two",
+          "start": 45.72,
+          "end": 46.14,
+          "probability": 0.9710416197776794
+        },
+        {
+          "word": " release",
+          "start": 46.14,
+          "end": 46.54,
+          "probability": 0.9873058795928955
+        },
+        {
+          "word": " profiles.",
+          "start": 46.54,
+          "end": 47.1,
+          "probability": 0.9966841340065002
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2688,
+      "start": 47.76,
+      "end": 50.64,
+      "text": " The delayed release oral form for gut lining cases,",
+      "tokens": [
+        51400,
+        440,
+        20268,
+        4374,
+        19338,
+        1254,
+        337,
+        5228,
+        19628,
+        3331,
+        11,
+        51580
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17807456290367807,
+      "compression_ratio": 1.7103174603174602,
+      "no_speech_prob": 0.0010634306818246841,
+      "words": [
+        {
+          "word": " The",
+          "start": 47.76,
+          "end": 47.92,
+          "probability": 0.9903834462165833
+        },
+        {
+          "word": " delayed",
+          "start": 47.92,
+          "end": 48.2,
+          "probability": 0.9951081871986389
+        },
+        {
+          "word": " release",
+          "start": 48.2,
+          "end": 48.62,
+          "probability": 0.9926763772964478
+        },
+        {
+          "word": " oral",
+          "start": 48.62,
+          "end": 49.02,
+          "probability": 0.8357996940612793
+        },
+        {
+          "word": " form",
+          "start": 49.02,
+          "end": 49.48,
+          "probability": 0.9966726303100586
+        },
+        {
+          "word": " for",
+          "start": 49.48,
+          "end": 49.66,
+          "probability": 0.9853358864784241
+        },
+        {
+          "word": " gut",
+          "start": 49.66,
+          "end": 49.86,
+          "probability": 0.9926502108573914
+        },
+        {
+          "word": " lining",
+          "start": 49.86,
+          "end": 50.12,
+          "probability": 0.9361405968666077
+        },
+        {
+          "word": " cases,",
+          "start": 50.12,
+          "end": 50.64,
+          "probability": 0.990970253944397
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2688,
+      "start": 51.3,
+      "end": 54.24,
+      "text": " the rapid release form for soft tissue and recovery cases,",
+      "tokens": [
+        51580,
+        264,
+        7558,
+        4374,
+        1254,
+        337,
+        2787,
+        12404,
+        293,
+        8597,
+        3331,
+        11,
+        51748
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17807456290367807,
+      "compression_ratio": 1.7103174603174602,
+      "no_speech_prob": 0.0010634306818246841,
+      "words": [
+        {
+          "word": " the",
+          "start": 51.3,
+          "end": 51.48,
+          "probability": 0.9951651096343994
+        },
+        {
+          "word": " rapid",
+          "start": 51.48,
+          "end": 51.78,
+          "probability": 0.9747962355613708
+        },
+        {
+          "word": " release",
+          "start": 51.78,
+          "end": 52.08,
+          "probability": 0.994705855846405
+        },
+        {
+          "word": " form",
+          "start": 52.08,
+          "end": 52.46,
+          "probability": 0.9954267740249634
+        },
+        {
+          "word": " for",
+          "start": 52.46,
+          "end": 52.64,
+          "probability": 0.9985445737838745
+        },
+        {
+          "word": " soft",
+          "start": 52.64,
+          "end": 52.92,
+          "probability": 0.9971845746040344
+        },
+        {
+          "word": " tissue",
+          "start": 52.92,
+          "end": 53.28,
+          "probability": 0.9963296055793762
+        },
+        {
+          "word": " and",
+          "start": 53.28,
+          "end": 53.42,
+          "probability": 0.8513526320457458
+        },
+        {
+          "word": " recovery",
+          "start": 53.42,
+          "end": 53.76,
+          "probability": 0.9985332489013672
+        },
+        {
+          "word": " cases,",
+          "start": 53.76,
+          "end": 54.24,
+          "probability": 0.9953458905220032
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5424,
+      "start": 54.24,
+      "end": 57.26,
+      "text": " same active compound, different delivery targets,",
+      "tokens": [
+        50380,
+        912,
+        4967,
+        14154,
+        11,
+        819,
+        8982,
+        12911,
+        11,
+        50540
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23317978382110596,
+      "compression_ratio": 1.4575471698113207,
+      "no_speech_prob": 0.018482716754078865,
+      "words": [
+        {
+          "word": " same",
+          "start": 54.24,
+          "end": 54.86,
+          "probability": 0.1305232048034668
+        },
+        {
+          "word": " active",
+          "start": 54.86,
+          "end": 55.2,
+          "probability": 0.63777756690979
+        },
+        {
+          "word": " compound,",
+          "start": 55.2,
+          "end": 55.64,
+          "probability": 0.9976704716682434
+        },
+        {
+          "word": " different",
+          "start": 56.18,
+          "end": 56.5,
+          "probability": 0.9929179549217224
+        },
+        {
+          "word": " delivery",
+          "start": 56.5,
+          "end": 56.8,
+          "probability": 0.9972973465919495
+        },
+        {
+          "word": " targets,",
+          "start": 56.8,
+          "end": 57.26,
+          "probability": 0.9874722361564636
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5424,
+      "start": 57.78,
+      "end": 61.66,
+      "text": " 15 amino acids, a protective sequence the stomach already makes.",
+      "tokens": [
+        50540,
+        2119,
+        24674,
+        21667,
+        11,
+        257,
+        16314,
+        8310,
+        264,
+        9665,
+        1217,
+        1669,
+        13,
+        50760
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23317978382110596,
+      "compression_ratio": 1.4575471698113207,
+      "no_speech_prob": 0.018482716754078865,
+      "words": [
+        {
+          "word": " 15",
+          "start": 57.78,
+          "end": 58.22,
+          "probability": 0.9299373030662537
+        },
+        {
+          "word": " amino",
+          "start": 58.22,
+          "end": 58.54,
+          "probability": 0.9661896228790283
+        },
+        {
+          "word": " acids,",
+          "start": 58.54,
+          "end": 59.02,
+          "probability": 0.9974320530891418
+        },
+        {
+          "word": " a",
+          "start": 59.54,
+          "end": 59.7,
+          "probability": 0.9823233485221863
+        },
+        {
+          "word": " protective",
+          "start": 59.7,
+          "end": 60.0,
+          "probability": 0.9972013235092163
+        },
+        {
+          "word": " sequence",
+          "start": 60.0,
+          "end": 60.52,
+          "probability": 0.9967171549797058
+        },
+        {
+          "word": " the",
+          "start": 60.52,
+          "end": 60.78,
+          "probability": 0.9766219258308411
+        },
+        {
+          "word": " stomach",
+          "start": 60.78,
+          "end": 61.02,
+          "probability": 0.9929941296577454
+        },
+        {
+          "word": " already",
+          "start": 61.02,
+          "end": 61.4,
+          "probability": 0.9979914426803589
+        },
+        {
+          "word": " makes.",
+          "start": 61.4,
+          "end": 61.66,
+          "probability": 0.9958594441413879
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5424,
+      "start": 62.3,
+      "end": 65.0,
+      "text": " The body recognizes it before the research catches up.",
+      "tokens": [
+        50760,
+        440,
+        1772,
+        26564,
+        309,
+        949,
+        264,
+        2132,
+        25496,
+        493,
+        13,
+        50896
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23317978382110596,
+      "compression_ratio": 1.4575471698113207,
+      "no_speech_prob": 0.018482716754078865,
+      "words": [
+        {
+          "word": " The",
+          "start": 62.3,
+          "end": 62.38,
+          "probability": 0.9890888333320618
+        },
+        {
+          "word": " body",
+          "start": 62.38,
+          "end": 62.6,
+          "probability": 0.997083842754364
+        },
+        {
+          "word": " recognizes",
+          "start": 62.6,
+          "end": 63.1,
+          "probability": 0.9940211176872253
+        },
+        {
+          "word": " it",
+          "start": 63.1,
+          "end": 63.48,
+          "probability": 0.994773805141449
+        },
+        {
+          "word": " before",
+          "start": 63.48,
+          "end": 63.8,
+          "probability": 0.9867253303527832
+        },
+        {
+          "word": " the",
+          "start": 63.8,
+          "end": 64.0,
+          "probability": 0.9934896230697632
+        },
+        {
+          "word": " research",
+          "start": 64.0,
+          "end": 64.28,
+          "probability": 0.9933313727378845
+        },
+        {
+          "word": " catches",
+          "start": 64.28,
+          "end": 64.68,
+          "probability": 0.9874576926231384
+        },
+        {
+          "word": " up.",
+          "start": 64.68,
+          "end": 65.0,
+          "probability": 0.9980064034461975
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5424,
+      "start": 65.7,
+      "end": 70.22,
+      "text": " Not a fix, a variable worth testing when a case has plateaued in a predictable place.",
+      "tokens": [
+        50932,
+        1726,
+        257,
+        3191,
+        11,
+        257,
+        7006,
+        3163,
+        4997,
+        562,
+        257,
+        1389,
+        575,
+        39885,
+        292,
+        294,
+        257,
+        27737,
+        1081,
+        13,
+        51156
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23317978382110596,
+      "compression_ratio": 1.4575471698113207,
+      "no_speech_prob": 0.018482716754078865,
+      "words": [
+        {
+          "word": " Not",
+          "start": 65.7,
+          "end": 65.9,
+          "probability": 0.9426903128623962
+        },
+        {
+          "word": " a",
+          "start": 65.9,
+          "end": 66.02,
+          "probability": 0.8487605452537537
+        },
+        {
+          "word": " fix,",
+          "start": 66.02,
+          "end": 66.3,
+          "probability": 0.9796466827392578
+        },
+        {
+          "word": " a",
+          "start": 66.58,
+          "end": 66.66,
+          "probability": 0.9895942211151123
+        },
+        {
+          "word": " variable",
+          "start": 66.66,
+          "end": 67.04,
+          "probability": 0.9958269000053406
+        },
+        {
+          "word": " worth",
+          "start": 67.04,
+          "end": 67.28,
+          "probability": 0.7856729626655579
+        },
+        {
+          "word": " testing",
+          "start": 67.28,
+          "end": 67.72,
+          "probability": 0.9954419136047363
+        },
+        {
+          "word": " when",
+          "start": 67.72,
+          "end": 67.94,
+          "probability": 0.9710927605628967
+        },
+        {
+          "word": " a",
+          "start": 67.94,
+          "end": 68.04,
+          "probability": 0.9960283041000366
+        },
+        {
+          "word": " case",
+          "start": 68.04,
+          "end": 68.22,
+          "probability": 0.9979871511459351
+        },
+        {
+          "word": " has",
+          "start": 68.22,
+          "end": 68.46,
+          "probability": 0.9720385074615479
+        },
+        {
+          "word": " plateaued",
+          "start": 68.46,
+          "end": 69.08,
+          "probability": 0.97707799077034
+        },
+        {
+          "word": " in",
+          "start": 69.08,
+          "end": 69.16,
+          "probability": 0.9945616126060486
+        },
+        {
+          "word": " a",
+          "start": 69.16,
+          "end": 69.26,
+          "probability": 0.9971488118171692
+        },
+        {
+          "word": " predictable",
+          "start": 69.26,
+          "end": 69.64,
+          "probability": 0.9956964254379272
+        },
+        {
+          "word": " place.",
+          "start": 69.64,
+          "end": 70.22,
+          "probability": 0.9980080723762512
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 5424,
+      "start": 71.04,
+      "end": 75.74,
+      "text": " Full pattern breakdown at tr.e slash owq7fm.",
+      "tokens": [
+        51200,
+        13841,
+        5102,
+        18188,
+        412,
+        504,
+        13,
+        68,
+        17330,
+        277,
+        86,
+        80,
+        22,
+        69,
+        76,
+        13,
+        51432
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23317978382110596,
+      "compression_ratio": 1.4575471698113207,
+      "no_speech_prob": 0.018482716754078865,
+      "words": [
+        {
+          "word": " Full",
+          "start": 71.04,
+          "end": 71.26,
+          "probability": 0.9801254868507385
+        },
+        {
+          "word": " pattern",
+          "start": 71.26,
+          "end": 71.58,
+          "probability": 0.7481951713562012
+        },
+        {
+          "word": " breakdown",
+          "start": 71.58,
+          "end": 72.06,
+          "probability": 0.9210705757141113
+        },
+        {
+          "word": " at",
+          "start": 72.06,
+          "end": 72.5,
+          "probability": 0.9132665395736694
+        },
+        {
+          "word": " tr",
+          "start": 72.5,
+          "end": 72.86,
+          "probability": 0.4113615155220032
+        },
+        {
+          "word": ".e",
+          "start": 72.86,
+          "end": 73.34,
+          "probability": 0.8285528421401978
+        },
+        {
+          "word": " slash",
+          "start": 73.34,
+          "end": 73.76,
+          "probability": 0.11990731209516525
+        },
+        {
+          "word": " owq7fm.",
+          "start": 73.76,
+          "end": 75.74,
+          "probability": 0.832870344320933
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 5424,
+      "start": 76.36,
+      "end": 76.8,
+      "text": " Type it.",
+      "tokens": [
+        51464,
+        15576,
+        309,
+        13,
+        51532
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23317978382110596,
+      "compression_ratio": 1.4575471698113207,
+      "no_speech_prob": 0.018482716754078865,
+      "words": [
+        {
+          "word": " Type",
+          "start": 76.36,
+          "end": 76.52,
+          "probability": 0.9228752851486206
+        },
+        {
+          "word": " it.",
+          "start": 76.52,
+          "end": 76.8,
+          "probability": 0.9885454773902893
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,1833 @@
+{
+  "text": " Most stalled mold detox protocols I see have the same missing step in the sequence. Client is doing everything by the book. Binders, glutathione, sauna, maybe CSM. Some symptoms shift early than nothing. The protocol drags for months, sometimes years. Nobody connects why. When I walk back through the sequence, one thing is almost always skipped. Cell membrane repair. Here's the mechanism. Micotoxins are lipophilic. They store and sell membranes. If the membrane is damaged from years of exposure, inflammation, oxidative stress, the binders never get a full release. The toxins keep recycling. The protocol keeps running. Nothing moves. Fosfetidylcholine is the phospholipid. The body uses to rebuild that membrane layer. Body bio PC is the form I reach for. Usually introduced two to four weeks before the binding protocol starts, or alongside it if the client can't wait. Micotoxins are lipophilic. They store and sell membranes. Binders without phospholipid support is why most protocols stall, not as a replacement for binders. As the floor of the binders are standing on, full pattern breakdown at tr.e slash owq7fm. Type it.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 4.12,
+      "text": " Most stalled mold detox protocols I see have the same missing step in the sequence.",
+      "tokens": [
+        50364,
+        4534,
+        342,
+        8907,
+        11102,
+        34904,
+        20618,
+        286,
+        536,
+        362,
+        264,
+        912,
+        5361,
+        1823,
+        294,
+        264,
+        8310,
+        13,
+        50604
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18349605136447483,
+      "compression_ratio": 1.5255474452554745,
+      "no_speech_prob": 0.00896367710083723,
+      "words": [
+        {
+          "word": " Most",
+          "start": 0.0,
+          "end": 0.18,
+          "probability": 0.9446663856506348
+        },
+        {
+          "word": " stalled",
+          "start": 0.18,
+          "end": 0.6,
+          "probability": 0.8095658123493195
+        },
+        {
+          "word": " mold",
+          "start": 0.6,
+          "end": 0.78,
+          "probability": 0.639230489730835
+        },
+        {
+          "word": " detox",
+          "start": 0.78,
+          "end": 1.16,
+          "probability": 0.9890439510345459
+        },
+        {
+          "word": " protocols",
+          "start": 1.16,
+          "end": 1.66,
+          "probability": 0.9838470816612244
+        },
+        {
+          "word": " I",
+          "start": 1.66,
+          "end": 1.92,
+          "probability": 0.9073437452316284
+        },
+        {
+          "word": " see",
+          "start": 1.92,
+          "end": 2.14,
+          "probability": 0.9975583553314209
+        },
+        {
+          "word": " have",
+          "start": 2.14,
+          "end": 2.36,
+          "probability": 0.988619327545166
+        },
+        {
+          "word": " the",
+          "start": 2.36,
+          "end": 2.52,
+          "probability": 0.9968795776367188
+        },
+        {
+          "word": " same",
+          "start": 2.52,
+          "end": 2.8,
+          "probability": 0.9997230172157288
+        },
+        {
+          "word": " missing",
+          "start": 2.8,
+          "end": 3.08,
+          "probability": 0.9921731948852539
+        },
+        {
+          "word": " step",
+          "start": 3.08,
+          "end": 3.46,
+          "probability": 0.9663691520690918
+        },
+        {
+          "word": " in",
+          "start": 3.46,
+          "end": 3.62,
+          "probability": 0.9956400394439697
+        },
+        {
+          "word": " the",
+          "start": 3.62,
+          "end": 3.72,
+          "probability": 0.9970661997795105
+        },
+        {
+          "word": " sequence.",
+          "start": 3.72,
+          "end": 4.12,
+          "probability": 0.9965819716453552
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.72,
+      "end": 6.48,
+      "text": " Client is doing everything by the book.",
+      "tokens": [
+        50604,
+        2033,
+        1196,
+        307,
+        884,
+        1203,
+        538,
+        264,
+        1446,
+        13,
+        50700
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18349605136447483,
+      "compression_ratio": 1.5255474452554745,
+      "no_speech_prob": 0.00896367710083723,
+      "words": [
+        {
+          "word": " Client",
+          "start": 4.72,
+          "end": 5.1,
+          "probability": 0.9222979545593262
+        },
+        {
+          "word": " is",
+          "start": 5.1,
+          "end": 5.26,
+          "probability": 0.9914398193359375
+        },
+        {
+          "word": " doing",
+          "start": 5.26,
+          "end": 5.44,
+          "probability": 0.9972575306892395
+        },
+        {
+          "word": " everything",
+          "start": 5.44,
+          "end": 5.8,
+          "probability": 0.9976629018783569
+        },
+        {
+          "word": " by",
+          "start": 5.8,
+          "end": 6.02,
+          "probability": 0.9952982068061829
+        },
+        {
+          "word": " the",
+          "start": 6.02,
+          "end": 6.14,
+          "probability": 0.9959141612052917
+        },
+        {
+          "word": " book.",
+          "start": 6.14,
+          "end": 6.48,
+          "probability": 0.9919146299362183
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.82,
+      "end": 9.56,
+      "text": " Binders, glutathione, sauna, maybe CSM.",
+      "tokens": [
+        50700,
+        363,
+        471,
+        433,
+        11,
+        33249,
+        998,
+        5328,
+        11,
+        46654,
+        11,
+        1310,
+        9460,
+        44,
+        13,
+        50898
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18349605136447483,
+      "compression_ratio": 1.5255474452554745,
+      "no_speech_prob": 0.00896367710083723,
+      "words": [
+        {
+          "word": " Binders,",
+          "start": 6.82,
+          "end": 7.2,
+          "probability": 0.8955320715904236
+        },
+        {
+          "word": " glutathione,",
+          "start": 7.44,
+          "end": 7.9,
+          "probability": 0.8601267139116923
+        },
+        {
+          "word": " sauna,",
+          "start": 8.28,
+          "end": 8.36,
+          "probability": 0.8576887845993042
+        },
+        {
+          "word": " maybe",
+          "start": 8.72,
+          "end": 8.88,
+          "probability": 0.9882358312606812
+        },
+        {
+          "word": " CSM.",
+          "start": 8.88,
+          "end": 9.56,
+          "probability": 0.9850886464118958
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 10.74,
+      "end": 12.6,
+      "text": " Some symptoms shift early than nothing.",
+      "tokens": [
+        50898,
+        2188,
+        8332,
+        5513,
+        2440,
+        813,
+        1825,
+        13,
+        51048
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18349605136447483,
+      "compression_ratio": 1.5255474452554745,
+      "no_speech_prob": 0.00896367710083723,
+      "words": [
+        {
+          "word": " Some",
+          "start": 10.74,
+          "end": 10.9,
+          "probability": 0.929410994052887
+        },
+        {
+          "word": " symptoms",
+          "start": 10.9,
+          "end": 11.3,
+          "probability": 0.9965401887893677
+        },
+        {
+          "word": " shift",
+          "start": 11.3,
+          "end": 11.54,
+          "probability": 0.9912944436073303
+        },
+        {
+          "word": " early",
+          "start": 11.54,
+          "end": 11.96,
+          "probability": 0.9939039349555969
+        },
+        {
+          "word": " than",
+          "start": 11.96,
+          "end": 12.26,
+          "probability": 0.47761738300323486
+        },
+        {
+          "word": " nothing.",
+          "start": 12.26,
+          "end": 12.6,
+          "probability": 0.9958778619766235
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 13.72,
+      "end": 15.86,
+      "text": " The protocol drags for months, sometimes years.",
+      "tokens": [
+        51048,
+        440,
+        10336,
+        5286,
+        82,
+        337,
+        2493,
+        11,
+        2171,
+        924,
+        13,
+        51184
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18349605136447483,
+      "compression_ratio": 1.5255474452554745,
+      "no_speech_prob": 0.00896367710083723,
+      "words": [
+        {
+          "word": " The",
+          "start": 13.72,
+          "end": 13.8,
+          "probability": 0.9894366264343262
+        },
+        {
+          "word": " protocol",
+          "start": 13.8,
+          "end": 14.1,
+          "probability": 0.9848425388336182
+        },
+        {
+          "word": " drags",
+          "start": 14.1,
+          "end": 14.56,
+          "probability": 0.9730584621429443
+        },
+        {
+          "word": " for",
+          "start": 14.56,
+          "end": 14.68,
+          "probability": 0.9978815913200378
+        },
+        {
+          "word": " months,",
+          "start": 14.68,
+          "end": 15.0,
+          "probability": 0.9987547397613525
+        },
+        {
+          "word": " sometimes",
+          "start": 15.24,
+          "end": 15.5,
+          "probability": 0.9884273409843445
+        },
+        {
+          "word": " years.",
+          "start": 15.5,
+          "end": 15.86,
+          "probability": 0.99265456199646
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 16.44,
+      "end": 17.34,
+      "text": " Nobody connects why.",
+      "tokens": [
+        51184,
+        9297,
+        16967,
+        983,
+        13,
+        51286
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18349605136447483,
+      "compression_ratio": 1.5255474452554745,
+      "no_speech_prob": 0.00896367710083723,
+      "words": [
+        {
+          "word": " Nobody",
+          "start": 16.44,
+          "end": 16.68,
+          "probability": 0.990537703037262
+        },
+        {
+          "word": " connects",
+          "start": 16.68,
+          "end": 17.0,
+          "probability": 0.978873610496521
+        },
+        {
+          "word": " why.",
+          "start": 17.0,
+          "end": 17.34,
+          "probability": 0.9568766951560974
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 18.5,
+      "end": 21.46,
+      "text": " When I walk back through the sequence, one thing is almost always skipped.",
+      "tokens": [
+        51286,
+        1133,
+        286,
+        1792,
+        646,
+        807,
+        264,
+        8310,
+        11,
+        472,
+        551,
+        307,
+        1920,
+        1009,
+        30193,
+        13,
+        51460
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18349605136447483,
+      "compression_ratio": 1.5255474452554745,
+      "no_speech_prob": 0.00896367710083723,
+      "words": [
+        {
+          "word": " When",
+          "start": 18.5,
+          "end": 18.58,
+          "probability": 0.9870932698249817
+        },
+        {
+          "word": " I",
+          "start": 18.58,
+          "end": 18.68,
+          "probability": 0.9977080821990967
+        },
+        {
+          "word": " walk",
+          "start": 18.68,
+          "end": 18.82,
+          "probability": 0.9945053458213806
+        },
+        {
+          "word": " back",
+          "start": 18.82,
+          "end": 19.04,
+          "probability": 0.9976254105567932
+        },
+        {
+          "word": " through",
+          "start": 19.04,
+          "end": 19.26,
+          "probability": 0.9898642897605896
+        },
+        {
+          "word": " the",
+          "start": 19.26,
+          "end": 19.4,
+          "probability": 0.9912909269332886
+        },
+        {
+          "word": " sequence,",
+          "start": 19.4,
+          "end": 19.74,
+          "probability": 0.9975296854972839
+        },
+        {
+          "word": " one",
+          "start": 19.98,
+          "end": 20.08,
+          "probability": 0.9906836748123169
+        },
+        {
+          "word": " thing",
+          "start": 20.08,
+          "end": 20.32,
+          "probability": 0.9990215301513672
+        },
+        {
+          "word": " is",
+          "start": 20.32,
+          "end": 20.48,
+          "probability": 0.9966346621513367
+        },
+        {
+          "word": " almost",
+          "start": 20.48,
+          "end": 20.74,
+          "probability": 0.985942542552948
+        },
+        {
+          "word": " always",
+          "start": 20.74,
+          "end": 21.18,
+          "probability": 0.9966482520103455
+        },
+        {
+          "word": " skipped.",
+          "start": 21.18,
+          "end": 21.46,
+          "probability": 0.9926643967628479
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 22.06,
+      "end": 22.88,
+      "text": " Cell membrane repair.",
+      "tokens": [
+        51460,
+        28859,
+        19651,
+        10535,
+        13,
+        51528
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18349605136447483,
+      "compression_ratio": 1.5255474452554745,
+      "no_speech_prob": 0.00896367710083723,
+      "words": [
+        {
+          "word": " Cell",
+          "start": 22.06,
+          "end": 22.16,
+          "probability": 0.9518333077430725
+        },
+        {
+          "word": " membrane",
+          "start": 22.16,
+          "end": 22.48,
+          "probability": 0.9873586297035217
+        },
+        {
+          "word": " repair.",
+          "start": 22.48,
+          "end": 22.88,
+          "probability": 0.9971345663070679
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 23.32,
+      "end": 24.14,
+      "text": " Here's the mechanism.",
+      "tokens": [
+        51528,
+        1692,
+        311,
+        264,
+        7513,
+        13,
+        51626
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18349605136447483,
+      "compression_ratio": 1.5255474452554745,
+      "no_speech_prob": 0.00896367710083723,
+      "words": [
+        {
+          "word": " Here's",
+          "start": 23.32,
+          "end": 23.62,
+          "probability": 0.9088449776172638
+        },
+        {
+          "word": " the",
+          "start": 23.62,
+          "end": 23.7,
+          "probability": 0.9980781078338623
+        },
+        {
+          "word": " mechanism.",
+          "start": 23.7,
+          "end": 24.14,
+          "probability": 0.996211051940918
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 25.44,
+      "end": 26.96,
+      "text": " Micotoxins are lipophilic.",
+      "tokens": [
+        51626,
+        5818,
+        310,
+        5230,
+        1292,
+        366,
+        8280,
+        5317,
+        388,
+        299,
+        13,
+        51736
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18349605136447483,
+      "compression_ratio": 1.5255474452554745,
+      "no_speech_prob": 0.00896367710083723,
+      "words": [
+        {
+          "word": " Micotoxins",
+          "start": 25.44,
+          "end": 26.04,
+          "probability": 0.836417093873024
+        },
+        {
+          "word": " are",
+          "start": 26.04,
+          "end": 26.28,
+          "probability": 0.9983200430870056
+        },
+        {
+          "word": " lipophilic.",
+          "start": 26.28,
+          "end": 26.96,
+          "probability": 0.937549889087677
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2696,
+      "start": 27.48,
+      "end": 28.78,
+      "text": " They store and sell membranes.",
+      "tokens": [
+        50390,
+        814,
+        3531,
+        293,
+        3607,
+        15595,
+        12779,
+        13,
+        50460
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23937110563295078,
+      "compression_ratio": 1.6124031007751938,
+      "no_speech_prob": 0.000939368677791208,
+      "words": [
+        {
+          "word": " They",
+          "start": 27.279999999999998,
+          "end": 27.58,
+          "probability": 0.9219183325767517
+        },
+        {
+          "word": " store",
+          "start": 27.58,
+          "end": 27.82,
+          "probability": 0.9913684725761414
+        },
+        {
+          "word": " and",
+          "start": 27.82,
+          "end": 28.02,
+          "probability": 0.8664689064025879
+        },
+        {
+          "word": " sell",
+          "start": 28.02,
+          "end": 28.18,
+          "probability": 0.9937356114387512
+        },
+        {
+          "word": " membranes.",
+          "start": 28.18,
+          "end": 28.78,
+          "probability": 0.9926491379737854
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2696,
+      "start": 28.94,
+      "end": 31.92,
+      "text": " If the membrane is damaged from years of exposure, inflammation,",
+      "tokens": [
+        50460,
+        759,
+        264,
+        19651,
+        307,
+        14080,
+        490,
+        924,
+        295,
+        10420,
+        11,
+        21613,
+        11,
+        50636
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23937110563295078,
+      "compression_ratio": 1.6124031007751938,
+      "no_speech_prob": 0.000939368677791208,
+      "words": [
+        {
+          "word": " If",
+          "start": 28.94,
+          "end": 29.02,
+          "probability": 0.9952399730682373
+        },
+        {
+          "word": " the",
+          "start": 29.02,
+          "end": 29.16,
+          "probability": 0.9972726702690125
+        },
+        {
+          "word": " membrane",
+          "start": 29.16,
+          "end": 29.46,
+          "probability": 0.9997027516365051
+        },
+        {
+          "word": " is",
+          "start": 29.46,
+          "end": 29.68,
+          "probability": 0.9981911778450012
+        },
+        {
+          "word": " damaged",
+          "start": 29.68,
+          "end": 30.04,
+          "probability": 0.9963338375091553
+        },
+        {
+          "word": " from",
+          "start": 30.04,
+          "end": 30.5,
+          "probability": 0.7023728489875793
+        },
+        {
+          "word": " years",
+          "start": 30.5,
+          "end": 30.72,
+          "probability": 0.9751782417297363
+        },
+        {
+          "word": " of",
+          "start": 30.72,
+          "end": 30.9,
+          "probability": 0.9971848130226135
+        },
+        {
+          "word": " exposure,",
+          "start": 30.9,
+          "end": 31.3,
+          "probability": 0.9985760450363159
+        },
+        {
+          "word": " inflammation,",
+          "start": 31.58,
+          "end": 31.92,
+          "probability": 0.998448371887207
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2696,
+      "start": 32.48,
+      "end": 35.88,
+      "text": " oxidative stress, the binders never get a full release.",
+      "tokens": [
+        50636,
+        19924,
+        1166,
+        4244,
+        11,
+        264,
+        14786,
+        433,
+        1128,
+        483,
+        257,
+        1577,
+        4374,
+        13,
+        50838
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23937110563295078,
+      "compression_ratio": 1.6124031007751938,
+      "no_speech_prob": 0.000939368677791208,
+      "words": [
+        {
+          "word": " oxidative",
+          "start": 32.48,
+          "end": 32.92,
+          "probability": 0.9829453527927399
+        },
+        {
+          "word": " stress,",
+          "start": 32.92,
+          "end": 33.3,
+          "probability": 0.9987611770629883
+        },
+        {
+          "word": " the",
+          "start": 34.08,
+          "end": 34.26,
+          "probability": 0.9908299446105957
+        },
+        {
+          "word": " binders",
+          "start": 34.26,
+          "end": 34.62,
+          "probability": 0.9617991149425507
+        },
+        {
+          "word": " never",
+          "start": 34.62,
+          "end": 34.88,
+          "probability": 0.9976881742477417
+        },
+        {
+          "word": " get",
+          "start": 34.88,
+          "end": 35.1,
+          "probability": 0.9981803894042969
+        },
+        {
+          "word": " a",
+          "start": 35.1,
+          "end": 35.3,
+          "probability": 0.9978448152542114
+        },
+        {
+          "word": " full",
+          "start": 35.3,
+          "end": 35.5,
+          "probability": 0.9983475208282471
+        },
+        {
+          "word": " release.",
+          "start": 35.5,
+          "end": 35.88,
+          "probability": 0.9972865581512451
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2696,
+      "start": 36.5,
+      "end": 37.84,
+      "text": " The toxins keep recycling.",
+      "tokens": [
+        50838,
+        440,
+        36104,
+        1066,
+        23363,
+        13,
+        50926
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23937110563295078,
+      "compression_ratio": 1.6124031007751938,
+      "no_speech_prob": 0.000939368677791208,
+      "words": [
+        {
+          "word": " The",
+          "start": 36.5,
+          "end": 36.56,
+          "probability": 0.9946874380111694
+        },
+        {
+          "word": " toxins",
+          "start": 36.56,
+          "end": 36.94,
+          "probability": 0.9936248064041138
+        },
+        {
+          "word": " keep",
+          "start": 36.94,
+          "end": 37.34,
+          "probability": 0.9953376054763794
+        },
+        {
+          "word": " recycling.",
+          "start": 37.34,
+          "end": 37.84,
+          "probability": 0.9919754862785339
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2696,
+      "start": 38.26,
+      "end": 39.32,
+      "text": " The protocol keeps running.",
+      "tokens": [
+        50926,
+        440,
+        10336,
+        5965,
+        2614,
+        13,
+        50992
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23937110563295078,
+      "compression_ratio": 1.6124031007751938,
+      "no_speech_prob": 0.000939368677791208,
+      "words": [
+        {
+          "word": " The",
+          "start": 38.26,
+          "end": 38.34,
+          "probability": 0.9967197775840759
+        },
+        {
+          "word": " protocol",
+          "start": 38.34,
+          "end": 38.62,
+          "probability": 0.9978985786437988
+        },
+        {
+          "word": " keeps",
+          "start": 38.62,
+          "end": 38.96,
+          "probability": 0.9933829307556152
+        },
+        {
+          "word": " running.",
+          "start": 38.96,
+          "end": 39.32,
+          "probability": 0.9991815686225891
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2696,
+      "start": 39.62,
+      "end": 40.12,
+      "text": " Nothing moves.",
+      "tokens": [
+        50992,
+        6693,
+        6067,
+        13,
+        51098
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23937110563295078,
+      "compression_ratio": 1.6124031007751938,
+      "no_speech_prob": 0.000939368677791208,
+      "words": [
+        {
+          "word": " Nothing",
+          "start": 39.62,
+          "end": 39.82,
+          "probability": 0.9923970103263855
+        },
+        {
+          "word": " moves.",
+          "start": 39.82,
+          "end": 40.12,
+          "probability": 0.9975566864013672
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2696,
+      "start": 42.1,
+      "end": 43.9,
+      "text": " Fosfetidylcholine is the phospholipid.",
+      "tokens": [
+        51098,
+        479,
+        329,
+        69,
+        302,
+        327,
+        5088,
+        339,
+        18773,
+        307,
+        264,
+        19775,
+        401,
+        647,
+        327,
+        13,
+        51214
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23937110563295078,
+      "compression_ratio": 1.6124031007751938,
+      "no_speech_prob": 0.000939368677791208,
+      "words": [
+        {
+          "word": " Fosfetidylcholine",
+          "start": 42.1,
+          "end": 42.7,
+          "probability": 0.442251393571496
+        },
+        {
+          "word": " is",
+          "start": 42.7,
+          "end": 42.98,
+          "probability": 0.9936555624008179
+        },
+        {
+          "word": " the",
+          "start": 42.98,
+          "end": 43.12,
+          "probability": 0.9969916343688965
+        },
+        {
+          "word": " phospholipid.",
+          "start": 43.12,
+          "end": 43.9,
+          "probability": 0.9623999744653702
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 2696,
+      "start": 44.08,
+      "end": 46.24,
+      "text": " The body uses to rebuild that membrane layer.",
+      "tokens": [
+        51214,
+        440,
+        1772,
+        4960,
+        281,
+        16877,
+        300,
+        19651,
+        4583,
+        13,
+        51370
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23937110563295078,
+      "compression_ratio": 1.6124031007751938,
+      "no_speech_prob": 0.000939368677791208,
+      "words": [
+        {
+          "word": " The",
+          "start": 44.08,
+          "end": 44.08,
+          "probability": 0.9873731732368469
+        },
+        {
+          "word": " body",
+          "start": 44.08,
+          "end": 44.32,
+          "probability": 0.9981656670570374
+        },
+        {
+          "word": " uses",
+          "start": 44.32,
+          "end": 44.64,
+          "probability": 0.9965632557868958
+        },
+        {
+          "word": " to",
+          "start": 44.64,
+          "end": 44.88,
+          "probability": 0.9948732256889343
+        },
+        {
+          "word": " rebuild",
+          "start": 44.88,
+          "end": 45.2,
+          "probability": 0.9975754618644714
+        },
+        {
+          "word": " that",
+          "start": 45.2,
+          "end": 45.48,
+          "probability": 0.9960903525352478
+        },
+        {
+          "word": " membrane",
+          "start": 45.48,
+          "end": 45.84,
+          "probability": 0.9997451901435852
+        },
+        {
+          "word": " layer.",
+          "start": 45.84,
+          "end": 46.24,
+          "probability": 0.9968558549880981
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 2696,
+      "start": 47.16,
+      "end": 49.44,
+      "text": " Body bio PC is the form I reach for.",
+      "tokens": [
+        51370,
+        21329,
+        12198,
+        6465,
+        307,
+        264,
+        1254,
+        286,
+        2524,
+        337,
+        13,
+        51510
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23937110563295078,
+      "compression_ratio": 1.6124031007751938,
+      "no_speech_prob": 0.000939368677791208,
+      "words": [
+        {
+          "word": " Body",
+          "start": 47.16,
+          "end": 47.38,
+          "probability": 0.9640896916389465
+        },
+        {
+          "word": " bio",
+          "start": 47.38,
+          "end": 47.62,
+          "probability": 0.14933021366596222
+        },
+        {
+          "word": " PC",
+          "start": 47.62,
+          "end": 47.96,
+          "probability": 0.6123132109642029
+        },
+        {
+          "word": " is",
+          "start": 47.96,
+          "end": 48.38,
+          "probability": 0.9916338920593262
+        },
+        {
+          "word": " the",
+          "start": 48.38,
+          "end": 48.5,
+          "probability": 0.9986718893051147
+        },
+        {
+          "word": " form",
+          "start": 48.5,
+          "end": 48.78,
+          "probability": 0.9942349791526794
+        },
+        {
+          "word": " I",
+          "start": 48.78,
+          "end": 49.0,
+          "probability": 0.9902327060699463
+        },
+        {
+          "word": " reach",
+          "start": 49.0,
+          "end": 49.16,
+          "probability": 0.9640311002731323
+        },
+        {
+          "word": " for.",
+          "start": 49.16,
+          "end": 49.44,
+          "probability": 0.9975322484970093
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 2696,
+      "start": 49.84,
+      "end": 53.58,
+      "text": " Usually introduced two to four weeks before the binding protocol starts,",
+      "tokens": [
+        51510,
+        11419,
+        7268,
+        732,
+        281,
+        1451,
+        3259,
+        949,
+        264,
+        17359,
+        10336,
+        3719,
+        11,
+        51722
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.23937110563295078,
+      "compression_ratio": 1.6124031007751938,
+      "no_speech_prob": 0.000939368677791208,
+      "words": [
+        {
+          "word": " Usually",
+          "start": 49.84,
+          "end": 50.2,
+          "probability": 0.9819605350494385
+        },
+        {
+          "word": " introduced",
+          "start": 50.2,
+          "end": 50.64,
+          "probability": 0.5781180262565613
+        },
+        {
+          "word": " two",
+          "start": 50.64,
+          "end": 51.06,
+          "probability": 0.5453517436981201
+        },
+        {
+          "word": " to",
+          "start": 51.06,
+          "end": 51.28,
+          "probability": 0.987703800201416
+        },
+        {
+          "word": " four",
+          "start": 51.28,
+          "end": 51.54,
+          "probability": 0.9924261569976807
+        },
+        {
+          "word": " weeks",
+          "start": 51.54,
+          "end": 51.82,
+          "probability": 0.9978873133659363
+        },
+        {
+          "word": " before",
+          "start": 51.82,
+          "end": 52.18,
+          "probability": 0.9922893643379211
+        },
+        {
+          "word": " the",
+          "start": 52.18,
+          "end": 52.42,
+          "probability": 0.9914693236351013
+        },
+        {
+          "word": " binding",
+          "start": 52.42,
+          "end": 52.66,
+          "probability": 0.9946795105934143
+        },
+        {
+          "word": " protocol",
+          "start": 52.66,
+          "end": 53.02,
+          "probability": 0.9971135854721069
+        },
+        {
+          "word": " starts,",
+          "start": 53.02,
+          "end": 53.58,
+          "probability": 0.9984439015388489
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 5358,
+      "start": 53.58,
+      "end": 56.1,
+      "text": " or alongside it if the client can't wait.",
+      "tokens": [
+        50388,
+        420,
+        12385,
+        309,
+        498,
+        264,
+        6423,
+        393,
+        380,
+        1699,
+        13,
+        50540
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18976044654846191,
+      "compression_ratio": 1.4752475247524752,
+      "no_speech_prob": 0.025976791977882385,
+      "words": [
+        {
+          "word": " or",
+          "start": 53.58,
+          "end": 54.28,
+          "probability": 0.7824991345405579
+        },
+        {
+          "word": " alongside",
+          "start": 54.28,
+          "end": 54.78,
+          "probability": 0.8918850421905518
+        },
+        {
+          "word": " it",
+          "start": 54.78,
+          "end": 55.0,
+          "probability": 0.9812363386154175
+        },
+        {
+          "word": " if",
+          "start": 55.0,
+          "end": 55.16,
+          "probability": 0.9180774688720703
+        },
+        {
+          "word": " the",
+          "start": 55.16,
+          "end": 55.28,
+          "probability": 0.991487979888916
+        },
+        {
+          "word": " client",
+          "start": 55.28,
+          "end": 55.54,
+          "probability": 0.995191216468811
+        },
+        {
+          "word": " can't",
+          "start": 55.54,
+          "end": 55.92,
+          "probability": 0.9962454736232758
+        },
+        {
+          "word": " wait.",
+          "start": 55.92,
+          "end": 56.1,
+          "probability": 0.9880731701850891
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 5358,
+      "start": 57.24,
+      "end": 58.78,
+      "text": " Micotoxins are lipophilic.",
+      "tokens": [
+        50540,
+        5818,
+        310,
+        5230,
+        1292,
+        366,
+        8280,
+        5317,
+        388,
+        299,
+        13,
+        50626
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18976044654846191,
+      "compression_ratio": 1.4752475247524752,
+      "no_speech_prob": 0.025976791977882385,
+      "words": [
+        {
+          "word": " Micotoxins",
+          "start": 57.24,
+          "end": 57.86,
+          "probability": 0.7869289070367813
+        },
+        {
+          "word": " are",
+          "start": 57.86,
+          "end": 58.04,
+          "probability": 0.998824417591095
+        },
+        {
+          "word": " lipophilic.",
+          "start": 58.04,
+          "end": 58.78,
+          "probability": 0.9433760941028595
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 5358,
+      "start": 58.88,
+      "end": 60.12,
+      "text": " They store and sell membranes.",
+      "tokens": [
+        50626,
+        814,
+        3531,
+        293,
+        3607,
+        15595,
+        12779,
+        13,
+        50720
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18976044654846191,
+      "compression_ratio": 1.4752475247524752,
+      "no_speech_prob": 0.025976791977882385,
+      "words": [
+        {
+          "word": " They",
+          "start": 58.88,
+          "end": 58.96,
+          "probability": 0.9912944436073303
+        },
+        {
+          "word": " store",
+          "start": 58.96,
+          "end": 59.18,
+          "probability": 0.9936596751213074
+        },
+        {
+          "word": " and",
+          "start": 59.18,
+          "end": 59.34,
+          "probability": 0.07696874439716339
+        },
+        {
+          "word": " sell",
+          "start": 59.34,
+          "end": 59.52,
+          "probability": 0.9819872975349426
+        },
+        {
+          "word": " membranes.",
+          "start": 59.52,
+          "end": 60.12,
+          "probability": 0.9899934828281403
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 5358,
+      "start": 60.82,
+      "end": 64.08,
+      "text": " Binders without phospholipid support is why most protocols stall,",
+      "tokens": [
+        50720,
+        363,
+        471,
+        433,
+        1553,
+        19775,
+        401,
+        647,
+        327,
+        1406,
+        307,
+        983,
+        881,
+        20618,
+        19633,
+        11,
+        50910
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18976044654846191,
+      "compression_ratio": 1.4752475247524752,
+      "no_speech_prob": 0.025976791977882385,
+      "words": [
+        {
+          "word": " Binders",
+          "start": 60.82,
+          "end": 61.18,
+          "probability": 0.9356270432472229
+        },
+        {
+          "word": " without",
+          "start": 61.18,
+          "end": 61.44,
+          "probability": 0.9709581136703491
+        },
+        {
+          "word": " phospholipid",
+          "start": 61.44,
+          "end": 62.22,
+          "probability": 0.9561852365732193
+        },
+        {
+          "word": " support",
+          "start": 62.22,
+          "end": 62.56,
+          "probability": 0.9981485605239868
+        },
+        {
+          "word": " is",
+          "start": 62.56,
+          "end": 62.8,
+          "probability": 0.9923765063285828
+        },
+        {
+          "word": " why",
+          "start": 62.8,
+          "end": 62.96,
+          "probability": 0.9890299439430237
+        },
+        {
+          "word": " most",
+          "start": 62.96,
+          "end": 63.22,
+          "probability": 0.9968845248222351
+        },
+        {
+          "word": " protocols",
+          "start": 63.22,
+          "end": 63.6,
+          "probability": 0.8023803234100342
+        },
+        {
+          "word": " stall,",
+          "start": 63.6,
+          "end": 64.08,
+          "probability": 0.9814814329147339
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 5358,
+      "start": 64.48,
+      "end": 66.08,
+      "text": " not as a replacement for binders.",
+      "tokens": [
+        50910,
+        406,
+        382,
+        257,
+        14419,
+        337,
+        14786,
+        433,
+        13,
+        51018
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18976044654846191,
+      "compression_ratio": 1.4752475247524752,
+      "no_speech_prob": 0.025976791977882385,
+      "words": [
+        {
+          "word": " not",
+          "start": 64.48,
+          "end": 64.7,
+          "probability": 0.9968872666358948
+        },
+        {
+          "word": " as",
+          "start": 64.7,
+          "end": 64.88,
+          "probability": 0.985706627368927
+        },
+        {
+          "word": " a",
+          "start": 64.88,
+          "end": 64.94,
+          "probability": 0.9960904717445374
+        },
+        {
+          "word": " replacement",
+          "start": 64.94,
+          "end": 65.36,
+          "probability": 0.9991952776908875
+        },
+        {
+          "word": " for",
+          "start": 65.36,
+          "end": 65.58,
+          "probability": 0.9985314607620239
+        },
+        {
+          "word": " binders.",
+          "start": 65.58,
+          "end": 66.08,
+          "probability": 0.9844476282596588
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 5358,
+      "start": 66.52,
+      "end": 68.48,
+      "text": " As the floor of the binders are standing on,",
+      "tokens": [
+        51018,
+        1018,
+        264,
+        4123,
+        295,
+        264,
+        14786,
+        433,
+        366,
+        4877,
+        322,
+        11,
+        51134
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18976044654846191,
+      "compression_ratio": 1.4752475247524752,
+      "no_speech_prob": 0.025976791977882385,
+      "words": [
+        {
+          "word": " As",
+          "start": 66.52,
+          "end": 66.82,
+          "probability": 0.9943253397941589
+        },
+        {
+          "word": " the",
+          "start": 66.82,
+          "end": 66.96,
+          "probability": 0.9976940751075745
+        },
+        {
+          "word": " floor",
+          "start": 66.96,
+          "end": 67.16,
+          "probability": 0.9830938577651978
+        },
+        {
+          "word": " of",
+          "start": 67.16,
+          "end": 67.28,
+          "probability": 0.8815656900405884
+        },
+        {
+          "word": " the",
+          "start": 67.28,
+          "end": 67.32,
+          "probability": 0.984733521938324
+        },
+        {
+          "word": " binders",
+          "start": 67.32,
+          "end": 67.7,
+          "probability": 0.9934752583503723
+        },
+        {
+          "word": " are",
+          "start": 67.7,
+          "end": 67.78,
+          "probability": 0.9959200620651245
+        },
+        {
+          "word": " standing",
+          "start": 67.78,
+          "end": 68.14,
+          "probability": 0.9949079155921936
+        },
+        {
+          "word": " on,",
+          "start": 68.14,
+          "end": 68.48,
+          "probability": 0.994657576084137
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 5358,
+      "start": 68.98,
+      "end": 73.6,
+      "text": " full pattern breakdown at tr.e slash owq7fm.",
+      "tokens": [
+        51134,
+        1577,
+        5102,
+        18188,
+        412,
+        504,
+        13,
+        68,
+        17330,
+        277,
+        86,
+        80,
+        22,
+        69,
+        76,
+        13,
+        51396
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18976044654846191,
+      "compression_ratio": 1.4752475247524752,
+      "no_speech_prob": 0.025976791977882385,
+      "words": [
+        {
+          "word": " full",
+          "start": 68.98,
+          "end": 69.2,
+          "probability": 0.9877434968948364
+        },
+        {
+          "word": " pattern",
+          "start": 69.2,
+          "end": 69.56,
+          "probability": 0.9377239942550659
+        },
+        {
+          "word": " breakdown",
+          "start": 69.56,
+          "end": 70.06,
+          "probability": 0.9017599821090698
+        },
+        {
+          "word": " at",
+          "start": 70.06,
+          "end": 70.38,
+          "probability": 0.9366739988327026
+        },
+        {
+          "word": " tr",
+          "start": 70.38,
+          "end": 70.7,
+          "probability": 0.5110936164855957
+        },
+        {
+          "word": ".e",
+          "start": 70.7,
+          "end": 71.24,
+          "probability": 0.7759828567504883
+        },
+        {
+          "word": " slash",
+          "start": 71.24,
+          "end": 71.72,
+          "probability": 0.08777986466884613
+        },
+        {
+          "word": " owq7fm.",
+          "start": 71.72,
+          "end": 73.6,
+          "probability": 0.8178543845812479
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 5358,
+      "start": 74.26,
+      "end": 74.74,
+      "text": " Type it.",
+      "tokens": [
+        51396,
+        15576,
+        309,
+        13,
+        51434
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18976044654846191,
+      "compression_ratio": 1.4752475247524752,
+      "no_speech_prob": 0.025976791977882385,
+      "words": [
+        {
+          "word": " Type",
+          "start": 74.26,
+          "end": 74.46,
+          "probability": 0.911011278629303
+        },
+        {
+          "word": " it.",
+          "start": 74.46,
+          "end": 74.74,
+          "probability": 0.9914816617965698
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

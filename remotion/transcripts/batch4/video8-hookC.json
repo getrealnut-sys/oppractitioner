@@ -1,0 +1,2036 @@
+{
+  "text": " Find in some buildings, sick in others, same person. Client has tried every protocol. Anti-histamines, gut work, nervous system regulation, elimination diet. Some things help for a week. Then the symptoms come back. Usually in the same places, usually at the same times, nobody can map it because the protocol was not designed to map it. Here's what I asked them to track, which rooms, which buildings, which days of the week. Within two weeks, the map is obvious. Find at work, sick at home, or find in the new office, sick in the car, or find on vacation. Back to square one in the bedroom. This is almost always a micro toxin load pattern. Not mold generally. A specific micro toxin from a specific building material producing a specific symptom cluster. Ocarotoxin from water damage drywall looks different from aflatoxin from contaminated food. Gliotoxin from indoor growth looks different from tricothycines. Eight micro toxins, eight symptom profiles. Broad spectrum treatment keeps missing because the target is specific. A light formulas publishes micro toxin specific clinical guides. Each one covers the source mold, the organ at targets, the differentiating symptom profile. Full pattern breakdown at tr.e slash owq7fm. Type it.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.1,
+      "text": " Find in some buildings, sick in others, same person.",
+      "tokens": [
+        50364,
+        11809,
+        294,
+        512,
+        7446,
+        11,
+        4998,
+        294,
+        2357,
+        11,
+        912,
+        954,
+        13,
+        50537
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17710952758789061,
+      "compression_ratio": 1.681159420289855,
+      "no_speech_prob": 0.00779814925044775,
+      "words": [
+        {
+          "word": " Find",
+          "start": 0.0,
+          "end": 0.26,
+          "probability": 0.5954698920249939
+        },
+        {
+          "word": " in",
+          "start": 0.26,
+          "end": 0.52,
+          "probability": 0.6582517623901367
+        },
+        {
+          "word": " some",
+          "start": 0.52,
+          "end": 0.7,
+          "probability": 0.9966957569122314
+        },
+        {
+          "word": " buildings,",
+          "start": 0.7,
+          "end": 1.1,
+          "probability": 0.9915946125984192
+        },
+        {
+          "word": " sick",
+          "start": 1.68,
+          "end": 1.8,
+          "probability": 0.5023981928825378
+        },
+        {
+          "word": " in",
+          "start": 1.8,
+          "end": 1.92,
+          "probability": 0.6470786333084106
+        },
+        {
+          "word": " others,",
+          "start": 1.92,
+          "end": 2.12,
+          "probability": 0.9974188804626465
+        },
+        {
+          "word": " same",
+          "start": 2.42,
+          "end": 2.66,
+          "probability": 0.9929279685020447
+        },
+        {
+          "word": " person.",
+          "start": 2.66,
+          "end": 3.1,
+          "probability": 0.9747649431228638
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.56,
+      "end": 5.06,
+      "text": " Client has tried every protocol.",
+      "tokens": [
+        50537,
+        2033,
+        1196,
+        575,
+        3031,
+        633,
+        10336,
+        13,
+        50641
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17710952758789061,
+      "compression_ratio": 1.681159420289855,
+      "no_speech_prob": 0.00779814925044775,
+      "words": [
+        {
+          "word": " Client",
+          "start": 3.56,
+          "end": 3.78,
+          "probability": 0.8573606312274933
+        },
+        {
+          "word": " has",
+          "start": 3.78,
+          "end": 3.92,
+          "probability": 0.9988048076629639
+        },
+        {
+          "word": " tried",
+          "start": 3.92,
+          "end": 4.16,
+          "probability": 0.9958595633506775
+        },
+        {
+          "word": " every",
+          "start": 4.16,
+          "end": 4.58,
+          "probability": 0.9946743249893188
+        },
+        {
+          "word": " protocol.",
+          "start": 4.58,
+          "end": 5.06,
+          "probability": 0.9933115243911743
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.6,
+      "end": 8.96,
+      "text": " Anti-histamines, gut work, nervous system regulation,",
+      "tokens": [
+        50641,
+        27757,
+        12,
+        33236,
+        335,
+        1652,
+        11,
+        5228,
+        589,
+        11,
+        6296,
+        1185,
+        15062,
+        11,
+        50839
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17710952758789061,
+      "compression_ratio": 1.681159420289855,
+      "no_speech_prob": 0.00779814925044775,
+      "words": [
+        {
+          "word": " Anti",
+          "start": 5.6,
+          "end": 5.82,
+          "probability": 0.644382119178772
+        },
+        {
+          "word": "-histamines,",
+          "start": 5.82,
+          "end": 6.56,
+          "probability": 0.78734090924263
+        },
+        {
+          "word": " gut",
+          "start": 6.92,
+          "end": 7.0,
+          "probability": 0.9690268635749817
+        },
+        {
+          "word": " work,",
+          "start": 7.0,
+          "end": 7.4,
+          "probability": 0.9204716682434082
+        },
+        {
+          "word": " nervous",
+          "start": 7.88,
+          "end": 8.06,
+          "probability": 0.9931116104125977
+        },
+        {
+          "word": " system",
+          "start": 8.06,
+          "end": 8.42,
+          "probability": 0.9979877471923828
+        },
+        {
+          "word": " regulation,",
+          "start": 8.42,
+          "end": 8.96,
+          "probability": 0.9926758408546448
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.5,
+      "end": 10.42,
+      "text": " elimination diet.",
+      "tokens": [
+        50839,
+        29224,
+        6339,
+        13,
+        50901
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17710952758789061,
+      "compression_ratio": 1.681159420289855,
+      "no_speech_prob": 0.00779814925044775,
+      "words": [
+        {
+          "word": " elimination",
+          "start": 9.5,
+          "end": 9.84,
+          "probability": 0.987286388874054
+        },
+        {
+          "word": " diet.",
+          "start": 9.84,
+          "end": 10.42,
+          "probability": 0.9512706398963928
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 11.48,
+      "end": 12.86,
+      "text": " Some things help for a week.",
+      "tokens": [
+        50946,
+        2188,
+        721,
+        854,
+        337,
+        257,
+        1243,
+        13,
+        51026
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17710952758789061,
+      "compression_ratio": 1.681159420289855,
+      "no_speech_prob": 0.00779814925044775,
+      "words": [
+        {
+          "word": " Some",
+          "start": 11.48,
+          "end": 11.82,
+          "probability": 0.9659422636032104
+        },
+        {
+          "word": " things",
+          "start": 11.82,
+          "end": 12.06,
+          "probability": 0.9991722106933594
+        },
+        {
+          "word": " help",
+          "start": 12.06,
+          "end": 12.26,
+          "probability": 0.9267827272415161
+        },
+        {
+          "word": " for",
+          "start": 12.26,
+          "end": 12.52,
+          "probability": 0.9983950257301331
+        },
+        {
+          "word": " a",
+          "start": 12.52,
+          "end": 12.64,
+          "probability": 0.9983357787132263
+        },
+        {
+          "word": " week.",
+          "start": 12.64,
+          "end": 12.86,
+          "probability": 0.9968269467353821
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 13.24,
+      "end": 14.38,
+      "text": " Then the symptoms come back.",
+      "tokens": [
+        51026,
+        1396,
+        264,
+        8332,
+        808,
+        646,
+        13,
+        51098
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17710952758789061,
+      "compression_ratio": 1.681159420289855,
+      "no_speech_prob": 0.00779814925044775,
+      "words": [
+        {
+          "word": " Then",
+          "start": 13.24,
+          "end": 13.36,
+          "probability": 0.9920390844345093
+        },
+        {
+          "word": " the",
+          "start": 13.36,
+          "end": 13.5,
+          "probability": 0.9414466619491577
+        },
+        {
+          "word": " symptoms",
+          "start": 13.5,
+          "end": 13.8,
+          "probability": 0.9989954829216003
+        },
+        {
+          "word": " come",
+          "start": 13.8,
+          "end": 14.08,
+          "probability": 0.9982354640960693
+        },
+        {
+          "word": " back.",
+          "start": 14.08,
+          "end": 14.38,
+          "probability": 0.9993102550506592
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 14.72,
+      "end": 17.38,
+      "text": " Usually in the same places, usually at the same times,",
+      "tokens": [
+        51098,
+        11419,
+        294,
+        264,
+        912,
+        3190,
+        11,
+        2673,
+        412,
+        264,
+        912,
+        1413,
+        11,
+        51245
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17710952758789061,
+      "compression_ratio": 1.681159420289855,
+      "no_speech_prob": 0.00779814925044775,
+      "words": [
+        {
+          "word": " Usually",
+          "start": 14.72,
+          "end": 14.94,
+          "probability": 0.9925215840339661
+        },
+        {
+          "word": " in",
+          "start": 14.94,
+          "end": 15.14,
+          "probability": 0.9351145625114441
+        },
+        {
+          "word": " the",
+          "start": 15.14,
+          "end": 15.22,
+          "probability": 0.9984543323516846
+        },
+        {
+          "word": " same",
+          "start": 15.22,
+          "end": 15.42,
+          "probability": 0.99919193983078
+        },
+        {
+          "word": " places,",
+          "start": 15.42,
+          "end": 15.84,
+          "probability": 0.9937148690223694
+        },
+        {
+          "word": " usually",
+          "start": 16.2,
+          "end": 16.46,
+          "probability": 0.9972993731498718
+        },
+        {
+          "word": " at",
+          "start": 16.46,
+          "end": 16.6,
+          "probability": 0.9902043342590332
+        },
+        {
+          "word": " the",
+          "start": 16.6,
+          "end": 16.7,
+          "probability": 0.9992456436157227
+        },
+        {
+          "word": " same",
+          "start": 16.7,
+          "end": 16.9,
+          "probability": 0.9995607733726501
+        },
+        {
+          "word": " times,",
+          "start": 16.9,
+          "end": 17.38,
+          "probability": 0.8442978262901306
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 17.66,
+      "end": 19.48,
+      "text": " nobody can map it because the protocol",
+      "tokens": [
+        51245,
+        5079,
+        393,
+        4471,
+        309,
+        570,
+        264,
+        10336,
+        51345
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17710952758789061,
+      "compression_ratio": 1.681159420289855,
+      "no_speech_prob": 0.00779814925044775,
+      "words": [
+        {
+          "word": " nobody",
+          "start": 17.66,
+          "end": 17.92,
+          "probability": 0.9905479550361633
+        },
+        {
+          "word": " can",
+          "start": 17.92,
+          "end": 18.14,
+          "probability": 0.9975103139877319
+        },
+        {
+          "word": " map",
+          "start": 18.14,
+          "end": 18.32,
+          "probability": 0.9936442375183105
+        },
+        {
+          "word": " it",
+          "start": 18.32,
+          "end": 18.54,
+          "probability": 0.9983702301979065
+        },
+        {
+          "word": " because",
+          "start": 18.54,
+          "end": 18.84,
+          "probability": 0.9106694459915161
+        },
+        {
+          "word": " the",
+          "start": 18.84,
+          "end": 19.04,
+          "probability": 0.9984721541404724
+        },
+        {
+          "word": " protocol",
+          "start": 19.04,
+          "end": 19.48,
+          "probability": 0.9987553358078003
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 19.48,
+      "end": 20.8,
+      "text": " was not designed to map it.",
+      "tokens": [
+        51345,
+        390,
+        406,
+        4761,
+        281,
+        4471,
+        309,
+        13,
+        51435
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17710952758789061,
+      "compression_ratio": 1.681159420289855,
+      "no_speech_prob": 0.00779814925044775,
+      "words": [
+        {
+          "word": " was",
+          "start": 19.48,
+          "end": 19.7,
+          "probability": 0.9943777918815613
+        },
+        {
+          "word": " not",
+          "start": 19.7,
+          "end": 19.86,
+          "probability": 0.9989091157913208
+        },
+        {
+          "word": " designed",
+          "start": 19.86,
+          "end": 20.14,
+          "probability": 0.9990617632865906
+        },
+        {
+          "word": " to",
+          "start": 20.14,
+          "end": 20.4,
+          "probability": 0.9995751976966858
+        },
+        {
+          "word": " map",
+          "start": 20.4,
+          "end": 20.54,
+          "probability": 0.9958412051200867
+        },
+        {
+          "word": " it.",
+          "start": 20.54,
+          "end": 20.8,
+          "probability": 0.9970519542694092
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 21.36,
+      "end": 22.68,
+      "text": " Here's what I asked them to track,",
+      "tokens": [
+        51435,
+        1692,
+        311,
+        437,
+        286,
+        2351,
+        552,
+        281,
+        2837,
+        11,
+        51516
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17710952758789061,
+      "compression_ratio": 1.681159420289855,
+      "no_speech_prob": 0.00779814925044775,
+      "words": [
+        {
+          "word": " Here's",
+          "start": 21.36,
+          "end": 21.66,
+          "probability": 0.9634331464767456
+        },
+        {
+          "word": " what",
+          "start": 21.66,
+          "end": 21.78,
+          "probability": 0.9973624348640442
+        },
+        {
+          "word": " I",
+          "start": 21.78,
+          "end": 21.9,
+          "probability": 0.9967226386070251
+        },
+        {
+          "word": " asked",
+          "start": 21.9,
+          "end": 22.14,
+          "probability": 0.8218867182731628
+        },
+        {
+          "word": " them",
+          "start": 22.14,
+          "end": 22.28,
+          "probability": 0.996514618396759
+        },
+        {
+          "word": " to",
+          "start": 22.28,
+          "end": 22.38,
+          "probability": 0.999510645866394
+        },
+        {
+          "word": " track,",
+          "start": 22.38,
+          "end": 22.68,
+          "probability": 0.9947222471237183
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 22.98,
+      "end": 25.5,
+      "text": " which rooms, which buildings, which days of the week.",
+      "tokens": [
+        51516,
+        597,
+        9396,
+        11,
+        597,
+        7446,
+        11,
+        597,
+        1708,
+        295,
+        264,
+        1243,
+        13,
+        51670
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17710952758789061,
+      "compression_ratio": 1.681159420289855,
+      "no_speech_prob": 0.00779814925044775,
+      "words": [
+        {
+          "word": " which",
+          "start": 22.98,
+          "end": 23.22,
+          "probability": 0.9695809483528137
+        },
+        {
+          "word": " rooms,",
+          "start": 23.22,
+          "end": 23.5,
+          "probability": 0.9905649423599243
+        },
+        {
+          "word": " which",
+          "start": 23.8,
+          "end": 23.9,
+          "probability": 0.9987427592277527
+        },
+        {
+          "word": " buildings,",
+          "start": 23.9,
+          "end": 24.26,
+          "probability": 0.9953328967094421
+        },
+        {
+          "word": " which",
+          "start": 24.56,
+          "end": 24.74,
+          "probability": 0.9986478686332703
+        },
+        {
+          "word": " days",
+          "start": 24.74,
+          "end": 24.98,
+          "probability": 0.9975969195365906
+        },
+        {
+          "word": " of",
+          "start": 24.98,
+          "end": 25.14,
+          "probability": 0.9946857690811157
+        },
+        {
+          "word": " the",
+          "start": 25.14,
+          "end": 25.24,
+          "probability": 0.998247504234314
+        },
+        {
+          "word": " week.",
+          "start": 25.24,
+          "end": 25.5,
+          "probability": 0.9994125366210938
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 26.08,
+      "end": 27.86,
+      "text": " Within two weeks, the map is obvious.",
+      "tokens": [
+        51670,
+        15996,
+        732,
+        3259,
+        11,
+        264,
+        4471,
+        307,
+        6322,
+        13,
+        51782
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17710952758789061,
+      "compression_ratio": 1.681159420289855,
+      "no_speech_prob": 0.00779814925044775,
+      "words": [
+        {
+          "word": " Within",
+          "start": 26.08,
+          "end": 26.32,
+          "probability": 0.9960059523582458
+        },
+        {
+          "word": " two",
+          "start": 26.32,
+          "end": 26.6,
+          "probability": 0.9657591581344604
+        },
+        {
+          "word": " weeks,",
+          "start": 26.6,
+          "end": 26.82,
+          "probability": 0.9958212375640869
+        },
+        {
+          "word": " the",
+          "start": 27.02,
+          "end": 27.08,
+          "probability": 0.998744010925293
+        },
+        {
+          "word": " map",
+          "start": 27.08,
+          "end": 27.3,
+          "probability": 0.9990641474723816
+        },
+        {
+          "word": " is",
+          "start": 27.3,
+          "end": 27.5,
+          "probability": 0.9990476965904236
+        },
+        {
+          "word": " obvious.",
+          "start": 27.5,
+          "end": 27.86,
+          "probability": 0.9993889331817627
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2786,
+      "start": 27.86,
+      "end": 31.5,
+      "text": " Find at work, sick at home, or find in the new office,",
+      "tokens": [
+        50384,
+        11809,
+        412,
+        589,
+        11,
+        4998,
+        412,
+        1280,
+        11,
+        420,
+        915,
+        294,
+        264,
+        777,
+        3398,
+        11,
+        50562
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2578854650821326,
+      "compression_ratio": 1.7219730941704037,
+      "no_speech_prob": 0.01084885373711586,
+      "words": [
+        {
+          "word": " Find",
+          "start": 27.86,
+          "end": 28.54,
+          "probability": 0.42436474561691284
+        },
+        {
+          "word": " at",
+          "start": 28.54,
+          "end": 28.68,
+          "probability": 0.2485692799091339
+        },
+        {
+          "word": " work,",
+          "start": 28.68,
+          "end": 28.9,
+          "probability": 0.992662787437439
+        },
+        {
+          "word": " sick",
+          "start": 29.32,
+          "end": 29.44,
+          "probability": 0.438994437456131
+        },
+        {
+          "word": " at",
+          "start": 29.44,
+          "end": 29.56,
+          "probability": 0.9933251738548279
+        },
+        {
+          "word": " home,",
+          "start": 29.56,
+          "end": 29.78,
+          "probability": 0.9994288086891174
+        },
+        {
+          "word": " or",
+          "start": 30.14,
+          "end": 30.36,
+          "probability": 0.9899711608886719
+        },
+        {
+          "word": " find",
+          "start": 30.36,
+          "end": 30.64,
+          "probability": 0.9804465770721436
+        },
+        {
+          "word": " in",
+          "start": 30.64,
+          "end": 30.8,
+          "probability": 0.9869073629379272
+        },
+        {
+          "word": " the",
+          "start": 30.8,
+          "end": 30.92,
+          "probability": 0.993939995765686
+        },
+        {
+          "word": " new",
+          "start": 30.92,
+          "end": 31.06,
+          "probability": 0.9885927438735962
+        },
+        {
+          "word": " office,",
+          "start": 31.06,
+          "end": 31.5,
+          "probability": 0.9992843270301819
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2786,
+      "start": 31.96,
+      "end": 34.18,
+      "text": " sick in the car, or find on vacation.",
+      "tokens": [
+        50562,
+        4998,
+        294,
+        264,
+        1032,
+        11,
+        420,
+        915,
+        322,
+        12830,
+        13,
+        50724
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2578854650821326,
+      "compression_ratio": 1.7219730941704037,
+      "no_speech_prob": 0.01084885373711586,
+      "words": [
+        {
+          "word": " sick",
+          "start": 31.96,
+          "end": 32.14,
+          "probability": 0.9528414011001587
+        },
+        {
+          "word": " in",
+          "start": 32.14,
+          "end": 32.24,
+          "probability": 0.9886186122894287
+        },
+        {
+          "word": " the",
+          "start": 32.24,
+          "end": 32.34,
+          "probability": 0.9944896697998047
+        },
+        {
+          "word": " car,",
+          "start": 32.34,
+          "end": 32.6,
+          "probability": 0.9983481168746948
+        },
+        {
+          "word": " or",
+          "start": 33.14,
+          "end": 33.24,
+          "probability": 0.9956409931182861
+        },
+        {
+          "word": " find",
+          "start": 33.24,
+          "end": 33.6,
+          "probability": 0.95322185754776
+        },
+        {
+          "word": " on",
+          "start": 33.6,
+          "end": 33.82,
+          "probability": 0.9753064513206482
+        },
+        {
+          "word": " vacation.",
+          "start": 33.82,
+          "end": 34.18,
+          "probability": 0.9973762035369873
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2786,
+      "start": 35.12,
+      "end": 36.48,
+      "text": " Back to square one in the bedroom.",
+      "tokens": [
+        50724,
+        5833,
+        281,
+        3732,
+        472,
+        294,
+        264,
+        11211,
+        13,
+        50821
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2578854650821326,
+      "compression_ratio": 1.7219730941704037,
+      "no_speech_prob": 0.01084885373711586,
+      "words": [
+        {
+          "word": " Back",
+          "start": 35.12,
+          "end": 35.28,
+          "probability": 0.9909964799880981
+        },
+        {
+          "word": " to",
+          "start": 35.28,
+          "end": 35.44,
+          "probability": 0.9899937510490417
+        },
+        {
+          "word": " square",
+          "start": 35.44,
+          "end": 35.68,
+          "probability": 0.9047566652297974
+        },
+        {
+          "word": " one",
+          "start": 35.68,
+          "end": 35.92,
+          "probability": 0.7747048735618591
+        },
+        {
+          "word": " in",
+          "start": 35.92,
+          "end": 36.08,
+          "probability": 0.9798968434333801
+        },
+        {
+          "word": " the",
+          "start": 36.08,
+          "end": 36.18,
+          "probability": 0.9962819218635559
+        },
+        {
+          "word": " bedroom.",
+          "start": 36.18,
+          "end": 36.48,
+          "probability": 0.9970114231109619
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2786,
+      "start": 37.04,
+      "end": 39.6,
+      "text": " This is almost always a micro toxin load pattern.",
+      "tokens": [
+        50821,
+        639,
+        307,
+        1920,
+        1009,
+        257,
+        4532,
+        10357,
+        259,
+        3677,
+        5102,
+        13,
+        50981
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2578854650821326,
+      "compression_ratio": 1.7219730941704037,
+      "no_speech_prob": 0.01084885373711586,
+      "words": [
+        {
+          "word": " This",
+          "start": 37.04,
+          "end": 37.16,
+          "probability": 0.9956557750701904
+        },
+        {
+          "word": " is",
+          "start": 37.16,
+          "end": 37.26,
+          "probability": 0.9955897331237793
+        },
+        {
+          "word": " almost",
+          "start": 37.26,
+          "end": 37.48,
+          "probability": 0.9861449003219604
+        },
+        {
+          "word": " always",
+          "start": 37.48,
+          "end": 37.9,
+          "probability": 0.9940335154533386
+        },
+        {
+          "word": " a",
+          "start": 37.9,
+          "end": 38.08,
+          "probability": 0.9960850477218628
+        },
+        {
+          "word": " micro",
+          "start": 38.08,
+          "end": 38.36,
+          "probability": 0.1733296662569046
+        },
+        {
+          "word": " toxin",
+          "start": 38.36,
+          "end": 39.0,
+          "probability": 0.7017998695373535
+        },
+        {
+          "word": " load",
+          "start": 39.0,
+          "end": 39.2,
+          "probability": 0.9644262194633484
+        },
+        {
+          "word": " pattern.",
+          "start": 39.2,
+          "end": 39.6,
+          "probability": 0.983548104763031
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2786,
+      "start": 40.14,
+      "end": 41.26,
+      "text": " Not mold generally.",
+      "tokens": [
+        50981,
+        1726,
+        11102,
+        5101,
+        13,
+        51064
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2578854650821326,
+      "compression_ratio": 1.7219730941704037,
+      "no_speech_prob": 0.01084885373711586,
+      "words": [
+        {
+          "word": " Not",
+          "start": 40.14,
+          "end": 40.42,
+          "probability": 0.9911596179008484
+        },
+        {
+          "word": " mold",
+          "start": 40.42,
+          "end": 40.7,
+          "probability": 0.9052631855010986
+        },
+        {
+          "word": " generally.",
+          "start": 40.7,
+          "end": 41.26,
+          "probability": 0.8304135799407959
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 2786,
+      "start": 41.9,
+      "end": 45.0,
+      "text": " A specific micro toxin from a specific building material",
+      "tokens": [
+        51064,
+        316,
+        2685,
+        4532,
+        10357,
+        259,
+        490,
+        257,
+        2685,
+        2390,
+        2527,
+        51225
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2578854650821326,
+      "compression_ratio": 1.7219730941704037,
+      "no_speech_prob": 0.01084885373711586,
+      "words": [
+        {
+          "word": " A",
+          "start": 41.9,
+          "end": 42.0,
+          "probability": 0.9933539628982544
+        },
+        {
+          "word": " specific",
+          "start": 42.0,
+          "end": 42.34,
+          "probability": 0.9960248470306396
+        },
+        {
+          "word": " micro",
+          "start": 42.34,
+          "end": 42.68,
+          "probability": 0.9276319146156311
+        },
+        {
+          "word": " toxin",
+          "start": 42.68,
+          "end": 43.32,
+          "probability": 0.995499461889267
+        },
+        {
+          "word": " from",
+          "start": 43.32,
+          "end": 43.48,
+          "probability": 0.881878137588501
+        },
+        {
+          "word": " a",
+          "start": 43.48,
+          "end": 43.62,
+          "probability": 0.994831919670105
+        },
+        {
+          "word": " specific",
+          "start": 43.62,
+          "end": 44.0,
+          "probability": 0.997313916683197
+        },
+        {
+          "word": " building",
+          "start": 44.0,
+          "end": 44.46,
+          "probability": 0.9851208925247192
+        },
+        {
+          "word": " material",
+          "start": 44.46,
+          "end": 45.0,
+          "probability": 0.9944211840629578
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 2786,
+      "start": 45.0,
+      "end": 46.92,
+      "text": " producing a specific symptom cluster.",
+      "tokens": [
+        51225,
+        10501,
+        257,
+        2685,
+        29370,
+        13630,
+        13,
+        51361
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2578854650821326,
+      "compression_ratio": 1.7219730941704037,
+      "no_speech_prob": 0.01084885373711586,
+      "words": [
+        {
+          "word": " producing",
+          "start": 45.0,
+          "end": 45.38,
+          "probability": 0.6984750628471375
+        },
+        {
+          "word": " a",
+          "start": 45.38,
+          "end": 45.64,
+          "probability": 0.9966712594032288
+        },
+        {
+          "word": " specific",
+          "start": 45.64,
+          "end": 46.06,
+          "probability": 0.9985942244529724
+        },
+        {
+          "word": " symptom",
+          "start": 46.06,
+          "end": 46.48,
+          "probability": 0.9927253723144531
+        },
+        {
+          "word": " cluster.",
+          "start": 46.48,
+          "end": 46.92,
+          "probability": 0.9922312498092651
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 2786,
+      "start": 48.02,
+      "end": 50.14,
+      "text": " Ocarotoxin from water damage drywall",
+      "tokens": [
+        51361,
+        422,
+        6166,
+        310,
+        5230,
+        259,
+        490,
+        1281,
+        4344,
+        4016,
+        16256,
+        51482
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2578854650821326,
+      "compression_ratio": 1.7219730941704037,
+      "no_speech_prob": 0.01084885373711586,
+      "words": [
+        {
+          "word": " Ocarotoxin",
+          "start": 48.02,
+          "end": 48.62,
+          "probability": 0.5495635032653808
+        },
+        {
+          "word": " from",
+          "start": 48.62,
+          "end": 48.8,
+          "probability": 0.9554129838943481
+        },
+        {
+          "word": " water",
+          "start": 48.8,
+          "end": 49.12,
+          "probability": 0.9440948963165283
+        },
+        {
+          "word": " damage",
+          "start": 49.12,
+          "end": 49.5,
+          "probability": 0.7203428745269775
+        },
+        {
+          "word": " drywall",
+          "start": 49.5,
+          "end": 50.14,
+          "probability": 0.9395933151245117
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 2786,
+      "start": 50.14,
+      "end": 53.28,
+      "text": " looks different from aflatoxin from contaminated food.",
+      "tokens": [
+        51482,
+        1542,
+        819,
+        490,
+        3238,
+        75,
+        2513,
+        87,
+        259,
+        490,
+        34492,
+        1755,
+        13,
+        51677
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2578854650821326,
+      "compression_ratio": 1.7219730941704037,
+      "no_speech_prob": 0.01084885373711586,
+      "words": [
+        {
+          "word": " looks",
+          "start": 50.14,
+          "end": 50.4,
+          "probability": 0.9827077984809875
+        },
+        {
+          "word": " different",
+          "start": 50.4,
+          "end": 50.8,
+          "probability": 0.9984678626060486
+        },
+        {
+          "word": " from",
+          "start": 50.8,
+          "end": 51.1,
+          "probability": 0.995820164680481
+        },
+        {
+          "word": " aflatoxin",
+          "start": 51.1,
+          "end": 51.96,
+          "probability": 0.6666705071926117
+        },
+        {
+          "word": " from",
+          "start": 51.96,
+          "end": 52.16,
+          "probability": 0.9911148548126221
+        },
+        {
+          "word": " contaminated",
+          "start": 52.16,
+          "end": 52.72,
+          "probability": 0.9980047345161438
+        },
+        {
+          "word": " food.",
+          "start": 52.72,
+          "end": 53.28,
+          "probability": 0.9972130656242371
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 5328,
+      "start": 54.22,
+      "end": 56.72,
+      "text": " Gliotoxin from indoor growth looks different",
+      "tokens": [
+        50409,
+        460,
+        2081,
+        310,
+        5230,
+        259,
+        490,
+        24029,
+        4599,
+        1542,
+        819,
+        50542
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28189512826864,
+      "compression_ratio": 1.6637554585152838,
+      "no_speech_prob": 0.09007714688777924,
+      "words": [
+        {
+          "word": " Gliotoxin",
+          "start": 54.22,
+          "end": 54.98,
+          "probability": 0.6360726103186607
+        },
+        {
+          "word": " from",
+          "start": 54.98,
+          "end": 55.28,
+          "probability": 0.9343116879463196
+        },
+        {
+          "word": " indoor",
+          "start": 55.28,
+          "end": 55.66,
+          "probability": 0.7695698142051697
+        },
+        {
+          "word": " growth",
+          "start": 55.66,
+          "end": 56.1,
+          "probability": 0.9965770840644836
+        },
+        {
+          "word": " looks",
+          "start": 56.1,
+          "end": 56.34,
+          "probability": 0.9686923027038574
+        },
+        {
+          "word": " different",
+          "start": 56.34,
+          "end": 56.72,
+          "probability": 0.9985463619232178
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 5328,
+      "start": 56.72,
+      "end": 58.08,
+      "text": " from tricothycines.",
+      "tokens": [
+        50542,
+        490,
+        504,
+        299,
+        18907,
+        66,
+        1652,
+        13,
+        50655
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28189512826864,
+      "compression_ratio": 1.6637554585152838,
+      "no_speech_prob": 0.09007714688777924,
+      "words": [
+        {
+          "word": " from",
+          "start": 56.72,
+          "end": 56.96,
+          "probability": 0.9946475625038147
+        },
+        {
+          "word": " tricothycines.",
+          "start": 56.96,
+          "end": 58.08,
+          "probability": 0.5164134085178376
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 5328,
+      "start": 59.12,
+      "end": 61.88,
+      "text": " Eight micro toxins, eight symptom profiles.",
+      "tokens": [
+        50655,
+        17708,
+        4532,
+        36104,
+        11,
+        3180,
+        29370,
+        23693,
+        13,
+        50849
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28189512826864,
+      "compression_ratio": 1.6637554585152838,
+      "no_speech_prob": 0.09007714688777924,
+      "words": [
+        {
+          "word": " Eight",
+          "start": 59.12,
+          "end": 59.26,
+          "probability": 0.2135218232870102
+        },
+        {
+          "word": " micro",
+          "start": 59.26,
+          "end": 59.58,
+          "probability": 0.09306639432907104
+        },
+        {
+          "word": " toxins,",
+          "start": 59.58,
+          "end": 60.12,
+          "probability": 0.45665907859802246
+        },
+        {
+          "word": " eight",
+          "start": 60.74,
+          "end": 61.0,
+          "probability": 0.9435300827026367
+        },
+        {
+          "word": " symptom",
+          "start": 61.0,
+          "end": 61.36,
+          "probability": 0.9926823973655701
+        },
+        {
+          "word": " profiles.",
+          "start": 61.36,
+          "end": 61.88,
+          "probability": 0.9891272187232971
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 5328,
+      "start": 62.8,
+      "end": 64.6,
+      "text": " Broad spectrum treatment keeps missing",
+      "tokens": [
+        50849,
+        14074,
+        11143,
+        5032,
+        5965,
+        5361,
+        50939
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28189512826864,
+      "compression_ratio": 1.6637554585152838,
+      "no_speech_prob": 0.09007714688777924,
+      "words": [
+        {
+          "word": " Broad",
+          "start": 62.8,
+          "end": 63.16,
+          "probability": 0.9582779407501221
+        },
+        {
+          "word": " spectrum",
+          "start": 63.16,
+          "end": 63.52,
+          "probability": 0.8755015134811401
+        },
+        {
+          "word": " treatment",
+          "start": 63.52,
+          "end": 63.92,
+          "probability": 0.99795001745224
+        },
+        {
+          "word": " keeps",
+          "start": 63.92,
+          "end": 64.2,
+          "probability": 0.9888936877250671
+        },
+        {
+          "word": " missing",
+          "start": 64.2,
+          "end": 64.6,
+          "probability": 0.9988271594047546
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 5328,
+      "start": 64.6,
+      "end": 66.14,
+      "text": " because the target is specific.",
+      "tokens": [
+        50939,
+        570,
+        264,
+        3779,
+        307,
+        2685,
+        13,
+        51063
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28189512826864,
+      "compression_ratio": 1.6637554585152838,
+      "no_speech_prob": 0.09007714688777924,
+      "words": [
+        {
+          "word": " because",
+          "start": 64.6,
+          "end": 65.0,
+          "probability": 0.9638404250144958
+        },
+        {
+          "word": " the",
+          "start": 65.0,
+          "end": 65.18,
+          "probability": 0.9971572160720825
+        },
+        {
+          "word": " target",
+          "start": 65.18,
+          "end": 65.48,
+          "probability": 0.9968345761299133
+        },
+        {
+          "word": " is",
+          "start": 65.48,
+          "end": 65.64,
+          "probability": 0.9992714524269104
+        },
+        {
+          "word": " specific.",
+          "start": 65.64,
+          "end": 66.14,
+          "probability": 0.9975692629814148
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 5328,
+      "start": 67.18,
+      "end": 69.5,
+      "text": " A light formulas publishes micro toxin",
+      "tokens": [
+        51063,
+        316,
+        1442,
+        30546,
+        11374,
+        279,
+        4532,
+        10357,
+        259,
+        51180
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28189512826864,
+      "compression_ratio": 1.6637554585152838,
+      "no_speech_prob": 0.09007714688777924,
+      "words": [
+        {
+          "word": " A",
+          "start": 67.18,
+          "end": 67.3,
+          "probability": 0.954649806022644
+        },
+        {
+          "word": " light",
+          "start": 67.3,
+          "end": 67.46,
+          "probability": 0.9086366295814514
+        },
+        {
+          "word": " formulas",
+          "start": 67.46,
+          "end": 67.94,
+          "probability": 0.40759673714637756
+        },
+        {
+          "word": " publishes",
+          "start": 67.94,
+          "end": 68.62,
+          "probability": 0.9911743700504303
+        },
+        {
+          "word": " micro",
+          "start": 68.62,
+          "end": 68.9,
+          "probability": 0.3343737721443176
+        },
+        {
+          "word": " toxin",
+          "start": 68.9,
+          "end": 69.5,
+          "probability": 0.6856075674295425
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 5328,
+      "start": 69.5,
+      "end": 70.88,
+      "text": " specific clinical guides.",
+      "tokens": [
+        51180,
+        2685,
+        9115,
+        17007,
+        13,
+        51273
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28189512826864,
+      "compression_ratio": 1.6637554585152838,
+      "no_speech_prob": 0.09007714688777924,
+      "words": [
+        {
+          "word": " specific",
+          "start": 69.5,
+          "end": 69.88,
+          "probability": 0.3179149031639099
+        },
+        {
+          "word": " clinical",
+          "start": 69.88,
+          "end": 70.4,
+          "probability": 0.9955050945281982
+        },
+        {
+          "word": " guides.",
+          "start": 70.4,
+          "end": 70.88,
+          "probability": 0.9915537238121033
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 5328,
+      "start": 71.36,
+      "end": 74.06,
+      "text": " Each one covers the source mold, the organ at targets,",
+      "tokens": [
+        51273,
+        6947,
+        472,
+        10538,
+        264,
+        4009,
+        11102,
+        11,
+        264,
+        1798,
+        412,
+        12911,
+        11,
+        51435
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28189512826864,
+      "compression_ratio": 1.6637554585152838,
+      "no_speech_prob": 0.09007714688777924,
+      "words": [
+        {
+          "word": " Each",
+          "start": 71.36,
+          "end": 71.64,
+          "probability": 0.9960666298866272
+        },
+        {
+          "word": " one",
+          "start": 71.64,
+          "end": 71.82,
+          "probability": 0.9967473745346069
+        },
+        {
+          "word": " covers",
+          "start": 71.82,
+          "end": 72.14,
+          "probability": 0.9972701668739319
+        },
+        {
+          "word": " the",
+          "start": 72.14,
+          "end": 72.36,
+          "probability": 0.9971020817756653
+        },
+        {
+          "word": " source",
+          "start": 72.36,
+          "end": 72.58,
+          "probability": 0.9823907613754272
+        },
+        {
+          "word": " mold,",
+          "start": 72.58,
+          "end": 72.84,
+          "probability": 0.9674031138420105
+        },
+        {
+          "word": " the",
+          "start": 73.28,
+          "end": 73.34,
+          "probability": 0.9976118803024292
+        },
+        {
+          "word": " organ",
+          "start": 73.34,
+          "end": 73.6,
+          "probability": 0.890670657157898
+        },
+        {
+          "word": " at",
+          "start": 73.6,
+          "end": 73.72,
+          "probability": 0.1557466834783554
+        },
+        {
+          "word": " targets,",
+          "start": 73.72,
+          "end": 74.06,
+          "probability": 0.9719918966293335
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 5328,
+      "start": 74.62,
+      "end": 76.42,
+      "text": " the differentiating symptom profile.",
+      "tokens": [
+        51435,
+        264,
+        27372,
+        990,
+        29370,
+        7964,
+        13,
+        51557
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28189512826864,
+      "compression_ratio": 1.6637554585152838,
+      "no_speech_prob": 0.09007714688777924,
+      "words": [
+        {
+          "word": " the",
+          "start": 74.62,
+          "end": 74.78,
+          "probability": 0.9941867589950562
+        },
+        {
+          "word": " differentiating",
+          "start": 74.78,
+          "end": 75.44,
+          "probability": 0.9966368675231934
+        },
+        {
+          "word": " symptom",
+          "start": 75.44,
+          "end": 75.82,
+          "probability": 0.9941614270210266
+        },
+        {
+          "word": " profile.",
+          "start": 75.82,
+          "end": 76.42,
+          "probability": 0.9978156089782715
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 5328,
+      "start": 77.08,
+      "end": 81.44,
+      "text": " Full pattern breakdown at tr.e slash owq7fm.",
+      "tokens": [
+        51557,
+        13841,
+        5102,
+        18188,
+        412,
+        504,
+        13,
+        68,
+        17330,
+        277,
+        86,
+        80,
+        22,
+        69,
+        76,
+        13,
+        51773
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.28189512826864,
+      "compression_ratio": 1.6637554585152838,
+      "no_speech_prob": 0.09007714688777924,
+      "words": [
+        {
+          "word": " Full",
+          "start": 77.08,
+          "end": 77.36,
+          "probability": 0.9819475412368774
+        },
+        {
+          "word": " pattern",
+          "start": 77.36,
+          "end": 77.7,
+          "probability": 0.9261648058891296
+        },
+        {
+          "word": " breakdown",
+          "start": 77.7,
+          "end": 78.2,
+          "probability": 0.9415541291236877
+        },
+        {
+          "word": " at",
+          "start": 78.2,
+          "end": 78.46,
+          "probability": 0.9265642762184143
+        },
+        {
+          "word": " tr",
+          "start": 78.46,
+          "end": 78.74,
+          "probability": 0.6311406493186951
+        },
+        {
+          "word": ".e",
+          "start": 78.74,
+          "end": 79.32,
+          "probability": 0.7547787129878998
+        },
+        {
+          "word": " slash",
+          "start": 79.32,
+          "end": 79.72,
+          "probability": 0.11881877481937408
+        },
+        {
+          "word": " owq7fm.",
+          "start": 79.72,
+          "end": 81.44,
+          "probability": 0.8565957546234131
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 8144,
+      "start": 81.44,
+      "end": 82.92,
+      "text": " Type it.",
+      "tokens": [
+        50412,
+        15576,
+        309,
+        13,
+        50454
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.8061345418294271,
+      "compression_ratio": 0.5,
+      "no_speech_prob": 0.7702512741088867,
+      "words": [
+        {
+          "word": " Type",
+          "start": 81.44,
+          "end": 82.58,
+          "probability": 0.38923516869544983
+        },
+        {
+          "word": " it.",
+          "start": 82.58,
+          "end": 82.92,
+          "probability": 0.9158895611763
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}
