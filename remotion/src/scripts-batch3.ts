@@ -3,10 +3,12 @@
 // Video 8: Alight       — Mycotoxin-specific / building-sourced symptom mapping
 // Video 9: BodyBio PC   — Mold detox sequencing (Angle 2 — different from Batch 1)
 //
-// Dead-link reality: TikTok does not hyperlink URLs under 1K followers.
-// CTA frames render `tr.ee/owQ7FM` big + center so viewers can TYPE it.
-// Voiceover speaks the URL phonetically at CTA. No https:// on screen.
-// Caption adds explicit type instruction.
+// Dead-link reality (OPERATOR-ONLY concept — NEVER cited to viewer per Decision #35):
+// Treat every @oppractitioner URL as text-only. CTA frames render `tr.ee/owQ7FM` big
+// + center so viewers can TYPE it. Voiceover speaks the URL phonetically at CTA.
+// No https:// on screen. Caption adds a type-this instruction.
+// NEVER write the reason the link isn't clickable (follower count, platform tier,
+// "not clickable," etc.) into voiceover, on-screen text, caption, or pinned comment.
 //
 // Frame numbers here are PLACEHOLDERS for composition setup only.
 // Drop audio into remotion/public/ then run
