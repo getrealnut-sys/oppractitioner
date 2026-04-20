@@ -157,7 +157,7 @@ export const RemotionRoot: React.FC = () => {
         }}
       />
 
-      {/* Video 8: Alight Formulas — Building-Specific Mycotoxin Mapping (~78 sec) */}
+      {/* Video 8: Alight Formulas — Building-Specific Mycotoxin Mapping (batch3, ~78 sec) */}
       <Composition
         id={video8AlightMycotoxins.compositionId}
         component={PhraseVideo}
@@ -172,7 +172,7 @@ export const RemotionRoot: React.FC = () => {
         }}
       />
 
-      {/* Video 9: BodyBio PC — Mold Detox Sequencing (~68 sec) */}
+      {/* Video 9: BodyBio — Mold Detox Floor (batch3) */}
       <Composition
         id={video9BodyBioMoldDetoxFloor.compositionId}
         component={PhraseVideo}
@@ -187,11 +187,9 @@ export const RemotionRoot: React.FC = () => {
         }}
       />
 
-      {/* ── BATCH 4: V4-V9 rewritten to 2026 algorithm — 3 hook variants each ── */}
-      {/* Decision #35: audio trimmed (sub-1K phrase removed). Preview pass only. */}
-      {/* V7 Pendulum = HOLD per DO_NOT_RENDER.md — scaffold only, no render.    */}
+      {/* ── BATCH 4: V4-V9 × A/B/C hook variants (2026 algorithm rewrite) ────── */}
 
-      {/* Video 4: InfiniWell BPC-157 — Gut Lining (~77-80s) */}
+      {/* Video 4 Hook A/B/C — InfiniWell BPC-157 Gut Lining */}
       <Composition
         id={video4InfiniWellGutHookA.compositionId}
         component={PhraseVideo}
@@ -199,11 +197,7 @@ export const RemotionRoot: React.FC = () => {
         fps={video4InfiniWellGutHookA.fps}
         width={1080}
         height={1920}
-        defaultProps={{
-          phrases: video4InfiniWellGutHookA.phrases,
-          voiceSrc: 'video4-hookA.mp3',
-          hasAudio: true,
-        }}
+        defaultProps={{ phrases: video4InfiniWellGutHookA.phrases, voiceSrc: 'video4-hookA.mp3', hasAudio: false }}
       />
       <Composition
         id={video4InfiniWellGutHookB.compositionId}
@@ -212,11 +206,7 @@ export const RemotionRoot: React.FC = () => {
         fps={video4InfiniWellGutHookB.fps}
         width={1080}
         height={1920}
-        defaultProps={{
-          phrases: video4InfiniWellGutHookB.phrases,
-          voiceSrc: 'video4-hookB.mp3',
-          hasAudio: true,
-        }}
+        defaultProps={{ phrases: video4InfiniWellGutHookB.phrases, voiceSrc: 'video4-hookB.mp3', hasAudio: false }}
       />
       <Composition
         id={video4InfiniWellGutHookC.compositionId}
@@ -225,14 +215,11 @@ export const RemotionRoot: React.FC = () => {
         fps={video4InfiniWellGutHookC.fps}
         width={1080}
         height={1920}
-        defaultProps={{
-          phrases: video4InfiniWellGutHookC.phrases,
-          voiceSrc: 'video4-hookC.mp3',
-          hasAudio: true,
-        }}
+        defaultProps={{ phrases: video4InfiniWellGutHookC.phrases, voiceSrc: 'video4-hookC.mp3', hasAudio: false }}
       />
 
-      {/* Video 5: InfiniWell BPC-157 — Peptide Regulatory Window (~77s) */}
+      {/* Video 5 Hook A/B/C — InfiniWell BPC-157 Peptide Regulatory Window
+          Hook A is the rescue target for 2026-04-19 Sunday publish. */}
       <Composition
         id={video5InfiniWellPeptideWindowHookA.compositionId}
         component={PhraseVideo}
@@ -240,11 +227,7 @@ export const RemotionRoot: React.FC = () => {
         fps={video5InfiniWellPeptideWindowHookA.fps}
         width={1080}
         height={1920}
-        defaultProps={{
-          phrases: video5InfiniWellPeptideWindowHookA.phrases,
-          voiceSrc: 'video5-hookA.mp3',
-          hasAudio: true,
-        }}
+        defaultProps={{ phrases: video5InfiniWellPeptideWindowHookA.phrases, voiceSrc: 'video5-hookA.mp3', hasAudio: false }}
       />
       <Composition
         id={video5InfiniWellPeptideWindowHookB.compositionId}
@@ -253,11 +236,7 @@ export const RemotionRoot: React.FC = () => {
         fps={video5InfiniWellPeptideWindowHookB.fps}
         width={1080}
         height={1920}
-        defaultProps={{
-          phrases: video5InfiniWellPeptideWindowHookB.phrases,
-          voiceSrc: 'video5-hookB.mp3',
-          hasAudio: true,
-        }}
+        defaultProps={{ phrases: video5InfiniWellPeptideWindowHookB.phrases, voiceSrc: 'video5-hookB.mp3', hasAudio: false }}
       />
       <Composition
         id={video5InfiniWellPeptideWindowHookC.compositionId}
@@ -266,14 +245,10 @@ export const RemotionRoot: React.FC = () => {
         fps={video5InfiniWellPeptideWindowHookC.fps}
         width={1080}
         height={1920}
-        defaultProps={{
-          phrases: video5InfiniWellPeptideWindowHookC.phrases,
-          voiceSrc: 'video5-hookC.mp3',
-          hasAudio: true,
-        }}
+        defaultProps={{ phrases: video5InfiniWellPeptideWindowHookC.phrases, voiceSrc: 'video5-hookC.mp3', hasAudio: false }}
       />
 
-      {/* Video 6: InfiniWell BPC-157 — Recovery Plateau (~75-77s) */}
+      {/* Video 6 Hook A/B/C — InfiniWell BPC-157 Recovery Plateau */}
       <Composition
         id={video6InfiniWellRecoveryPlateauHookA.compositionId}
         component={PhraseVideo}
@@ -281,11 +256,7 @@ export const RemotionRoot: React.FC = () => {
         fps={video6InfiniWellRecoveryPlateauHookA.fps}
         width={1080}
         height={1920}
-        defaultProps={{
-          phrases: video6InfiniWellRecoveryPlateauHookA.phrases,
-          voiceSrc: 'video6-hookA.mp3',
-          hasAudio: true,
-        }}
+        defaultProps={{ phrases: video6InfiniWellRecoveryPlateauHookA.phrases, voiceSrc: 'video6-hookA.mp3', hasAudio: false }}
       />
       <Composition
         id={video6InfiniWellRecoveryPlateauHookB.compositionId}
@@ -294,11 +265,7 @@ export const RemotionRoot: React.FC = () => {
         fps={video6InfiniWellRecoveryPlateauHookB.fps}
         width={1080}
         height={1920}
-        defaultProps={{
-          phrases: video6InfiniWellRecoveryPlateauHookB.phrases,
-          voiceSrc: 'video6-hookB.mp3',
-          hasAudio: true,
-        }}
+        defaultProps={{ phrases: video6InfiniWellRecoveryPlateauHookB.phrases, voiceSrc: 'video6-hookB.mp3', hasAudio: false }}
       />
       <Composition
         id={video6InfiniWellRecoveryPlateauHookC.compositionId}
@@ -307,16 +274,10 @@ export const RemotionRoot: React.FC = () => {
         fps={video6InfiniWellRecoveryPlateauHookC.fps}
         width={1080}
         height={1920}
-        defaultProps={{
-          phrases: video6InfiniWellRecoveryPlateauHookC.phrases,
-          voiceSrc: 'video6-hookC.mp3',
-          hasAudio: true,
-        }}
+        defaultProps={{ phrases: video6InfiniWellRecoveryPlateauHookC.phrases, voiceSrc: 'video6-hookC.mp3', hasAudio: false }}
       />
 
-      {/* Video 7: Pendulum — Akkermansia / Metabolic Stall (~80-81s) */}
-      {/* ⚠️  HOLD — DO NOT RENDER per DO_NOT_RENDER.md                */}
-      {/* Scaffold registered for timing preview only.                 */}
+      {/* Video 7 Hook A/B/C — Pendulum Akkermansia — HOLD per DO_NOT_RENDER.md */}
       <Composition
         id={video7PendulumMetabolicStallHookA.compositionId}
         component={PhraseVideo}
@@ -324,11 +285,7 @@ export const RemotionRoot: React.FC = () => {
         fps={video7PendulumMetabolicStallHookA.fps}
         width={1080}
         height={1920}
-        defaultProps={{
-          phrases: video7PendulumMetabolicStallHookA.phrases,
-          voiceSrc: 'video7-hookA.mp3',
-          hasAudio: true,
-        }}
+        defaultProps={{ phrases: video7PendulumMetabolicStallHookA.phrases, voiceSrc: 'video7-hookA.mp3', hasAudio: false }}
       />
       <Composition
         id={video7PendulumMetabolicStallHookB.compositionId}
@@ -337,11 +294,7 @@ export const RemotionRoot: React.FC = () => {
         fps={video7PendulumMetabolicStallHookB.fps}
         width={1080}
         height={1920}
-        defaultProps={{
-          phrases: video7PendulumMetabolicStallHookB.phrases,
-          voiceSrc: 'video7-hookB.mp3',
-          hasAudio: true,
-        }}
+        defaultProps={{ phrases: video7PendulumMetabolicStallHookB.phrases, voiceSrc: 'video7-hookB.mp3', hasAudio: false }}
       />
       <Composition
         id={video7PendulumMetabolicStallHookC.compositionId}
@@ -350,14 +303,10 @@ export const RemotionRoot: React.FC = () => {
         fps={video7PendulumMetabolicStallHookC.fps}
         width={1080}
         height={1920}
-        defaultProps={{
-          phrases: video7PendulumMetabolicStallHookC.phrases,
-          voiceSrc: 'video7-hookC.mp3',
-          hasAudio: true,
-        }}
+        defaultProps={{ phrases: video7PendulumMetabolicStallHookC.phrases, voiceSrc: 'video7-hookC.mp3', hasAudio: false }}
       />
 
-      {/* Video 8: Alight Formulas — Mycotoxin Mapping (~83-89s) */}
+      {/* Video 8 Hook A/B/C — Alight Formulas Mycotoxin-Specific (batch4) */}
       <Composition
         id={video8AlightMycotoxinsHookA.compositionId}
         component={PhraseVideo}
@@ -365,11 +314,7 @@ export const RemotionRoot: React.FC = () => {
         fps={video8AlightMycotoxinsHookA.fps}
         width={1080}
         height={1920}
-        defaultProps={{
-          phrases: video8AlightMycotoxinsHookA.phrases,
-          voiceSrc: 'video8-hookA.mp3',
-          hasAudio: true,
-        }}
+        defaultProps={{ phrases: video8AlightMycotoxinsHookA.phrases, voiceSrc: 'video8-hookA.mp3', hasAudio: false }}
       />
       <Composition
         id={video8AlightMycotoxinsHookB.compositionId}
@@ -378,11 +323,7 @@ export const RemotionRoot: React.FC = () => {
         fps={video8AlightMycotoxinsHookB.fps}
         width={1080}
         height={1920}
-        defaultProps={{
-          phrases: video8AlightMycotoxinsHookB.phrases,
-          voiceSrc: 'video8-hookB.mp3',
-          hasAudio: true,
-        }}
+        defaultProps={{ phrases: video8AlightMycotoxinsHookB.phrases, voiceSrc: 'video8-hookB.mp3', hasAudio: false }}
       />
       <Composition
         id={video8AlightMycotoxinsHookC.compositionId}
@@ -391,14 +332,10 @@ export const RemotionRoot: React.FC = () => {
         fps={video8AlightMycotoxinsHookC.fps}
         width={1080}
         height={1920}
-        defaultProps={{
-          phrases: video8AlightMycotoxinsHookC.phrases,
-          voiceSrc: 'video8-hookC.mp3',
-          hasAudio: true,
-        }}
+        defaultProps={{ phrases: video8AlightMycotoxinsHookC.phrases, voiceSrc: 'video8-hookC.mp3', hasAudio: false }}
       />
 
-      {/* Video 9: BodyBio PC — Mold Detox Floor Angle 2 (~75-82s) */}
+      {/* Video 9 Hook A/B/C — BodyBio Mold Detox (batch4, Angle 2) */}
       <Composition
         id={video9BodyBioMoldDetoxHookA.compositionId}
         component={PhraseVideo}
@@ -406,11 +343,7 @@ export const RemotionRoot: React.FC = () => {
         fps={video9BodyBioMoldDetoxHookA.fps}
         width={1080}
         height={1920}
-        defaultProps={{
-          phrases: video9BodyBioMoldDetoxHookA.phrases,
-          voiceSrc: 'video9-hookA.mp3',
-          hasAudio: true,
-        }}
+        defaultProps={{ phrases: video9BodyBioMoldDetoxHookA.phrases, voiceSrc: 'video9-hookA.mp3', hasAudio: false }}
       />
       <Composition
         id={video9BodyBioMoldDetoxHookB.compositionId}
@@ -419,11 +352,7 @@ export const RemotionRoot: React.FC = () => {
         fps={video9BodyBioMoldDetoxHookB.fps}
         width={1080}
         height={1920}
-        defaultProps={{
-          phrases: video9BodyBioMoldDetoxHookB.phrases,
-          voiceSrc: 'video9-hookB.mp3',
-          hasAudio: true,
-        }}
+        defaultProps={{ phrases: video9BodyBioMoldDetoxHookB.phrases, voiceSrc: 'video9-hookB.mp3', hasAudio: false }}
       />
       <Composition
         id={video9BodyBioMoldDetoxHookC.compositionId}
@@ -432,11 +361,7 @@ export const RemotionRoot: React.FC = () => {
         fps={video9BodyBioMoldDetoxHookC.fps}
         width={1080}
         height={1920}
-        defaultProps={{
-          phrases: video9BodyBioMoldDetoxHookC.phrases,
-          voiceSrc: 'video9-hookC.mp3',
-          hasAudio: true,
-        }}
+        defaultProps={{ phrases: video9BodyBioMoldDetoxHookC.phrases, voiceSrc: 'video9-hookC.mp3', hasAudio: false }}
       />
     </>
   );

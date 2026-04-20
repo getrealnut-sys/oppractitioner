@@ -387,23 +387,26 @@ export const video4InfiniWellGutHookC: ScriptData = {
 // Value page: oppractitioner-site/infiniwell.html#observation-2-tendon-fascia
 // ─────────────────────────────────────────────────────────────────────────────
 
+// V5-A RESCUE 2026-04-18: word-level forced alignment from transcripts/batch4/video5-hookA.json
+// Audio: 77.14s = 2314 frames. Every startFrame below anchored to Whisper word.start time × 30.
+// Reviewed anchor list in SHG_BRAND_DECISIONS_LOG.md Decision #36.
 export const video5InfiniWellPeptideWindowHookA: ScriptData = {
   compositionId: 'Video5-InfiniWellPeptideWindow-HookA',
   title: 'InfiniWell BPC-157 — Peptide Regulatory Window (Hook A: Pattern Observation)',
-  totalFrames: 2370,
+  totalFrames: 2314,
   fps: 30,
   phrases: [
     {
       type: 'hook',
       segments: [{ text: 'One peptide I\'ve been\nwatching practitioners reach for\nlong before it was news.' }],
       tag: 'PATTERN OBSERVED',
-      startFrame: 0,
+      startFrame: 0, // "One" @ 0.00s
     },
     {
       type: 'phrase',
       segments: [{ text: 'HHS flagged peptides\nas a research priority this year.\nIn clinical practice,\nthis space has been active\nfor a decade.' }],
       tag: 'CONTEXT',
-      startFrame: 132,
+      startFrame: 132, // "HHS" @ 4.40s
     },
     {
       type: 'phrase',
@@ -413,7 +416,7 @@ export const video5InfiniWellPeptideWindowHookA: ScriptData = {
         { text: '\nin the cases that don\'t fit\nthe standard protocol.' },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 358,
+      startFrame: 358, // "One compound" @ 11.92s
     },
     {
       type: 'phrase',
@@ -423,20 +426,20 @@ export const video5InfiniWellPeptideWindowHookA: ScriptData = {
         { text: '\nPentadecapeptide — fifteen amino acids —\nderived from a protective sequence\nin gastric juice.' },
       ],
       tag: 'WHAT IT IS',
-      startFrame: 434,
+      startFrame: 618, // "The compound is" @ 20.60s
     },
     {
       type: 'phrase',
       segments: [{ text: 'Three clinical surfaces\nthe research keeps returning to:\ngut mucosal support,\nsoft-tissue repair,\nrecovery signaling.' }],
       tag: 'CLINICAL SURFACES',
-      startFrame: 1007,
+      startFrame: 1007, // "three clinical surfaces" @ 33.56s (VO prefix "what the research keeps returning to is the same" lives under prior tile)
     },
     {
       type: 'product',
       segments: [{ text: 'InfiniWell\nBPC-157' }],
       qualifier: 'Two release profiles.\nDelayed release for gut-lining cases.\nRapid release for soft-tissue.\nSame compound. Different targets.',
       tag: 'WHAT I REACH FOR',
-      startFrame: 1322,
+      startFrame: 1280, // "In practice I reach for InfiniWell" @ 42.66s
     },
     {
       type: 'phrase',
@@ -446,7 +449,7 @@ export const video5InfiniWellPeptideWindowHookA: ScriptData = {
         { text: '\nThe body recognizes it\nbefore the research catches up.' },
       ],
       tag: 'SECOND-PASS REWARD',
-      startFrame: 1736,
+      startFrame: 1736, // "15 amino acids" (second occurrence) @ 57.88s
     },
     {
       type: 'result',
@@ -455,12 +458,12 @@ export const video5InfiniWellPeptideWindowHookA: ScriptData = {
         { text: 'A variable worth testing\nwhen a case has plateaued.', green: true },
       ],
       tag: 'PATTERN OBSERVED',
-      startFrame: 1970,
+      startFrame: 1970, // "Not a fix" @ 65.66s
     },
     {
       type: 'cta',
       segments: [{ text: 'tr.ee/\nowQ7FM' }],
-      startFrame: 2370,
+      startFrame: 2139, // "Full pattern breakdown at tr.ee/owQ7FM" @ 71.30s — lands WITH voiceover, holds through audio end
       clearPrevious: true,
     },
   ],
