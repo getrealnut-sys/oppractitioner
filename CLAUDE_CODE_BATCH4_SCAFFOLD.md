@@ -180,7 +180,7 @@ Produce in the chat:
 ### Brand Operator Gate (run before starting)
 Full gate at `../oppractitioner-cowork/CLAUDE.md`. Key items:
 - DOCTRINE §5: **NO Voice Guardian invocation.** Voice 4 is not VG-gated.
-- DOCTRINE §6: Scripts, composition titles, on-screen text, filenames must contain ZERO references to Maria Castro / Get R.E.A.L. / @getrealnutrition / CLEARED / SHG / TROPOS / Linktree.
+- DOCTRINE §6: Scripts, composition titles, on-screen text, filenames must contain ZERO references to Maria Castro / Get R.E.A.L. / @getrealnutrition / CLEARED / SHG / TROPOS / Case Signal / Linktree.
 - DOCTRINE §1.4: Owned-vocabulary strip — no R.E.A.L., CLEARED, Human Authority Filter, Zone Model, 4 Ds, 3 Es in phrase text.
 - Two-layer URL: on-screen URL = `tr.ee/owQ7FM` only. `getrealnut-sys.github.io/...` is internal infrastructure, never rendered on-screen.
 - Affiliate-code exception (GETREAL247, /getreal): allowed on value pages ONLY — NEVER in phrase text, voiceover, or on-screen video text.
