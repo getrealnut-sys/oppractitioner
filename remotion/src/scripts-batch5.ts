@@ -4,13 +4,30 @@
 import { PhraseSpec } from './types';
 
 export const batch5Videos: Record<string, { totalFrames: number; phrases: PhraseSpec[] }> = {
-  // entries inserted by render step
-  v13: {
-    totalFrames: 3280,
+  v12: {
+    totalFrames: 1734,
     phrases: [
-      { startFrame: 2891, durationFrames: 193, text: "People spend thousands getting. Tile. Body one. Anchor. A" },
-      { startFrame: 3085, durationFrames: 148, text: "malgum fillings are roughly. Tile. CTA. Anchor." },
-      { startFrame: 3232, durationFrames: 34, text: "Link in bio." }
+      { startFrame: 0, durationFrames: 48, text: "Stomach acid gets a bad reputation." },
+      { startFrame: 63, durationFrames: 166, text: "But here's what actually happens with low acid: food sits in the stomach too long, ferments, and generates pressure." },
+      { startFrame: 252, durationFrames: 147, text: "That pressure forces whatever acid exists upward. The symptom is reflux." },
+      { startFrame: 409, durationFrames: 119, text: "The instinct is to suppress acid further. Wrong direction." },
+      { startFrame: 566, durationFrames: 113, text: "When acid is already insufficient, suppression deepens the dysfunction." },
+      { startFrame: 709, durationFrames: 127, text: "The LES — the valve — needs an acid signal to close properly." },
+      { startFrame: 853, durationFrames: 200, text: "No signal, valve stays loose. More reflux. It's a loop that PPIs sustain, not solve." },
+      { startFrame: 1091, durationFrames: 237, text: "The pattern I observe: clients on long-term PPI therapy often have worse motility, more bloating, and incomplete protein digestion." },
+      { startFrame: 1361, durationFrames: 118, text: "Because acid isn't the enemy. It's the signal the whole system runs on." },
+      { startFrame: 1508, durationFrames: 201, text: "Weaning requires rebuilding acid capacity slowly, not suppressing it permanently. That sequence matters." },
+      { startFrame: 1709, durationFrames: 30, text: "Link in bio" }
+    ]
+  },
+  v13: {
+    totalFrames: 1800,
+    phrases: [
+      { startFrame: 0, durationFrames: 379, text: "Mercury vapor releases continuously from amalgam fillings, chewing, heat, grinding, the each one spikes exposure. So the instinct is remove them immediately. That instinct is wrong." },
+      { startFrame: 403, durationFrames: 856, text: "Here's the mechanism. Amalgam removal is a high exposure event. During the procedure, mercury vapor concentration spike sharply, even with protective protocols. If your detox pathways, liver phase to bile flow, lymphatic drainage, aren't functional before that event, the mobilized mercury has nowhere to go. It redistributes. Tissues absorb it faster than the body can clear it. Symptoms worsen, not improve." },
+      { startFrame: 1301, durationFrames: 332, text: "The pattern I keep seeing, people who removed amalgams first report feeling worse for months. The ones who opened drainage pathways supported kidney and liver function and then removed, those cases moved differently." },
+      { startFrame: 1652, durationFrames: 78, text: "Removal isn't the question. Readiness is." },
+      { startFrame: 1757, durationFrames: 30, text: "Link in bio." }
     ]
   },
   v14: {
@@ -21,22 +38,4 @@ export const batch5Videos: Record<string, { totalFrames: number; phrases: Phrase
       { startFrame: 3469, durationFrames: 30, text: "link in bio." }
     ]
   },
-  v11: {
-    totalFrames: 2977,
-    phrases: [
-      { startFrame: 2635, durationFrames: 195, text: "Everyone talks about 16 .8. Tile. Body one. Anchor." },
-      { startFrame: 2844, durationFrames: 89, text: "Here's what the research. Tell us CTA. Anchor." },
-      { startFrame: 2942, durationFrames: 30, text: "Link in bio." }
-    ]
-  },
-
-  v12: {
-    totalFrames: 3031,
-    phrases: [
-      { startFrame: 2683, durationFrames: 148, text: "The standard move for. Tile. Body R1. Anchor." },
-      { startFrame: 2850, durationFrames: 138, text: "Stomach acid gets A. Tasez. CTA. Anchor." },
-      { startFrame: 2996, durationFrames: 30, text: "Link in bio." }
-    ]
-  },
-
 };

@@ -378,7 +378,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition
         id="v10"
         component={PhraseVideo}
-        durationInFrames={batch5Videos['v10']?.totalFrames ?? 1800}
+        durationInFrames={1690}
         fps={30}
         width={1080}
         height={1920}
@@ -393,7 +393,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition
         id="v11"
         component={PhraseVideo}
-        durationInFrames={2977}
+        durationInFrames={1666}
         fps={30}
         width={1080}
         height={1920}
@@ -408,7 +408,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition
         id="v12"
         component={PhraseVideo}
-        durationInFrames={3031}
+        durationInFrames={1734}
         fps={30}
         width={1080}
         height={1920}
@@ -423,7 +423,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition
         id="v13"
         component={PhraseVideo}
-        durationInFrames={batch5Videos['v13']?.totalFrames ?? 1800}
+        durationInFrames={1800}
         fps={30}
         width={1080}
         height={1920}
@@ -435,4 +435,19 @@ export const RemotionRoot: React.FC = () => {
       />
 
       {/* V14: automated pilot — topic written by pipeline */}
-      <Compo
+      <Composition
+        id="v14"
+        component={PhraseVideo}
+        durationInFrames={batch5Videos['v14']?.totalFrames ?? 1800}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          phrases: (batch5Videos['v14']?.phrases ?? []) as any,
+          voiceSrc: 'v14.mp3',
+          hasAudio: false,
+        }}
+      />
+    </>
+  );
+};
