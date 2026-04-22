@@ -13,13 +13,29 @@ export const batch5Videos: Record<string, { totalFrames: number; phrases: Phrase
       { startFrame: 3232, durationFrames: 34, text: "Link in bio." }
     ]
   },
-
   v14: {
-    totalFrames: 3391,
+    totalFrames: 3509,
     phrases: [
-      { startFrame: 3011, durationFrames: 179, text: "gets classified alongside tobacco. Tile. Body honor one. Anchor." },
-      { startFrame: 3205, durationFrames: 140, text: "The IRC puts AFLA talks in. Tile CTA. Anchor." },
-      { startFrame: 3350, durationFrames: 30, text: "Link in bio." }
+      { startFrame: 3002, durationFrames: 314, text: "The IAR classifies AF -LA Tox in tile, body I -1. Anchor" },
+      { startFrame: 3317, durationFrames: 146, text: "is produced by Aspergillus, tile, CTA, anchor," },
+      { startFrame: 3469, durationFrames: 30, text: "link in bio." }
+    ]
+  },
+  v11: {
+    totalFrames: 2977,
+    phrases: [
+      { startFrame: 2635, durationFrames: 195, text: "Everyone talks about 16 .8. Tile. Body one. Anchor." },
+      { startFrame: 2844, durationFrames: 89, text: "Here's what the research. Tell us CTA. Anchor." },
+      { startFrame: 2942, durationFrames: 30, text: "Link in bio." }
+    ]
+  },
+
+  v12: {
+    totalFrames: 3031,
+    phrases: [
+      { startFrame: 2683, durationFrames: 148, text: "The standard move for. Tile. Body R1. Anchor." },
+      { startFrame: 2850, durationFrames: 138, text: "Stomach acid gets A. Tasez. CTA. Anchor." },
+      { startFrame: 2996, durationFrames: 30, text: "Link in bio." }
     ]
   },
 

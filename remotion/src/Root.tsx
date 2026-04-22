@@ -385,7 +385,7 @@ export const RemotionRoot: React.FC = () => {
         defaultProps={{
           phrases: (batch5Videos['v10']?.phrases ?? []) as any,
           voiceSrc: 'v10.mp3',
-          hasAudio: true,
+          hasAudio: false,
         }}
       />
 
@@ -393,14 +393,14 @@ export const RemotionRoot: React.FC = () => {
       <Composition
         id="v11"
         component={PhraseVideo}
-        durationInFrames={batch5Videos['v11']?.totalFrames ?? 1800}
+        durationInFrames={2977}
         fps={30}
         width={1080}
         height={1920}
         defaultProps={{
           phrases: (batch5Videos['v11']?.phrases ?? []) as any,
           voiceSrc: 'v11.mp3',
-          hasAudio: true,
+          hasAudio: false,
         }}
       />
 
@@ -408,14 +408,14 @@ export const RemotionRoot: React.FC = () => {
       <Composition
         id="v12"
         component={PhraseVideo}
-        durationInFrames={batch5Videos['v12']?.totalFrames ?? 1800}
+        durationInFrames={3031}
         fps={30}
         width={1080}
         height={1920}
         defaultProps={{
           phrases: (batch5Videos['v12']?.phrases ?? []) as any,
           voiceSrc: 'v12.mp3',
-          hasAudio: true,
+          hasAudio: false,
         }}
       />
 
@@ -430,24 +430,9 @@ export const RemotionRoot: React.FC = () => {
         defaultProps={{
           phrases: (batch5Videos['v13']?.phrases ?? []) as any,
           voiceSrc: 'v13.mp3',
-          hasAudio: true,
+          hasAudio: false,
         }}
       />
 
       {/* V14: automated pilot — topic written by pipeline */}
-      <Composition
-        id="v14"
-        component={PhraseVideo}
-        durationInFrames={batch5Videos['v14']?.totalFrames ?? 1800}
-        fps={30}
-        width={1080}
-        height={1920}
-        defaultProps={{
-          phrases: (batch5Videos['v14']?.phrases ?? []) as any,
-          voiceSrc: 'v14.mp3',
-          hasAudio: true,
-        }}
-      />
-    </>
-  );
-};
+      <Compo
