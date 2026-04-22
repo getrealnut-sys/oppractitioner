@@ -118,6 +118,35 @@ export interface PhraseEntry {
   chart?: ChartSpec;
 }
 
+/**
+ * PhraseSpec — the minimal shape written by the automation pipeline (04_align_tiles.py).
+ * Intentionally simpler than PhraseEntry: no segments, no type, no chart.
+ * Root.tsx converts PhraseSpec → PhraseEntry via phraseSpecToEntry() before rendering.
+ */
+export interface PhraseSpec {
+  startFrame: number;
+  durationFrames: number;
+  text: string;
+  /** If true, a chart overlay was requested for this tile (not yet wired to ChartSpec). */
+  chartCue?: boolean;
+}
+
+/**
+ * Convert an automation-generated PhraseSpec into a full PhraseEntry the
+ * PhraseVideo component can render.  Text becomes a single segment with no
+ * green highlight.  Type defaults to 'phrase' except for the last entry which
+ * is treated as 'cta' when its text is "Link in bio." (case-insensitive).
+ */
+export function phraseSpecToEntry(spec: PhraseSpec, isLast: boolean): PhraseEntry {
+  const isCTA = isLast && /link in bio/i.test(spec.text);
+  return {
+    type: isCTA ? 'cta' : 'phrase',
+    segments: [{ text: spec.text }],
+    startFrame: spec.startFrame,
+    clearPrevious: isCTA,
+  };
+}
+
 export interface ScriptData {
   /** Remotion composition ID — must match Root.tsx registration */
   compositionId: string;

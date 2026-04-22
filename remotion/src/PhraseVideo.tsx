@@ -399,12 +399,29 @@ interface PhraseVideoProps {
 }
 
 export const PhraseVideo: React.FC<PhraseVideoProps> = ({
-  phrases,
+  phrases: rawPhrases,
   hasAudio = false,
   voiceSrc,
 }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
+
+  // Normalize: the automation pipeline writes PhraseSpec ({startFrame, durationFrames, text})
+  // while PhraseEntry requires {segments, type, startFrame}. Coerce at the boundary so the
+  // component never crashes when batch5 data flows in before a full re-bundle.
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const phrases: PhraseEntry[] = (rawPhrases ?? []).map((p: any, i: number, arr: any[]) => {
+    if (p.segments !== undefined) return p as PhraseEntry; // already a PhraseEntry
+    const text: string = p.text ?? '';
+    const isLast = i === arr.length - 1;
+    const isCTA = isLast && /link in bio/i.test(text);
+    return {
+      type: isCTA ? 'cta' : 'phrase',
+      segments: [{ text }],
+      startFrame: p.startFrame ?? 0,
+      clearPrevious: isCTA,
+    } as PhraseEntry;
+  });
 
   // ─── Find current and previous phrase ───────────────────────────────────────
   let currentIdx = -1;
