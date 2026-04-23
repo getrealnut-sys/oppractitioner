@@ -116,6 +116,35 @@ export interface PhraseEntry {
    * lands harder than text alone.
    */
   chart?: ChartSpec;
+
+  /**
+   * Step 1 MVP: scene-progression backdrop layer. Renders full-bleed behind the
+   * safe-zone phrase content. Three kinds: 'flat' (current behaviour, bg only),
+   * 'editorial' (hook framing), 'diagram' (body framing). Not the final visual
+   * system — explicitly MVP to prove the V10+ path is no longer single-plane.
+   */
+  backdrop?: Backdrop;
+  /**
+   * Visual mechanics (from automation pipeline tile reveal_mechanic field):
+   *   'hard_open' — suppress entry animation; tile appears at full opacity/position on frame 0
+   *   'long_hold' — tile duration extended ~1.5x; handled in 04_align_tiles.py durationFrames
+   */
+  revealMechanic?: 'hard_open' | 'long_hold';
+}
+
+// ─── Scene Progression (Step 1 MVP) ──────────────────────────────────────────
+// Minimum viable backdrop layer behind phrase text. Three kinds only, fixed
+// role-based assignment for this pass (HOOK=editorial, BODY=diagram, CTA=flat).
+// Not the final visual system — explicitly MVP.
+
+export type BackdropKind = 'flat' | 'editorial' | 'diagram';
+
+export interface Backdrop {
+  kind: BackdropKind;
+  /** Optional header shown inside the backdrop frame (diagram kind uses this). */
+  title?: string;
+  /** Optional label strings for diagram kind. 2–4 items recommended. */
+  labels?: string[];
 }
 
 /**
@@ -129,6 +158,14 @@ export interface PhraseSpec {
   text: string;
   /** If true, a chart overlay was requested for this tile (not yet wired to ChartSpec). */
   chartCue?: boolean;
+  /** Step 1 MVP: backdrop kind for scene progression layer behind phrase text. */
+  backdrop?: Backdrop;
+  /**
+   * Visual mechanics field (written by 06_render.py from tile reveal_mechanic):
+   *   'hard_open' — HOOK tile: suppress entry animation, drop in immediately
+   *   'long_hold' — REVEAL tile: extend dwell duration ~1.5x for the money frame
+   */
+  revealMechanic?: 'hard_open' | 'long_hold';
 }
 
 /**
@@ -144,6 +181,7 @@ export function phraseSpecToEntry(spec: PhraseSpec, isLast: boolean): PhraseEntr
     segments: [{ text: spec.text }],
     startFrame: spec.startFrame,
     clearPrevious: isCTA,
+    backdrop: spec.backdrop,
   };
 }
 

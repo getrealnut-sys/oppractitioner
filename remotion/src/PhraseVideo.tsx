@@ -18,8 +18,9 @@ import {
   Audio,
   staticFile,
 } from 'remotion';
-import { BRAND, FONTS, SAFE, SIZES } from './brand';
+import { BRAND, FONTS, SAFE, SIZES } from './shared/brand';
 import { PhraseEntry, TextSegment, ChartSpec } from './types';
+import { Backdrop } from './SceneBackdrops';
 
 // ─── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -420,6 +421,10 @@ export const PhraseVideo: React.FC<PhraseVideoProps> = ({
       segments: [{ text }],
       startFrame: p.startFrame ?? 0,
       clearPrevious: isCTA,
+      // Step 1 MVP: carry backdrop from PhraseSpec through to PhraseEntry.
+      backdrop: p.backdrop,
+      // Visual mechanics: passed through for render-layer consumption.
+      revealMechanic: p.revealMechanic,
     } as PhraseEntry;
   });
 
@@ -443,12 +448,17 @@ export const PhraseVideo: React.FC<PhraseVideoProps> = ({
   // ─── Animation springs ──────────────────────────────────────────────────────
   const framesElapsed = frame - current.startFrame;
 
-  // Active phrase: spring entry
-  const entryProgress = spring({
-    frame: framesElapsed,
-    fps,
-    config: { damping: 200, stiffness: 200 },
-  });
+  // Active phrase: spring entry.
+  // hard_open (HOOK tile): drop in immediately with no animation — frame 0 = fully visible.
+  // This is the first-frame drop-in mechanic from the visual mechanics brief.
+  const isHardOpen = (current as any).revealMechanic === 'hard_open';
+  const entryProgress = isHardOpen
+    ? 1
+    : spring({
+        frame: framesElapsed,
+        fps,
+        config: { damping: 200, stiffness: 200 },
+      });
 
   const activeY = interpolate(entryProgress, [0, 1], [30, 0]);
   const activeOpacity = entryProgress;
@@ -475,6 +485,11 @@ export const PhraseVideo: React.FC<PhraseVideoProps> = ({
   // ─── Render ─────────────────────────────────────────────────────────────────
   return (
     <AbsoluteFill style={{ background: BRAND.bg, fontFamily: FONTS.display }}>
+      {/* Step 1 MVP: scene-progression backdrop layer.
+          Renders full-bleed behind all safe-zone content. Absent/unknown kind
+          falls back to FlatBackdrop (same as pre-MVP flat bg). */}
+      <Backdrop backdrop={current.backdrop} />
+
       {/* Voiceover — full script read, synced to phrase timing */}
       {voiceSrc && (
         <Audio src={staticFile(voiceSrc)} volume={1.0} />
@@ -518,12 +533,15 @@ export const PhraseVideo: React.FC<PhraseVideoProps> = ({
       </div>
 
       {/* ─── Main content area (safe zone) ─── */}
+      {/* A-lite: editorial backdrop places a vertical rule + numeral at the
+          left margin. Shift content right so hook type clears the anchor. */}
       <div
         style={{
           position: 'absolute',
           top: SAFE.top,
           bottom: SAFE.bottom,
-          left: SAFE.side,
+          left:
+            current.backdrop?.kind === 'editorial' ? 220 : SAFE.side,
           right: SAFE.side,
           display: 'flex',
           flexDirection: 'column',

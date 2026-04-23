@@ -48,6 +48,9 @@ import {
   video9BodyBioMoldDetoxHookC,
 } from './scripts-batch4';
 import { batch5Videos } from './scripts-batch5';
+// ─── Premium engine (sibling render path, baseline frozen) ────────────────
+import { PremiumVideo, PremiumVideoLegacy } from './premium/PremiumVideo';
+import { premiumVideos, premiumHookVideos } from './premium/scripts-premium';
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -408,7 +411,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition
         id="v12"
         component={PhraseVideo}
-        durationInFrames={1734}
+        durationInFrames={1723}
         fps={30}
         width={1080}
         height={1920}
@@ -446,6 +449,34 @@ export const RemotionRoot: React.FC = () => {
           phrases: (batch5Videos['v14']?.phrases ?? []) as any,
           voiceSrc: 'v14.mp3',
           hasAudio: false,
+        }}
+      />
+
+      {/* ─── Premium engine — scaffold composition (legacy shape) ───────── */}
+      {/* Kept so the scaffold path still renders. Reads PremiumVideoSpec. */}
+      <Composition
+        id="premium-test-01"
+        component={PremiumVideoLegacy}
+        durationInFrames={premiumVideos['premium-test-01']?.totalFrames ?? 90}
+        fps={30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          video: premiumVideos['premium-test-01'] as any,
+        }}
+      />
+
+      {/* ─── Premium engine — V12 hook (end-to-end, new schema) ─────────── */}
+      {/* Reads the authored HookScene schema. Validated on render. */}
+      <Composition
+        id="v12-premium"
+        component={PremiumVideo}
+        durationInFrames={premiumHookVideos['v12-premium']?.total_frames ?? 150}
+        fps={premiumHookVideos['v12-premium']?.fps ?? 30}
+        width={1080}
+        height={1920}
+        defaultProps={{
+          video: premiumHookVideos['v12-premium'] as any,
         }}
       />
     </>

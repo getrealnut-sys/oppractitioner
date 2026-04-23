@@ -5,19 +5,19 @@ import { PhraseSpec } from './types';
 
 export const batch5Videos: Record<string, { totalFrames: number; phrases: PhraseSpec[] }> = {
   v12: {
-    totalFrames: 1734,
+    totalFrames: 1723,
     phrases: [
-      { startFrame: 0, durationFrames: 48, text: "Stomach acid gets a bad reputation." },
-      { startFrame: 63, durationFrames: 166, text: "But here's what actually happens with low acid: food sits in the stomach too long, ferments, and generates pressure." },
-      { startFrame: 252, durationFrames: 147, text: "That pressure forces whatever acid exists upward. The symptom is reflux." },
-      { startFrame: 409, durationFrames: 119, text: "The instinct is to suppress acid further. Wrong direction." },
-      { startFrame: 566, durationFrames: 113, text: "When acid is already insufficient, suppression deepens the dysfunction." },
-      { startFrame: 709, durationFrames: 127, text: "The LES — the valve — needs an acid signal to close properly." },
-      { startFrame: 853, durationFrames: 200, text: "No signal, valve stays loose. More reflux. It's a loop that PPIs sustain, not solve." },
-      { startFrame: 1091, durationFrames: 237, text: "The pattern I observe: clients on long-term PPI therapy often have worse motility, more bloating, and incomplete protein digestion." },
-      { startFrame: 1361, durationFrames: 118, text: "Because acid isn't the enemy. It's the signal the whole system runs on." },
-      { startFrame: 1508, durationFrames: 201, text: "Weaning requires rebuilding acid capacity slowly, not suppressing it permanently. That sequence matters." },
-      { startFrame: 1709, durationFrames: 30, text: "Link in bio" }
+      { startFrame: 0, durationFrames: 58, text: "Stomach acid gets a bad reputation.", backdrop: { kind: "editorial" } },
+      { startFrame: 82, durationFrames: 177, text: "But here's what actually happens with low acid: food sits in the stomach too long, ferments, and generates pressure.", backdrop: { kind: "diagram" } },
+      { startFrame: 276, durationFrames: 146, text: "That pressure forces whatever acid exists upward. The symptom is reflux.", backdrop: { kind: "diagram" } },
+      { startFrame: 449, durationFrames: 113, text: "The instinct is to suppress acid further. Wrong direction.", backdrop: { kind: "diagram" } },
+      { startFrame: 601, durationFrames: 110, text: "When acid is already insufficient, suppression deepens the dysfunction.", backdrop: { kind: "diagram" } },
+      { startFrame: 733, durationFrames: 134, text: "The LES — the valve — needs an acid signal to close properly.", backdrop: { kind: "diagram" } },
+      { startFrame: 866, durationFrames: 204, text: "No signal, valve stays loose. More reflux. It's a loop that PPIs sustain, not solve.", backdrop: { kind: "diagram" } },
+      { startFrame: 1108, durationFrames: 226, text: "The pattern I observe: clients on long-term PPI therapy often have worse motility, more bloating, and incomplete protein digestion.", backdrop: { kind: "diagram" } },
+      { startFrame: 1355, durationFrames: 122, text: "Because acid isn't the enemy. It's the signal the whole system runs on.", backdrop: { kind: "diagram" } },
+      { startFrame: 1503, durationFrames: 194, text: "Weaning requires rebuilding acid capacity slowly, not suppressing it permanently. That sequence matters.", backdrop: { kind: "diagram" } },
+      { startFrame: 1697, durationFrames: 30, text: "Link in bio", backdrop: { kind: "flat" } }
     ]
   },
   v13: {
@@ -38,4 +38,5 @@ export const batch5Videos: Record<string, { totalFrames: number; phrases: Phrase
       { startFrame: 3469, durationFrames: 30, text: "link in bio." }
     ]
   },
+
 };
