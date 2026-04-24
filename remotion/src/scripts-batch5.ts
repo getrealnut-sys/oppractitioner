@@ -21,22 +21,21 @@ export const batch5Videos: Record<string, { totalFrames: number; phrases: Phrase
     ]
   },
   v13: {
-    totalFrames: 1800,
+    totalFrames: 1719,
     phrases: [
-      { startFrame: 0, durationFrames: 379, text: "Mercury vapor releases continuously from amalgam fillings, chewing, heat, grinding, the each one spikes exposure. So the instinct is remove them immediately. That instinct is wrong." },
-      { startFrame: 403, durationFrames: 856, text: "Here's the mechanism. Amalgam removal is a high exposure event. During the procedure, mercury vapor concentration spike sharply, even with protective protocols. If your detox pathways, liver phase to bile flow, lymphatic drainage, aren't functional before that event, the mobilized mercury has nowhere to go. It redistributes. Tissues absorb it faster than the body can clear it. Symptoms worsen, not improve." },
-      { startFrame: 1301, durationFrames: 332, text: "The pattern I keep seeing, people who removed amalgams first report feeling worse for months. The ones who opened drainage pathways supported kidney and liver function and then removed, those cases moved differently." },
-      { startFrame: 1652, durationFrames: 78, text: "Removal isn't the question. Readiness is." },
-      { startFrame: 1757, durationFrames: 30, text: "Link in bio." }
+      { startFrame: 0, durationFrames: 358, text: "Mercury vapor releases continuously from amalgam fillings, chewing, heat, grinding, and they each one spikes exposure. So the instinct is remove them immediately. That instinct is wrong." },
+      { startFrame: 383, durationFrames: 816, text: "Here's the mechanism. Amalgam removal is a high exposure event. During the procedure, mercury vapor concentrations spike sharply, even with protective protocols. If your detox pathways, liver phase two, bile flow, lymphatic drainage, aren't functional before that event, the mobilized mercury has nowhere to go. It redistributes. Tissues absorb it faster than the body can clear it. Symptoms worsen, not improve." },
+      { startFrame: 1250, durationFrames: 341, text: "The pattern I keep seeing, people who removed amalgams first report feeling worse for months, the ones who opened drainage pathways supported kidney and liver function and then removed. Those cases move differently." },
+      { startFrame: 1610, durationFrames: 85, text: "Removal isn't the question. Readiness is Lincoln" },
+      { startFrame: 1694, durationFrames: 30, text: "Link in bio" }
     ]
   },
   v14: {
-    totalFrames: 3509,
+    totalFrames: 1708,
     phrases: [
-      { startFrame: 3002, durationFrames: 314, text: "The IAR classifies AF -LA Tox in tile, body I -1. Anchor" },
-      { startFrame: 3317, durationFrames: 146, text: "is produced by Aspergillus, tile, CTA, anchor," },
-      { startFrame: 3469, durationFrames: 30, text: "link in bio." }
+      { startFrame: 11, durationFrames: 433, text: "Tox is produced by Aspergillus mold, IARC Group 1 carcinogen. Same classification as tobacco, not a fringe concern. One of the most researched mycotoxins in existence," },
+      { startFrame: 460, durationFrames: 1222, text: "here's what makes it different from the mold conversation most people are having. This isn't about water damage buildings, it's about food, corn, peanuts, tree nuts, dried spices, grains, stored improperly, Aspergillus moves in. The toxin is colorless, odorless, heat stable. Cooking doesn't eliminate it, the primary target is the liver, the organ processing everything you're trying to use to recover. When liver burden is high and detox keeps stalling, afela Tox in exposure is almost never on the checklist, not because it's rare, because nobody thinks to look at the pantry. That's the" },
+      { startFrame: 1682, durationFrames: 30, text: "Link in bio" }
     ]
   },
-
 };

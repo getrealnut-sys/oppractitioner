@@ -48,9 +48,11 @@ import {
   video9BodyBioMoldDetoxHookC,
 } from './scripts-batch4';
 import { batch5Videos } from './scripts-batch5';
-// ─── Premium engine (sibling render path, baseline frozen) ────────────────
-import { PremiumVideo, PremiumVideoLegacy } from './premium/PremiumVideo';
-import { premiumVideos, premiumHookVideos } from './premium/scripts-premium';
+// ─── Premium (sibling render path, baseline frozen) ────────────────────────
+// First proof: one hook, four mechanics hardcoded inline. No scaffold, no
+// policy engine. Prior exam-surface scaffold archived to
+// archive/premium-examsurface-2026-04-23/ on 2026-04-23.
+import { PremiumVideo } from './premium/PremiumVideo';
 
 export const RemotionRoot: React.FC = () => {
   return (
@@ -426,7 +428,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition
         id="v13"
         component={PhraseVideo}
-        durationInFrames={1800}
+        durationInFrames={1719}
         fps={30}
         width={1080}
         height={1920}
@@ -441,7 +443,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition
         id="v14"
         component={PhraseVideo}
-        durationInFrames={batch5Videos['v14']?.totalFrames ?? 1800}
+        durationInFrames={1708}
         fps={30}
         width={1080}
         height={1920}
@@ -452,31 +454,21 @@ export const RemotionRoot: React.FC = () => {
         }}
       />
 
-      {/* ─── Premium engine — scaffold composition (legacy shape) ───────── */}
-      {/* Kept so the scaffold path still renders. Reads PremiumVideoSpec. */}
+      {/* ─── Premium — PremiumHook (first proof, four mechanics inline) ─── */}
+      {/* body = full hook incl. payoff; payoff must be exact substring.     */}
+      {/* payoffFrame = frame at which withheld completion lands.            */}
       <Composition
-        id="premium-test-01"
-        component={PremiumVideoLegacy}
-        durationInFrames={premiumVideos['premium-test-01']?.totalFrames ?? 90}
+        id="PremiumHook"
+        component={PremiumVideo}
+        durationInFrames={120}
         fps={30}
         width={1080}
         height={1920}
         defaultProps={{
-          video: premiumVideos['premium-test-01'] as any,
-        }}
-      />
-
-      {/* ─── Premium engine — V12 hook (end-to-end, new schema) ─────────── */}
-      {/* Reads the authored HookScene schema. Validated on render. */}
-      <Composition
-        id="v12-premium"
-        component={PremiumVideo}
-        durationInFrames={premiumHookVideos['v12-premium']?.total_frames ?? 150}
-        fps={premiumHookVideos['v12-premium']?.fps ?? 30}
-        width={1080}
-        height={1920}
-        defaultProps={{
-          video: premiumHookVideos['v12-premium'] as any,
+          body: "Most people blame their gut.\nIt's actually their nervous system.",
+          payoff: "It's actually their nervous system.",
+          payoffFrame: 45,
+          support: 'Pattern across 12 recent consults',
         }}
       />
     </>
